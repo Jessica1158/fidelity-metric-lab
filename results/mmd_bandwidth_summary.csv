@@ -1,0 +1,16 @@
+sigma,mean_difference,rejection_rate,interpretation
+0.1,0.0,0.04,Type I error
+0.1,0.1,0.05,Power
+0.1,0.3,0.44,Power
+0.5,0.0,0.06,Type I error
+0.5,0.1,0.13,Power
+0.5,0.3,0.76,Power
+1.0,0.0,0.08,Type I error
+1.0,0.1,0.18,Power
+1.0,0.3,0.89,Power
+2.0,0.0,0.08,Type I error
+2.0,0.1,0.22,Power
+2.0,0.3,0.94,Power
+5.0,0.0,0.07,Type I error
+5.0,0.1,0.21,Power
+5.0,0.3,0.95,Power
