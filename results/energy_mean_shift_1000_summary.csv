@@ -1,0 +1,6 @@
+comparison,mean_difference,rejection_rate,interpretation,runtime_minutes
+"N(0,1) vs N(0.0,1)",0.0,0.055,Type I error,6.457203817367554
+"N(0,1) vs N(0.1,1)",0.1,0.221,Power,2.6663151462872823
+"N(0,1) vs N(0.3,1)",0.3,0.947,Power,4.281900199254354
+"N(0,1) vs N(0.5,1)",0.5,1.0,Power,3.0420761624972026
+"N(0,1) vs N(1.0,1)",1.0,1.0,Power,3.0065041184425354
