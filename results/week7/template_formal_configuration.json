@@ -1,0 +1,25 @@
+{
+    "defect": "Template Repetition",
+    "experimental_unit": "individual SMS",
+    "working_set": "same frozen 700 reference + 300 evaluation SMS split used by Over-Polished",
+    "representation": "TF-IDF word 1-2 grams, max_features=5000, L2 normalized",
+    "vectorizer_fit": "clean reference only",
+    "repetition_design": "one fixed real template per class",
+    "nested_prevalence": true,
+    "severities": [
+        0.1,
+        0.3,
+        0.6
+    ],
+    "repetitions": 200,
+    "pairs_per_repetition": 100,
+    "permutations": 100,
+    "alpha": 0.05,
+    "mmd_sigma": 1.414213562373095,
+    "sinkhorn_blur": 0.1414213562373095,
+    "sinkhorn_blur_fraction": 0.1,
+    "clean_geometric_scale": 1.414213562373095,
+    "sampling_seed_base": 42,
+    "plan_seed": 42,
+    "test_seed_base": 10000
+}

@@ -1,0 +1,3001 @@
+defect,representation,repetition,severity,precision,recall,n_affected,sample_affected_rate
+Template Repetition,TF-IDF,0,0.1,0.79,0.91,13,0.13
+Template Repetition,TF-IDF,0,0.3,0.66,0.96,31,0.31
+Template Repetition,TF-IDF,0,0.6,0.47,0.85,58,0.58
+Template Repetition,TF-IDF,1,0.1,0.73,0.93,10,0.1
+Template Repetition,TF-IDF,1,0.3,0.62,0.9,30,0.3
+Template Repetition,TF-IDF,1,0.6,0.37,0.91,63,0.63
+Template Repetition,TF-IDF,2,0.1,0.85,0.96,8,0.08
+Template Repetition,TF-IDF,2,0.3,0.66,0.94,30,0.3
+Template Repetition,TF-IDF,2,0.6,0.39,0.81,61,0.61
+Template Repetition,TF-IDF,3,0.1,0.55,0.95,8,0.08
+Template Repetition,TF-IDF,3,0.3,0.42,0.93,31,0.31
+Template Repetition,TF-IDF,3,0.6,0.21,0.88,63,0.63
+Template Repetition,TF-IDF,4,0.1,0.86,0.87,8,0.08
+Template Repetition,TF-IDF,4,0.3,0.75,0.86,23,0.23
+Template Repetition,TF-IDF,4,0.6,0.48,0.93,59,0.59
+Template Repetition,TF-IDF,5,0.1,0.77,0.87,12,0.12
+Template Repetition,TF-IDF,5,0.3,0.61,0.82,34,0.34
+Template Repetition,TF-IDF,5,0.6,0.42,0.9,65,0.65
+Template Repetition,TF-IDF,6,0.1,0.91,0.98,6,0.06
+Template Repetition,TF-IDF,6,0.3,0.94,0.96,28,0.28
+Template Repetition,TF-IDF,6,0.6,0.97,0.92,58,0.58
+Template Repetition,TF-IDF,7,0.1,0.91,0.93,5,0.05
+Template Repetition,TF-IDF,7,0.3,0.94,0.91,26,0.26
+Template Repetition,TF-IDF,7,0.6,0.96,0.9,58,0.58
+Template Repetition,TF-IDF,8,0.1,0.73,0.92,6,0.06
+Template Repetition,TF-IDF,8,0.3,0.66,0.93,20,0.2
+Template Repetition,TF-IDF,8,0.6,0.44,0.94,53,0.53
+Template Repetition,TF-IDF,9,0.1,0.54,0.91,10,0.1
+Template Repetition,TF-IDF,9,0.3,0.5,0.95,29,0.29
+Template Repetition,TF-IDF,9,0.6,0.3,0.83,65,0.65
+Template Repetition,TF-IDF,10,0.1,0.82,0.86,6,0.06
+Template Repetition,TF-IDF,10,0.3,0.65,0.85,26,0.26
+Template Repetition,TF-IDF,10,0.6,0.41,0.92,58,0.58
+Template Repetition,TF-IDF,11,0.1,0.84,0.94,6,0.06
+Template Repetition,TF-IDF,11,0.3,0.88,0.94,30,0.3
+Template Repetition,TF-IDF,11,0.6,0.91,0.91,60,0.6
+Template Repetition,TF-IDF,12,0.1,0.86,0.89,11,0.11
+Template Repetition,TF-IDF,12,0.3,0.88,0.88,31,0.31
+Template Repetition,TF-IDF,12,0.6,0.93,0.88,68,0.68
+Template Repetition,TF-IDF,13,0.1,0.52,0.9,15,0.15
+Template Repetition,TF-IDF,13,0.3,0.41,0.84,33,0.33
+Template Repetition,TF-IDF,13,0.6,0.26,0.81,61,0.61
+Template Repetition,TF-IDF,14,0.1,0.86,0.92,11,0.11
+Template Repetition,TF-IDF,14,0.3,0.91,0.92,28,0.28
+Template Repetition,TF-IDF,14,0.6,0.94,0.9,59,0.59
+Template Repetition,TF-IDF,15,0.1,0.85,0.93,10,0.1
+Template Repetition,TF-IDF,15,0.3,0.87,0.93,30,0.3
+Template Repetition,TF-IDF,15,0.6,0.93,0.94,62,0.62
+Template Repetition,TF-IDF,16,0.1,0.83,0.91,9,0.09
+Template Repetition,TF-IDF,16,0.3,0.68,0.9,29,0.29
+Template Repetition,TF-IDF,16,0.6,0.45,0.93,58,0.58
+Template Repetition,TF-IDF,17,0.1,0.77,0.9,10,0.1
+Template Repetition,TF-IDF,17,0.3,0.83,0.88,25,0.25
+Template Repetition,TF-IDF,17,0.6,0.87,0.81,59,0.59
+Template Repetition,TF-IDF,18,0.1,0.87,0.93,12,0.12
+Template Repetition,TF-IDF,18,0.3,0.91,0.9,28,0.28
+Template Repetition,TF-IDF,18,0.6,0.94,0.93,54,0.54
+Template Repetition,TF-IDF,19,0.1,0.74,0.94,6,0.06
+Template Repetition,TF-IDF,19,0.3,0.62,0.89,30,0.3
+Template Repetition,TF-IDF,19,0.6,0.47,0.88,60,0.6
+Template Repetition,TF-IDF,20,0.1,0.86,0.87,10,0.1
+Template Repetition,TF-IDF,20,0.3,0.87,0.84,28,0.28
+Template Repetition,TF-IDF,20,0.6,0.94,0.87,64,0.64
+Template Repetition,TF-IDF,21,0.1,0.81,0.95,9,0.09
+Template Repetition,TF-IDF,21,0.3,0.81,0.91,28,0.28
+Template Repetition,TF-IDF,21,0.6,0.82,0.91,56,0.56
+Template Repetition,TF-IDF,22,0.1,0.51,0.9,12,0.12
+Template Repetition,TF-IDF,22,0.3,0.41,0.9,31,0.31
+Template Repetition,TF-IDF,22,0.6,0.17,0.88,67,0.67
+Template Repetition,TF-IDF,23,0.1,0.89,0.89,14,0.14
+Template Repetition,TF-IDF,23,0.3,0.91,0.81,35,0.35
+Template Repetition,TF-IDF,23,0.6,0.94,0.92,62,0.62
+Template Repetition,TF-IDF,24,0.1,0.86,0.88,9,0.09
+Template Repetition,TF-IDF,24,0.3,0.76,0.88,22,0.22
+Template Repetition,TF-IDF,24,0.6,0.43,0.9,59,0.59
+Template Repetition,TF-IDF,25,0.1,0.83,0.94,11,0.11
+Template Repetition,TF-IDF,25,0.3,0.88,0.93,30,0.3
+Template Repetition,TF-IDF,25,0.6,0.91,0.94,55,0.55
+Template Repetition,TF-IDF,26,0.1,0.96,0.9,13,0.13
+Template Repetition,TF-IDF,26,0.3,0.97,0.94,33,0.33
+Template Repetition,TF-IDF,26,0.6,0.98,0.84,61,0.61
+Template Repetition,TF-IDF,27,0.1,0.74,0.93,10,0.1
+Template Repetition,TF-IDF,27,0.3,0.6,0.87,32,0.32
+Template Repetition,TF-IDF,27,0.6,0.38,0.9,62,0.62
+Template Repetition,TF-IDF,28,0.1,0.85,0.93,8,0.08
+Template Repetition,TF-IDF,28,0.3,0.71,0.9,25,0.25
+Template Repetition,TF-IDF,28,0.6,0.5,0.92,52,0.52
+Template Repetition,TF-IDF,29,0.1,0.71,0.95,12,0.12
+Template Repetition,TF-IDF,29,0.3,0.61,0.94,27,0.27
+Template Repetition,TF-IDF,29,0.6,0.39,0.96,58,0.58
+Template Repetition,TF-IDF,30,0.1,0.86,0.91,7,0.07
+Template Repetition,TF-IDF,30,0.3,0.89,0.89,33,0.33
+Template Repetition,TF-IDF,30,0.6,0.93,0.85,60,0.6
+Template Repetition,TF-IDF,31,0.1,0.91,0.89,8,0.08
+Template Repetition,TF-IDF,31,0.3,0.94,0.86,33,0.33
+Template Repetition,TF-IDF,31,0.6,0.98,0.91,61,0.61
+Template Repetition,TF-IDF,32,0.1,0.86,0.96,9,0.09
+Template Repetition,TF-IDF,32,0.3,0.92,0.97,34,0.34
+Template Repetition,TF-IDF,32,0.6,0.96,0.92,59,0.59
+Template Repetition,TF-IDF,33,0.1,0.77,0.94,5,0.05
+Template Repetition,TF-IDF,33,0.3,0.85,0.94,34,0.34
+Template Repetition,TF-IDF,33,0.6,0.91,0.91,62,0.62
+Template Repetition,TF-IDF,34,0.1,0.93,0.85,13,0.13
+Template Repetition,TF-IDF,34,0.3,0.93,0.87,29,0.29
+Template Repetition,TF-IDF,34,0.6,0.96,0.86,59,0.59
+Template Repetition,TF-IDF,35,0.1,0.95,0.86,12,0.12
+Template Repetition,TF-IDF,35,0.3,0.97,0.9,32,0.32
+Template Repetition,TF-IDF,35,0.6,0.99,0.89,64,0.64
+Template Repetition,TF-IDF,36,0.1,0.51,0.88,13,0.13
+Template Repetition,TF-IDF,36,0.3,0.4,0.88,32,0.32
+Template Repetition,TF-IDF,36,0.6,0.32,0.9,56,0.56
+Template Repetition,TF-IDF,37,0.1,0.94,0.8,11,0.11
+Template Repetition,TF-IDF,37,0.3,0.97,0.78,26,0.26
+Template Repetition,TF-IDF,37,0.6,0.99,0.88,65,0.65
+Template Repetition,TF-IDF,38,0.1,0.78,0.9,11,0.11
+Template Repetition,TF-IDF,38,0.3,0.6,0.84,39,0.39
+Template Repetition,TF-IDF,38,0.6,0.44,0.88,67,0.67
+Template Repetition,TF-IDF,39,0.1,0.87,0.98,8,0.08
+Template Repetition,TF-IDF,39,0.3,0.69,0.96,29,0.29
+Template Repetition,TF-IDF,39,0.6,0.46,0.99,62,0.62
+Template Repetition,TF-IDF,40,0.1,0.97,0.9,7,0.07
+Template Repetition,TF-IDF,40,0.3,0.99,0.89,28,0.28
+Template Repetition,TF-IDF,40,0.6,1.0,0.93,62,0.62
+Template Repetition,TF-IDF,41,0.1,0.89,0.92,13,0.13
+Template Repetition,TF-IDF,41,0.3,0.9,0.86,28,0.28
+Template Repetition,TF-IDF,41,0.6,0.96,0.92,58,0.58
+Template Repetition,TF-IDF,42,0.1,0.89,0.78,12,0.12
+Template Repetition,TF-IDF,42,0.3,0.92,0.77,35,0.35
+Template Repetition,TF-IDF,42,0.6,0.96,0.95,62,0.62
+Template Repetition,TF-IDF,43,0.1,0.95,0.99,14,0.14
+Template Repetition,TF-IDF,43,0.3,0.95,0.96,31,0.31
+Template Repetition,TF-IDF,43,0.6,0.98,0.88,62,0.62
+Template Repetition,TF-IDF,44,0.1,0.89,0.88,6,0.06
+Template Repetition,TF-IDF,44,0.3,0.92,0.88,27,0.27
+Template Repetition,TF-IDF,44,0.6,0.95,0.91,63,0.63
+Template Repetition,TF-IDF,45,0.1,0.9,0.81,9,0.09
+Template Repetition,TF-IDF,45,0.3,0.92,0.82,28,0.28
+Template Repetition,TF-IDF,45,0.6,0.94,0.88,63,0.63
+Template Repetition,TF-IDF,46,0.1,0.9,0.78,10,0.1
+Template Repetition,TF-IDF,46,0.3,0.93,0.82,26,0.26
+Template Repetition,TF-IDF,46,0.6,0.95,0.91,58,0.58
+Template Repetition,TF-IDF,47,0.1,0.8,0.87,8,0.08
+Template Repetition,TF-IDF,47,0.3,0.64,0.86,29,0.29
+Template Repetition,TF-IDF,47,0.6,0.43,0.89,57,0.57
+Template Repetition,TF-IDF,48,0.1,0.8,0.83,10,0.1
+Template Repetition,TF-IDF,48,0.3,0.67,0.78,29,0.29
+Template Repetition,TF-IDF,48,0.6,0.43,0.93,62,0.62
+Template Repetition,TF-IDF,49,0.1,0.97,0.86,14,0.14
+Template Repetition,TF-IDF,49,0.3,0.98,0.78,33,0.33
+Template Repetition,TF-IDF,49,0.6,0.99,0.88,55,0.55
+Template Repetition,TF-IDF,50,0.1,0.94,0.79,9,0.09
+Template Repetition,TF-IDF,50,0.3,0.96,0.76,28,0.28
+Template Repetition,TF-IDF,50,0.6,0.98,0.94,57,0.57
+Template Repetition,TF-IDF,51,0.1,0.69,0.96,13,0.13
+Template Repetition,TF-IDF,51,0.3,0.57,0.95,31,0.31
+Template Repetition,TF-IDF,51,0.6,0.46,0.92,53,0.53
+Template Repetition,TF-IDF,52,0.1,0.63,0.99,10,0.1
+Template Repetition,TF-IDF,52,0.3,0.52,0.94,32,0.32
+Template Repetition,TF-IDF,52,0.6,0.35,0.9,65,0.65
+Template Repetition,TF-IDF,53,0.1,0.89,0.88,7,0.07
+Template Repetition,TF-IDF,53,0.3,0.93,0.92,29,0.29
+Template Repetition,TF-IDF,53,0.6,0.96,0.89,54,0.54
+Template Repetition,TF-IDF,54,0.1,0.78,0.94,10,0.1
+Template Repetition,TF-IDF,54,0.3,0.66,0.97,28,0.28
+Template Repetition,TF-IDF,54,0.6,0.45,0.88,57,0.57
+Template Repetition,TF-IDF,55,0.1,0.8,0.87,12,0.12
+Template Repetition,TF-IDF,55,0.3,0.67,0.86,31,0.31
+Template Repetition,TF-IDF,55,0.6,0.47,0.9,53,0.53
+Template Repetition,TF-IDF,56,0.1,0.81,0.94,8,0.08
+Template Repetition,TF-IDF,56,0.3,0.7,0.91,26,0.26
+Template Repetition,TF-IDF,56,0.6,0.46,0.92,58,0.58
+Template Repetition,TF-IDF,57,0.1,0.76,0.87,10,0.1
+Template Repetition,TF-IDF,57,0.3,0.55,0.91,40,0.4
+Template Repetition,TF-IDF,57,0.6,0.36,0.91,66,0.66
+Template Repetition,TF-IDF,58,0.1,0.89,0.85,8,0.08
+Template Repetition,TF-IDF,58,0.3,0.9,0.83,29,0.29
+Template Repetition,TF-IDF,58,0.6,0.95,0.89,58,0.58
+Template Repetition,TF-IDF,59,0.1,0.81,0.91,14,0.14
+Template Repetition,TF-IDF,59,0.3,0.85,0.87,32,0.32
+Template Repetition,TF-IDF,59,0.6,0.91,0.91,60,0.6
+Template Repetition,TF-IDF,60,0.1,0.84,0.88,12,0.12
+Template Repetition,TF-IDF,60,0.3,0.63,0.91,38,0.38
+Template Repetition,TF-IDF,60,0.6,0.44,0.92,63,0.63
+Template Repetition,TF-IDF,61,0.1,0.94,0.95,13,0.13
+Template Repetition,TF-IDF,61,0.3,0.96,0.95,34,0.34
+Template Repetition,TF-IDF,61,0.6,0.98,0.92,61,0.61
+Template Repetition,TF-IDF,62,0.1,0.71,0.96,6,0.06
+Template Repetition,TF-IDF,62,0.3,0.59,0.93,27,0.27
+Template Repetition,TF-IDF,62,0.6,0.35,0.84,59,0.59
+Template Repetition,TF-IDF,63,0.1,0.76,0.94,9,0.09
+Template Repetition,TF-IDF,63,0.3,0.62,0.93,30,0.3
+Template Repetition,TF-IDF,63,0.6,0.4,0.88,58,0.58
+Template Repetition,TF-IDF,64,0.1,0.9,0.88,8,0.08
+Template Repetition,TF-IDF,64,0.3,0.92,0.85,32,0.32
+Template Repetition,TF-IDF,64,0.6,0.99,0.95,65,0.65
+Template Repetition,TF-IDF,65,0.1,0.82,0.89,10,0.1
+Template Repetition,TF-IDF,65,0.3,0.67,0.89,31,0.31
+Template Repetition,TF-IDF,65,0.6,0.43,0.88,62,0.62
+Template Repetition,TF-IDF,66,0.1,0.8,0.93,11,0.11
+Template Repetition,TF-IDF,66,0.3,0.6,0.87,37,0.37
+Template Repetition,TF-IDF,66,0.6,0.41,0.91,63,0.63
+Template Repetition,TF-IDF,67,0.1,0.81,0.88,13,0.13
+Template Repetition,TF-IDF,67,0.3,0.61,0.83,35,0.35
+Template Repetition,TF-IDF,67,0.6,0.39,0.85,64,0.64
+Template Repetition,TF-IDF,68,0.1,0.77,0.89,8,0.08
+Template Repetition,TF-IDF,68,0.3,0.63,0.89,31,0.31
+Template Repetition,TF-IDF,68,0.6,0.41,0.93,62,0.62
+Template Repetition,TF-IDF,69,0.1,0.81,0.77,12,0.12
+Template Repetition,TF-IDF,69,0.3,0.85,0.77,32,0.32
+Template Repetition,TF-IDF,69,0.6,0.92,0.9,59,0.59
+Template Repetition,TF-IDF,70,0.1,0.89,0.88,11,0.11
+Template Repetition,TF-IDF,70,0.3,0.9,0.79,34,0.34
+Template Repetition,TF-IDF,70,0.6,0.95,0.84,64,0.64
+Template Repetition,TF-IDF,71,0.1,0.9,0.82,11,0.11
+Template Repetition,TF-IDF,71,0.3,0.94,0.81,36,0.36
+Template Repetition,TF-IDF,71,0.6,0.97,0.92,61,0.61
+Template Repetition,TF-IDF,72,0.1,0.74,0.88,12,0.12
+Template Repetition,TF-IDF,72,0.3,0.67,0.9,26,0.26
+Template Repetition,TF-IDF,72,0.6,0.48,0.89,51,0.51
+Template Repetition,TF-IDF,73,0.1,0.95,0.9,9,0.09
+Template Repetition,TF-IDF,73,0.3,0.98,0.92,27,0.27
+Template Repetition,TF-IDF,73,0.6,0.98,0.9,63,0.63
+Template Repetition,TF-IDF,74,0.1,0.88,0.92,8,0.08
+Template Repetition,TF-IDF,74,0.3,0.9,0.9,30,0.3
+Template Repetition,TF-IDF,74,0.6,0.93,0.84,58,0.58
+Template Repetition,TF-IDF,75,0.1,0.9,0.84,12,0.12
+Template Repetition,TF-IDF,75,0.3,0.91,0.85,32,0.32
+Template Repetition,TF-IDF,75,0.6,0.93,0.91,60,0.6
+Template Repetition,TF-IDF,76,0.1,0.96,0.89,12,0.12
+Template Repetition,TF-IDF,76,0.3,0.97,0.82,32,0.32
+Template Repetition,TF-IDF,76,0.6,0.98,0.91,57,0.57
+Template Repetition,TF-IDF,77,0.1,0.87,0.95,8,0.08
+Template Repetition,TF-IDF,77,0.3,0.9,0.96,26,0.26
+Template Repetition,TF-IDF,77,0.6,0.97,0.95,58,0.58
+Template Repetition,TF-IDF,78,0.1,0.82,0.83,13,0.13
+Template Repetition,TF-IDF,78,0.3,0.85,0.79,33,0.33
+Template Repetition,TF-IDF,78,0.6,0.89,0.9,57,0.57
+Template Repetition,TF-IDF,79,0.1,0.66,0.82,14,0.14
+Template Repetition,TF-IDF,79,0.3,0.7,0.82,34,0.34
+Template Repetition,TF-IDF,79,0.6,0.78,0.84,60,0.6
+Template Repetition,TF-IDF,80,0.1,0.92,0.89,9,0.09
+Template Repetition,TF-IDF,80,0.3,0.95,0.88,31,0.31
+Template Repetition,TF-IDF,80,0.6,0.98,0.9,61,0.61
+Template Repetition,TF-IDF,81,0.1,0.77,0.92,11,0.11
+Template Repetition,TF-IDF,81,0.3,0.59,0.9,36,0.36
+Template Repetition,TF-IDF,81,0.6,0.34,0.89,64,0.64
+Template Repetition,TF-IDF,82,0.1,0.85,0.92,9,0.09
+Template Repetition,TF-IDF,82,0.3,0.9,0.93,30,0.3
+Template Repetition,TF-IDF,82,0.6,0.95,0.95,59,0.59
+Template Repetition,TF-IDF,83,0.1,0.82,0.82,11,0.11
+Template Repetition,TF-IDF,83,0.3,0.63,0.8,34,0.34
+Template Repetition,TF-IDF,83,0.6,0.37,0.89,62,0.62
+Template Repetition,TF-IDF,84,0.1,0.83,0.88,8,0.08
+Template Repetition,TF-IDF,84,0.3,0.89,0.89,31,0.31
+Template Repetition,TF-IDF,84,0.6,0.94,0.88,62,0.62
+Template Repetition,TF-IDF,85,0.1,0.89,0.92,7,0.07
+Template Repetition,TF-IDF,85,0.3,0.92,0.87,31,0.31
+Template Repetition,TF-IDF,85,0.6,0.95,0.88,61,0.61
+Template Repetition,TF-IDF,86,0.1,0.86,0.9,15,0.15
+Template Repetition,TF-IDF,86,0.3,0.89,0.87,30,0.3
+Template Repetition,TF-IDF,86,0.6,0.94,0.84,58,0.58
+Template Repetition,TF-IDF,87,0.1,0.74,0.91,13,0.13
+Template Repetition,TF-IDF,87,0.3,0.63,0.9,33,0.33
+Template Repetition,TF-IDF,87,0.6,0.4,0.93,61,0.61
+Template Repetition,TF-IDF,88,0.1,0.83,0.96,9,0.09
+Template Repetition,TF-IDF,88,0.3,0.86,0.94,27,0.27
+Template Repetition,TF-IDF,88,0.6,0.88,0.92,60,0.6
+Template Repetition,TF-IDF,89,0.1,0.74,0.91,13,0.13
+Template Repetition,TF-IDF,89,0.3,0.64,0.9,33,0.33
+Template Repetition,TF-IDF,89,0.6,0.38,0.85,64,0.64
+Template Repetition,TF-IDF,90,0.1,0.95,0.82,10,0.1
+Template Repetition,TF-IDF,90,0.3,0.95,0.78,29,0.29
+Template Repetition,TF-IDF,90,0.6,0.99,0.91,60,0.6
+Template Repetition,TF-IDF,91,0.1,0.78,0.91,11,0.11
+Template Repetition,TF-IDF,91,0.3,0.65,0.89,27,0.27
+Template Repetition,TF-IDF,91,0.6,0.5,0.89,52,0.52
+Template Repetition,TF-IDF,92,0.1,0.57,0.94,10,0.1
+Template Repetition,TF-IDF,92,0.3,0.46,0.93,30,0.3
+Template Repetition,TF-IDF,92,0.6,0.28,0.94,55,0.55
+Template Repetition,TF-IDF,93,0.1,0.51,0.99,7,0.07
+Template Repetition,TF-IDF,93,0.3,0.42,0.94,24,0.24
+Template Repetition,TF-IDF,93,0.6,0.26,0.91,54,0.54
+Template Repetition,TF-IDF,94,0.1,0.69,0.91,9,0.09
+Template Repetition,TF-IDF,94,0.3,0.53,0.92,30,0.3
+Template Repetition,TF-IDF,94,0.6,0.36,0.91,57,0.57
+Template Repetition,TF-IDF,95,0.1,0.87,0.93,5,0.05
+Template Repetition,TF-IDF,95,0.3,0.9,0.94,24,0.24
+Template Repetition,TF-IDF,95,0.6,0.92,0.93,58,0.58
+Template Repetition,TF-IDF,96,0.1,0.84,0.82,9,0.09
+Template Repetition,TF-IDF,96,0.3,0.66,0.79,31,0.31
+Template Repetition,TF-IDF,96,0.6,0.42,0.86,58,0.58
+Template Repetition,TF-IDF,97,0.1,0.97,0.81,7,0.07
+Template Repetition,TF-IDF,97,0.3,0.97,0.85,31,0.31
+Template Repetition,TF-IDF,97,0.6,0.98,0.91,66,0.66
+Template Repetition,TF-IDF,98,0.1,0.76,0.94,7,0.07
+Template Repetition,TF-IDF,98,0.3,0.66,0.9,29,0.29
+Template Repetition,TF-IDF,98,0.6,0.48,0.91,53,0.53
+Template Repetition,TF-IDF,99,0.1,0.94,0.88,10,0.1
+Template Repetition,TF-IDF,99,0.3,0.94,0.91,33,0.33
+Template Repetition,TF-IDF,99,0.6,0.98,0.88,61,0.61
+Template Repetition,TF-IDF,100,0.1,0.64,0.88,7,0.07
+Template Repetition,TF-IDF,100,0.3,0.53,0.85,32,0.32
+Template Repetition,TF-IDF,100,0.6,0.38,0.81,58,0.58
+Template Repetition,TF-IDF,101,0.1,0.8,0.95,10,0.1
+Template Repetition,TF-IDF,101,0.3,0.69,0.93,30,0.3
+Template Repetition,TF-IDF,101,0.6,0.49,0.88,56,0.56
+Template Repetition,TF-IDF,102,0.1,0.93,0.92,13,0.13
+Template Repetition,TF-IDF,102,0.3,0.96,0.9,32,0.32
+Template Repetition,TF-IDF,102,0.6,0.98,0.93,56,0.56
+Template Repetition,TF-IDF,103,0.1,0.94,0.88,13,0.13
+Template Repetition,TF-IDF,103,0.3,0.95,0.82,28,0.28
+Template Repetition,TF-IDF,103,0.6,0.98,0.91,61,0.61
+Template Repetition,TF-IDF,104,0.1,0.89,0.79,10,0.1
+Template Repetition,TF-IDF,104,0.3,0.94,0.73,33,0.33
+Template Repetition,TF-IDF,104,0.6,0.96,0.85,62,0.62
+Template Repetition,TF-IDF,105,0.1,0.76,0.92,8,0.08
+Template Repetition,TF-IDF,105,0.3,0.61,0.96,32,0.32
+Template Repetition,TF-IDF,105,0.6,0.43,0.89,58,0.58
+Template Repetition,TF-IDF,106,0.1,0.97,0.94,10,0.1
+Template Repetition,TF-IDF,106,0.3,0.97,0.93,31,0.31
+Template Repetition,TF-IDF,106,0.6,0.98,0.89,59,0.59
+Template Repetition,TF-IDF,107,0.1,0.86,0.93,11,0.11
+Template Repetition,TF-IDF,107,0.3,0.9,0.91,28,0.28
+Template Repetition,TF-IDF,107,0.6,0.95,0.85,63,0.63
+Template Repetition,TF-IDF,108,0.1,0.7,0.92,10,0.1
+Template Repetition,TF-IDF,108,0.3,0.54,0.89,32,0.32
+Template Repetition,TF-IDF,108,0.6,0.4,0.95,59,0.59
+Template Repetition,TF-IDF,109,0.1,0.8,0.92,10,0.1
+Template Repetition,TF-IDF,109,0.3,0.66,0.93,28,0.28
+Template Repetition,TF-IDF,109,0.6,0.39,0.96,63,0.63
+Template Repetition,TF-IDF,110,0.1,0.59,0.9,14,0.14
+Template Repetition,TF-IDF,110,0.3,0.44,0.91,39,0.39
+Template Repetition,TF-IDF,110,0.6,0.3,0.92,68,0.68
+Template Repetition,TF-IDF,111,0.1,0.87,0.86,11,0.11
+Template Repetition,TF-IDF,111,0.3,0.9,0.83,36,0.36
+Template Repetition,TF-IDF,111,0.6,0.97,0.9,65,0.65
+Template Repetition,TF-IDF,112,0.1,0.86,0.85,11,0.11
+Template Repetition,TF-IDF,112,0.3,0.89,0.88,33,0.33
+Template Repetition,TF-IDF,112,0.6,0.94,0.88,68,0.68
+Template Repetition,TF-IDF,113,0.1,0.87,0.89,10,0.1
+Template Repetition,TF-IDF,113,0.3,0.9,0.88,31,0.31
+Template Repetition,TF-IDF,113,0.6,0.96,0.92,62,0.62
+Template Repetition,TF-IDF,114,0.1,0.83,0.97,6,0.06
+Template Repetition,TF-IDF,114,0.3,0.66,0.94,29,0.29
+Template Repetition,TF-IDF,114,0.6,0.43,0.83,62,0.62
+Template Repetition,TF-IDF,115,0.1,0.74,0.95,13,0.13
+Template Repetition,TF-IDF,115,0.3,0.57,0.88,38,0.38
+Template Repetition,TF-IDF,115,0.6,0.35,0.89,65,0.65
+Template Repetition,TF-IDF,116,0.1,0.95,0.82,15,0.15
+Template Repetition,TF-IDF,116,0.3,0.96,0.8,34,0.34
+Template Repetition,TF-IDF,116,0.6,0.98,0.87,62,0.62
+Template Repetition,TF-IDF,117,0.1,0.93,0.91,8,0.08
+Template Repetition,TF-IDF,117,0.3,0.94,0.9,25,0.25
+Template Repetition,TF-IDF,117,0.6,0.96,0.89,60,0.6
+Template Repetition,TF-IDF,118,0.1,0.79,0.91,11,0.11
+Template Repetition,TF-IDF,118,0.3,0.63,0.87,30,0.3
+Template Repetition,TF-IDF,118,0.6,0.41,0.85,56,0.56
+Template Repetition,TF-IDF,119,0.1,0.91,0.94,5,0.05
+Template Repetition,TF-IDF,119,0.3,0.92,0.93,23,0.23
+Template Repetition,TF-IDF,119,0.6,0.96,0.89,53,0.53
+Template Repetition,TF-IDF,120,0.1,0.69,0.93,11,0.11
+Template Repetition,TF-IDF,120,0.3,0.61,0.94,27,0.27
+Template Repetition,TF-IDF,120,0.6,0.4,0.95,62,0.62
+Template Repetition,TF-IDF,121,0.1,0.79,0.92,12,0.12
+Template Repetition,TF-IDF,121,0.3,0.84,0.94,27,0.27
+Template Repetition,TF-IDF,121,0.6,0.91,0.94,59,0.59
+Template Repetition,TF-IDF,122,0.1,0.57,0.93,7,0.07
+Template Repetition,TF-IDF,122,0.3,0.44,0.92,32,0.32
+Template Repetition,TF-IDF,122,0.6,0.24,0.88,60,0.6
+Template Repetition,TF-IDF,123,0.1,0.77,0.9,15,0.15
+Template Repetition,TF-IDF,123,0.3,0.64,0.91,29,0.29
+Template Repetition,TF-IDF,123,0.6,0.4,0.94,57,0.57
+Template Repetition,TF-IDF,124,0.1,0.91,0.93,5,0.05
+Template Repetition,TF-IDF,124,0.3,0.94,0.9,30,0.3
+Template Repetition,TF-IDF,124,0.6,0.97,0.91,63,0.63
+Template Repetition,TF-IDF,125,0.1,0.77,0.89,10,0.1
+Template Repetition,TF-IDF,125,0.3,0.59,0.86,33,0.33
+Template Repetition,TF-IDF,125,0.6,0.4,0.92,62,0.62
+Template Repetition,TF-IDF,126,0.1,0.88,0.97,9,0.09
+Template Repetition,TF-IDF,126,0.3,0.92,0.9,27,0.27
+Template Repetition,TF-IDF,126,0.6,0.95,0.92,57,0.57
+Template Repetition,TF-IDF,127,0.1,0.89,0.81,8,0.08
+Template Repetition,TF-IDF,127,0.3,0.92,0.85,29,0.29
+Template Repetition,TF-IDF,127,0.6,0.94,0.91,54,0.54
+Template Repetition,TF-IDF,128,0.1,0.7,0.98,6,0.06
+Template Repetition,TF-IDF,128,0.3,0.61,0.97,28,0.28
+Template Repetition,TF-IDF,128,0.6,0.4,0.94,60,0.6
+Template Repetition,TF-IDF,129,0.1,0.9,0.9,5,0.05
+Template Repetition,TF-IDF,129,0.3,0.74,0.91,26,0.26
+Template Repetition,TF-IDF,129,0.6,0.55,0.9,53,0.53
+Template Repetition,TF-IDF,130,0.1,0.91,0.91,12,0.12
+Template Repetition,TF-IDF,130,0.3,0.93,0.97,31,0.31
+Template Repetition,TF-IDF,130,0.6,0.96,0.93,62,0.62
+Template Repetition,TF-IDF,131,0.1,0.86,0.92,10,0.1
+Template Repetition,TF-IDF,131,0.3,0.87,0.89,25,0.25
+Template Repetition,TF-IDF,131,0.6,0.91,0.86,58,0.58
+Template Repetition,TF-IDF,132,0.1,0.95,0.85,13,0.13
+Template Repetition,TF-IDF,132,0.3,0.95,0.89,27,0.27
+Template Repetition,TF-IDF,132,0.6,0.97,0.89,60,0.6
+Template Repetition,TF-IDF,133,0.1,0.94,0.84,5,0.05
+Template Repetition,TF-IDF,133,0.3,0.95,0.86,29,0.29
+Template Repetition,TF-IDF,133,0.6,0.98,0.87,57,0.57
+Template Repetition,TF-IDF,134,0.1,0.93,0.88,9,0.09
+Template Repetition,TF-IDF,134,0.3,0.94,0.84,29,0.29
+Template Repetition,TF-IDF,134,0.6,0.97,0.85,58,0.58
+Template Repetition,TF-IDF,135,0.1,0.68,0.91,11,0.11
+Template Repetition,TF-IDF,135,0.3,0.5,0.88,33,0.33
+Template Repetition,TF-IDF,135,0.6,0.31,0.88,61,0.61
+Template Repetition,TF-IDF,136,0.1,0.87,0.8,8,0.08
+Template Repetition,TF-IDF,136,0.3,0.68,0.79,30,0.3
+Template Repetition,TF-IDF,136,0.6,0.37,0.83,67,0.67
+Template Repetition,TF-IDF,137,0.1,0.96,0.81,9,0.09
+Template Repetition,TF-IDF,137,0.3,1.0,0.79,35,0.35
+Template Repetition,TF-IDF,137,0.6,1.0,0.92,64,0.64
+Template Repetition,TF-IDF,138,0.1,0.84,0.91,7,0.07
+Template Repetition,TF-IDF,138,0.3,0.88,0.85,29,0.29
+Template Repetition,TF-IDF,138,0.6,0.95,0.91,60,0.6
+Template Repetition,TF-IDF,139,0.1,0.72,0.95,12,0.12
+Template Repetition,TF-IDF,139,0.3,0.56,0.92,31,0.31
+Template Repetition,TF-IDF,139,0.6,0.38,0.86,59,0.59
+Template Repetition,TF-IDF,140,0.1,0.85,0.89,11,0.11
+Template Repetition,TF-IDF,140,0.3,0.87,0.95,33,0.33
+Template Repetition,TF-IDF,140,0.6,0.96,0.9,62,0.62
+Template Repetition,TF-IDF,141,0.1,0.82,0.86,12,0.12
+Template Repetition,TF-IDF,141,0.3,0.64,0.85,32,0.32
+Template Repetition,TF-IDF,141,0.6,0.38,0.93,63,0.63
+Template Repetition,TF-IDF,142,0.1,0.92,0.92,14,0.14
+Template Repetition,TF-IDF,142,0.3,0.93,0.93,31,0.31
+Template Repetition,TF-IDF,142,0.6,0.96,0.85,57,0.57
+Template Repetition,TF-IDF,143,0.1,0.69,0.9,9,0.09
+Template Repetition,TF-IDF,143,0.3,0.62,0.91,24,0.24
+Template Repetition,TF-IDF,143,0.6,0.38,0.92,63,0.63
+Template Repetition,TF-IDF,144,0.1,0.79,0.84,10,0.1
+Template Repetition,TF-IDF,144,0.3,0.69,0.85,28,0.28
+Template Repetition,TF-IDF,144,0.6,0.45,0.91,59,0.59
+Template Repetition,TF-IDF,145,0.1,0.96,0.92,12,0.12
+Template Repetition,TF-IDF,145,0.3,0.96,0.91,35,0.35
+Template Repetition,TF-IDF,145,0.6,0.98,0.88,63,0.63
+Template Repetition,TF-IDF,146,0.1,0.77,0.91,9,0.09
+Template Repetition,TF-IDF,146,0.3,0.67,0.89,25,0.25
+Template Repetition,TF-IDF,146,0.6,0.45,0.94,58,0.58
+Template Repetition,TF-IDF,147,0.1,0.7,0.9,13,0.13
+Template Repetition,TF-IDF,147,0.3,0.59,0.87,32,0.32
+Template Repetition,TF-IDF,147,0.6,0.39,0.89,60,0.6
+Template Repetition,TF-IDF,148,0.1,0.72,0.93,10,0.1
+Template Repetition,TF-IDF,148,0.3,0.78,0.95,28,0.28
+Template Repetition,TF-IDF,148,0.6,0.9,0.91,61,0.61
+Template Repetition,TF-IDF,149,0.1,0.94,0.8,10,0.1
+Template Repetition,TF-IDF,149,0.3,0.96,0.8,30,0.3
+Template Repetition,TF-IDF,149,0.6,0.98,0.85,65,0.65
+Template Repetition,TF-IDF,150,0.1,0.95,0.93,8,0.08
+Template Repetition,TF-IDF,150,0.3,0.97,0.91,27,0.27
+Template Repetition,TF-IDF,150,0.6,0.97,0.93,59,0.59
+Template Repetition,TF-IDF,151,0.1,0.9,0.86,12,0.12
+Template Repetition,TF-IDF,151,0.3,0.94,0.9,33,0.33
+Template Repetition,TF-IDF,151,0.6,0.97,0.88,55,0.55
+Template Repetition,TF-IDF,152,0.1,0.84,0.89,13,0.13
+Template Repetition,TF-IDF,152,0.3,0.69,0.89,34,0.34
+Template Repetition,TF-IDF,152,0.6,0.46,0.83,64,0.64
+Template Repetition,TF-IDF,153,0.1,0.91,0.95,11,0.11
+Template Repetition,TF-IDF,153,0.3,0.96,0.93,34,0.34
+Template Repetition,TF-IDF,153,0.6,0.98,0.87,62,0.62
+Template Repetition,TF-IDF,154,0.1,0.95,0.93,14,0.14
+Template Repetition,TF-IDF,154,0.3,0.96,0.87,30,0.3
+Template Repetition,TF-IDF,154,0.6,0.99,0.91,60,0.6
+Template Repetition,TF-IDF,155,0.1,0.83,0.87,10,0.1
+Template Repetition,TF-IDF,155,0.3,0.71,0.85,27,0.27
+Template Repetition,TF-IDF,155,0.6,0.44,0.91,61,0.61
+Template Repetition,TF-IDF,156,0.1,0.96,0.86,11,0.11
+Template Repetition,TF-IDF,156,0.3,0.98,0.9,31,0.31
+Template Repetition,TF-IDF,156,0.6,0.98,0.9,59,0.59
+Template Repetition,TF-IDF,157,0.1,0.76,0.93,10,0.1
+Template Repetition,TF-IDF,157,0.3,0.61,0.92,30,0.3
+Template Repetition,TF-IDF,157,0.6,0.38,0.93,61,0.61
+Template Repetition,TF-IDF,158,0.1,0.91,0.93,10,0.1
+Template Repetition,TF-IDF,158,0.3,0.91,0.93,30,0.3
+Template Repetition,TF-IDF,158,0.6,0.97,0.87,59,0.59
+Template Repetition,TF-IDF,159,0.1,0.76,0.93,14,0.14
+Template Repetition,TF-IDF,159,0.3,0.78,0.92,36,0.36
+Template Repetition,TF-IDF,159,0.6,0.84,0.87,65,0.65
+Template Repetition,TF-IDF,160,0.1,0.93,0.94,10,0.1
+Template Repetition,TF-IDF,160,0.3,0.95,0.88,31,0.31
+Template Repetition,TF-IDF,160,0.6,0.97,0.88,61,0.61
+Template Repetition,TF-IDF,161,0.1,0.75,0.87,9,0.09
+Template Repetition,TF-IDF,161,0.3,0.64,0.86,27,0.27
+Template Repetition,TF-IDF,161,0.6,0.42,0.84,59,0.59
+Template Repetition,TF-IDF,162,0.1,0.64,0.94,12,0.12
+Template Repetition,TF-IDF,162,0.3,0.51,0.92,38,0.38
+Template Repetition,TF-IDF,162,0.6,0.34,0.91,65,0.65
+Template Repetition,TF-IDF,163,0.1,0.85,0.86,11,0.11
+Template Repetition,TF-IDF,163,0.3,0.73,0.89,25,0.25
+Template Repetition,TF-IDF,163,0.6,0.42,0.92,62,0.62
+Template Repetition,TF-IDF,164,0.1,0.9,0.95,8,0.08
+Template Repetition,TF-IDF,164,0.3,0.92,0.94,31,0.31
+Template Repetition,TF-IDF,164,0.6,0.96,0.84,62,0.62
+Template Repetition,TF-IDF,165,0.1,0.94,0.78,10,0.1
+Template Repetition,TF-IDF,165,0.3,0.94,0.83,25,0.25
+Template Repetition,TF-IDF,165,0.6,0.96,0.9,61,0.61
+Template Repetition,TF-IDF,166,0.1,0.62,0.94,9,0.09
+Template Repetition,TF-IDF,166,0.3,0.51,0.87,30,0.3
+Template Repetition,TF-IDF,166,0.6,0.41,0.91,55,0.55
+Template Repetition,TF-IDF,167,0.1,0.96,0.95,11,0.11
+Template Repetition,TF-IDF,167,0.3,0.98,0.94,35,0.35
+Template Repetition,TF-IDF,167,0.6,0.98,0.92,67,0.67
+Template Repetition,TF-IDF,168,0.1,0.8,0.92,11,0.11
+Template Repetition,TF-IDF,168,0.3,0.65,0.84,30,0.3
+Template Repetition,TF-IDF,168,0.6,0.4,0.86,65,0.65
+Template Repetition,TF-IDF,169,0.1,0.97,0.85,12,0.12
+Template Repetition,TF-IDF,169,0.3,0.98,0.82,36,0.36
+Template Repetition,TF-IDF,169,0.6,0.98,0.89,67,0.67
+Template Repetition,TF-IDF,170,0.1,0.87,0.83,10,0.1
+Template Repetition,TF-IDF,170,0.3,0.69,0.87,33,0.33
+Template Repetition,TF-IDF,170,0.6,0.52,0.82,58,0.58
+Template Repetition,TF-IDF,171,0.1,0.95,0.85,11,0.11
+Template Repetition,TF-IDF,171,0.3,0.95,0.89,26,0.26
+Template Repetition,TF-IDF,171,0.6,0.97,0.86,66,0.66
+Template Repetition,TF-IDF,172,0.1,0.94,0.93,6,0.06
+Template Repetition,TF-IDF,172,0.3,0.95,0.92,28,0.28
+Template Repetition,TF-IDF,172,0.6,0.98,0.9,60,0.6
+Template Repetition,TF-IDF,173,0.1,0.77,0.93,10,0.1
+Template Repetition,TF-IDF,173,0.3,0.66,0.92,32,0.32
+Template Repetition,TF-IDF,173,0.6,0.42,0.89,63,0.63
+Template Repetition,TF-IDF,174,0.1,0.67,0.9,5,0.05
+Template Repetition,TF-IDF,174,0.3,0.57,0.93,23,0.23
+Template Repetition,TF-IDF,174,0.6,0.31,0.89,59,0.59
+Template Repetition,TF-IDF,175,0.1,0.72,0.83,8,0.08
+Template Repetition,TF-IDF,175,0.3,0.58,0.82,34,0.34
+Template Repetition,TF-IDF,175,0.6,0.33,0.86,69,0.69
+Template Repetition,TF-IDF,176,0.1,0.57,0.94,8,0.08
+Template Repetition,TF-IDF,176,0.3,0.42,0.91,28,0.28
+Template Repetition,TF-IDF,176,0.6,0.28,0.88,55,0.55
+Template Repetition,TF-IDF,177,0.1,0.93,0.84,7,0.07
+Template Repetition,TF-IDF,177,0.3,0.96,0.85,32,0.32
+Template Repetition,TF-IDF,177,0.6,0.98,0.93,67,0.67
+Template Repetition,TF-IDF,178,0.1,0.83,0.76,14,0.14
+Template Repetition,TF-IDF,178,0.3,0.67,0.76,36,0.36
+Template Repetition,TF-IDF,178,0.6,0.4,0.92,70,0.7
+Template Repetition,TF-IDF,179,0.1,0.73,0.9,12,0.12
+Template Repetition,TF-IDF,179,0.3,0.78,0.89,28,0.28
+Template Repetition,TF-IDF,179,0.6,0.85,0.85,51,0.51
+Template Repetition,TF-IDF,180,0.1,0.96,0.93,12,0.12
+Template Repetition,TF-IDF,180,0.3,0.97,0.94,34,0.34
+Template Repetition,TF-IDF,180,0.6,0.99,0.87,66,0.66
+Template Repetition,TF-IDF,181,0.1,0.93,0.85,11,0.11
+Template Repetition,TF-IDF,181,0.3,0.95,0.81,29,0.29
+Template Repetition,TF-IDF,181,0.6,0.97,0.85,64,0.64
+Template Repetition,TF-IDF,182,0.1,0.79,0.9,13,0.13
+Template Repetition,TF-IDF,182,0.3,0.88,0.88,34,0.34
+Template Repetition,TF-IDF,182,0.6,0.95,0.92,63,0.63
+Template Repetition,TF-IDF,183,0.1,0.83,0.95,10,0.1
+Template Repetition,TF-IDF,183,0.3,0.64,0.92,34,0.34
+Template Repetition,TF-IDF,183,0.6,0.41,0.84,61,0.61
+Template Repetition,TF-IDF,184,0.1,0.93,0.85,11,0.11
+Template Repetition,TF-IDF,184,0.3,0.95,0.79,34,0.34
+Template Repetition,TF-IDF,184,0.6,0.96,0.82,58,0.58
+Template Repetition,TF-IDF,185,0.1,0.86,0.81,11,0.11
+Template Repetition,TF-IDF,185,0.3,0.91,0.86,32,0.32
+Template Repetition,TF-IDF,185,0.6,0.95,0.92,70,0.7
+Template Repetition,TF-IDF,186,0.1,0.93,0.96,10,0.1
+Template Repetition,TF-IDF,186,0.3,0.94,0.94,34,0.34
+Template Repetition,TF-IDF,186,0.6,0.97,0.91,62,0.62
+Template Repetition,TF-IDF,187,0.1,0.58,0.91,12,0.12
+Template Repetition,TF-IDF,187,0.3,0.5,0.93,31,0.31
+Template Repetition,TF-IDF,187,0.6,0.38,0.92,56,0.56
+Template Repetition,TF-IDF,188,0.1,0.92,0.93,11,0.11
+Template Repetition,TF-IDF,188,0.3,0.92,0.89,28,0.28
+Template Repetition,TF-IDF,188,0.6,0.96,0.86,61,0.61
+Template Repetition,TF-IDF,189,0.1,0.88,0.98,10,0.1
+Template Repetition,TF-IDF,189,0.3,0.89,0.9,32,0.32
+Template Repetition,TF-IDF,189,0.6,0.93,0.86,64,0.64
+Template Repetition,TF-IDF,190,0.1,0.63,0.96,11,0.11
+Template Repetition,TF-IDF,190,0.3,0.54,0.96,31,0.31
+Template Repetition,TF-IDF,190,0.6,0.37,0.96,60,0.6
+Template Repetition,TF-IDF,191,0.1,0.88,0.8,8,0.08
+Template Repetition,TF-IDF,191,0.3,0.72,0.8,29,0.29
+Template Repetition,TF-IDF,191,0.6,0.41,0.89,62,0.62
+Template Repetition,TF-IDF,192,0.1,0.75,0.91,10,0.1
+Template Repetition,TF-IDF,192,0.3,0.64,0.89,35,0.35
+Template Repetition,TF-IDF,192,0.6,0.41,0.84,66,0.66
+Template Repetition,TF-IDF,193,0.1,0.92,0.93,6,0.06
+Template Repetition,TF-IDF,193,0.3,0.79,0.91,25,0.25
+Template Repetition,TF-IDF,193,0.6,0.53,0.9,57,0.57
+Template Repetition,TF-IDF,194,0.1,0.94,0.82,8,0.08
+Template Repetition,TF-IDF,194,0.3,0.95,0.82,17,0.17
+Template Repetition,TF-IDF,194,0.6,0.99,0.89,57,0.57
+Template Repetition,TF-IDF,195,0.1,0.85,0.8,15,0.15
+Template Repetition,TF-IDF,195,0.3,0.69,0.82,33,0.33
+Template Repetition,TF-IDF,195,0.6,0.46,0.89,60,0.6
+Template Repetition,TF-IDF,196,0.1,0.79,0.92,10,0.1
+Template Repetition,TF-IDF,196,0.3,0.66,0.9,27,0.27
+Template Repetition,TF-IDF,196,0.6,0.45,0.9,58,0.58
+Template Repetition,TF-IDF,197,0.1,0.75,0.92,16,0.16
+Template Repetition,TF-IDF,197,0.3,0.63,0.96,33,0.33
+Template Repetition,TF-IDF,197,0.6,0.46,0.94,56,0.56
+Template Repetition,TF-IDF,198,0.1,0.51,0.92,14,0.14
+Template Repetition,TF-IDF,198,0.3,0.47,0.92,30,0.3
+Template Repetition,TF-IDF,198,0.6,0.34,0.88,57,0.57
+Template Repetition,TF-IDF,199,0.1,0.81,0.92,6,0.06
+Template Repetition,TF-IDF,199,0.3,0.66,0.93,27,0.27
+Template Repetition,TF-IDF,199,0.6,0.47,0.84,56,0.56
+Broken Timing,Structural 13D,0,0.1,0.97,0.85,11,0.11
+Broken Timing,Structural 13D,0,0.3,0.97,0.89,32,0.32
+Broken Timing,Structural 13D,0,0.6,0.97,0.86,62,0.62
+Broken Timing,Structural 13D,1,0.1,0.94,0.89,10,0.1
+Broken Timing,Structural 13D,1,0.3,0.94,0.88,32,0.32
+Broken Timing,Structural 13D,1,0.6,0.91,0.87,64,0.64
+Broken Timing,Structural 13D,2,0.1,0.88,0.9,8,0.08
+Broken Timing,Structural 13D,2,0.3,0.88,0.91,32,0.32
+Broken Timing,Structural 13D,2,0.6,0.87,0.92,58,0.58
+Broken Timing,Structural 13D,3,0.1,0.94,0.93,7,0.07
+Broken Timing,Structural 13D,3,0.3,0.94,0.95,31,0.31
+Broken Timing,Structural 13D,3,0.6,0.93,0.93,60,0.6
+Broken Timing,Structural 13D,4,0.1,0.92,0.98,13,0.13
+Broken Timing,Structural 13D,4,0.3,0.9,0.98,31,0.31
+Broken Timing,Structural 13D,4,0.6,0.88,0.95,62,0.62
+Broken Timing,Structural 13D,5,0.1,0.91,0.93,11,0.11
+Broken Timing,Structural 13D,5,0.3,0.91,0.95,26,0.26
+Broken Timing,Structural 13D,5,0.6,0.83,0.94,62,0.62
+Broken Timing,Structural 13D,6,0.1,0.97,0.85,6,0.06
+Broken Timing,Structural 13D,6,0.3,0.94,0.87,28,0.28
+Broken Timing,Structural 13D,6,0.6,0.92,0.77,59,0.59
+Broken Timing,Structural 13D,7,0.1,0.87,0.97,12,0.12
+Broken Timing,Structural 13D,7,0.3,0.85,0.97,35,0.35
+Broken Timing,Structural 13D,7,0.6,0.83,0.97,65,0.65
+Broken Timing,Structural 13D,8,0.1,0.88,0.91,13,0.13
+Broken Timing,Structural 13D,8,0.3,0.84,0.88,34,0.34
+Broken Timing,Structural 13D,8,0.6,0.84,0.9,59,0.59
+Broken Timing,Structural 13D,9,0.1,0.85,0.93,5,0.05
+Broken Timing,Structural 13D,9,0.3,0.85,0.91,28,0.28
+Broken Timing,Structural 13D,9,0.6,0.84,0.93,58,0.58
+Broken Timing,Structural 13D,10,0.1,0.93,0.92,14,0.14
+Broken Timing,Structural 13D,10,0.3,0.93,0.9,36,0.36
+Broken Timing,Structural 13D,10,0.6,0.9,0.87,68,0.68
+Broken Timing,Structural 13D,11,0.1,0.94,0.93,8,0.08
+Broken Timing,Structural 13D,11,0.3,0.92,0.93,23,0.23
+Broken Timing,Structural 13D,11,0.6,0.92,0.87,53,0.53
+Broken Timing,Structural 13D,12,0.1,0.95,0.92,8,0.08
+Broken Timing,Structural 13D,12,0.3,0.92,0.9,32,0.32
+Broken Timing,Structural 13D,12,0.6,0.88,0.82,63,0.63
+Broken Timing,Structural 13D,13,0.1,0.92,0.94,10,0.1
+Broken Timing,Structural 13D,13,0.3,0.9,0.94,26,0.26
+Broken Timing,Structural 13D,13,0.6,0.92,0.94,60,0.6
+Broken Timing,Structural 13D,14,0.1,0.97,0.89,12,0.12
+Broken Timing,Structural 13D,14,0.3,0.96,0.88,32,0.32
+Broken Timing,Structural 13D,14,0.6,0.94,0.91,65,0.65
+Broken Timing,Structural 13D,15,0.1,0.91,0.94,6,0.06
+Broken Timing,Structural 13D,15,0.3,0.85,0.96,29,0.29
+Broken Timing,Structural 13D,15,0.6,0.83,0.97,64,0.64
+Broken Timing,Structural 13D,16,0.1,0.97,0.97,13,0.13
+Broken Timing,Structural 13D,16,0.3,0.97,0.96,34,0.34
+Broken Timing,Structural 13D,16,0.6,0.97,0.91,62,0.62
+Broken Timing,Structural 13D,17,0.1,0.93,0.93,11,0.11
+Broken Timing,Structural 13D,17,0.3,0.92,0.89,30,0.3
+Broken Timing,Structural 13D,17,0.6,0.91,0.89,63,0.63
+Broken Timing,Structural 13D,18,0.1,0.96,0.95,9,0.09
+Broken Timing,Structural 13D,18,0.3,0.93,0.96,33,0.33
+Broken Timing,Structural 13D,18,0.6,0.93,0.95,60,0.6
+Broken Timing,Structural 13D,19,0.1,0.94,0.95,10,0.1
+Broken Timing,Structural 13D,19,0.3,0.93,0.91,26,0.26
+Broken Timing,Structural 13D,19,0.6,0.92,0.89,54,0.54
+Broken Timing,Structural 13D,20,0.1,0.95,0.91,5,0.05
+Broken Timing,Structural 13D,20,0.3,0.92,0.93,25,0.25
+Broken Timing,Structural 13D,20,0.6,0.94,0.92,59,0.59
+Broken Timing,Structural 13D,21,0.1,0.95,0.91,11,0.11
+Broken Timing,Structural 13D,21,0.3,0.94,0.89,36,0.36
+Broken Timing,Structural 13D,21,0.6,0.93,0.85,61,0.61
+Broken Timing,Structural 13D,22,0.1,0.94,0.92,7,0.07
+Broken Timing,Structural 13D,22,0.3,0.93,0.93,27,0.27
+Broken Timing,Structural 13D,22,0.6,0.91,0.91,57,0.57
+Broken Timing,Structural 13D,23,0.1,0.95,0.96,9,0.09
+Broken Timing,Structural 13D,23,0.3,0.94,0.96,26,0.26
+Broken Timing,Structural 13D,23,0.6,0.93,0.91,53,0.53
+Broken Timing,Structural 13D,24,0.1,0.85,0.91,8,0.08
+Broken Timing,Structural 13D,24,0.3,0.82,0.93,29,0.29
+Broken Timing,Structural 13D,24,0.6,0.78,0.91,58,0.58
+Broken Timing,Structural 13D,25,0.1,0.91,0.92,14,0.14
+Broken Timing,Structural 13D,25,0.3,0.89,0.93,33,0.33
+Broken Timing,Structural 13D,25,0.6,0.87,0.9,60,0.6
+Broken Timing,Structural 13D,26,0.1,0.93,0.88,13,0.13
+Broken Timing,Structural 13D,26,0.3,0.94,0.88,32,0.32
+Broken Timing,Structural 13D,26,0.6,0.92,0.88,58,0.58
+Broken Timing,Structural 13D,27,0.1,0.94,0.94,9,0.09
+Broken Timing,Structural 13D,27,0.3,0.92,0.94,29,0.29
+Broken Timing,Structural 13D,27,0.6,0.89,0.96,63,0.63
+Broken Timing,Structural 13D,28,0.1,0.88,0.89,9,0.09
+Broken Timing,Structural 13D,28,0.3,0.87,0.88,32,0.32
+Broken Timing,Structural 13D,28,0.6,0.87,0.86,62,0.62
+Broken Timing,Structural 13D,29,0.1,0.91,0.94,11,0.11
+Broken Timing,Structural 13D,29,0.3,0.88,0.94,30,0.3
+Broken Timing,Structural 13D,29,0.6,0.87,0.97,62,0.62
+Broken Timing,Structural 13D,30,0.1,0.96,0.92,12,0.12
+Broken Timing,Structural 13D,30,0.3,0.95,0.92,33,0.33
+Broken Timing,Structural 13D,30,0.6,0.95,0.91,58,0.58
+Broken Timing,Structural 13D,31,0.1,0.95,0.93,8,0.08
+Broken Timing,Structural 13D,31,0.3,0.93,0.9,34,0.34
+Broken Timing,Structural 13D,31,0.6,0.92,0.91,67,0.67
+Broken Timing,Structural 13D,32,0.1,0.86,0.88,7,0.07
+Broken Timing,Structural 13D,32,0.3,0.86,0.92,33,0.33
+Broken Timing,Structural 13D,32,0.6,0.84,0.89,62,0.62
+Broken Timing,Structural 13D,33,0.1,0.95,0.91,15,0.15
+Broken Timing,Structural 13D,33,0.3,0.94,0.92,32,0.32
+Broken Timing,Structural 13D,33,0.6,0.94,0.9,65,0.65
+Broken Timing,Structural 13D,34,0.1,0.91,0.89,8,0.08
+Broken Timing,Structural 13D,34,0.3,0.9,0.9,26,0.26
+Broken Timing,Structural 13D,34,0.6,0.88,0.88,60,0.6
+Broken Timing,Structural 13D,35,0.1,0.96,0.94,10,0.1
+Broken Timing,Structural 13D,35,0.3,0.95,0.9,31,0.31
+Broken Timing,Structural 13D,35,0.6,0.9,0.91,60,0.6
+Broken Timing,Structural 13D,36,0.1,0.89,0.92,7,0.07
+Broken Timing,Structural 13D,36,0.3,0.89,0.9,27,0.27
+Broken Timing,Structural 13D,36,0.6,0.85,0.9,60,0.6
+Broken Timing,Structural 13D,37,0.1,0.94,0.91,8,0.08
+Broken Timing,Structural 13D,37,0.3,0.92,0.91,31,0.31
+Broken Timing,Structural 13D,37,0.6,0.9,0.97,61,0.61
+Broken Timing,Structural 13D,38,0.1,0.97,0.92,8,0.08
+Broken Timing,Structural 13D,38,0.3,0.97,0.94,26,0.26
+Broken Timing,Structural 13D,38,0.6,0.94,0.92,56,0.56
+Broken Timing,Structural 13D,39,0.1,0.94,0.9,13,0.13
+Broken Timing,Structural 13D,39,0.3,0.93,0.91,32,0.32
+Broken Timing,Structural 13D,39,0.6,0.94,0.85,63,0.63
+Broken Timing,Structural 13D,40,0.1,0.91,0.94,14,0.14
+Broken Timing,Structural 13D,40,0.3,0.89,0.95,34,0.34
+Broken Timing,Structural 13D,40,0.6,0.89,0.93,58,0.58
+Broken Timing,Structural 13D,41,0.1,0.96,0.96,6,0.06
+Broken Timing,Structural 13D,41,0.3,0.95,0.97,26,0.26
+Broken Timing,Structural 13D,41,0.6,0.95,0.96,59,0.59
+Broken Timing,Structural 13D,42,0.1,0.97,0.97,8,0.08
+Broken Timing,Structural 13D,42,0.3,0.95,0.92,28,0.28
+Broken Timing,Structural 13D,42,0.6,0.96,0.9,57,0.57
+Broken Timing,Structural 13D,43,0.1,0.91,0.93,9,0.09
+Broken Timing,Structural 13D,43,0.3,0.94,0.94,22,0.22
+Broken Timing,Structural 13D,43,0.6,0.92,0.92,55,0.55
+Broken Timing,Structural 13D,44,0.1,0.9,0.93,6,0.06
+Broken Timing,Structural 13D,44,0.3,0.88,0.94,33,0.33
+Broken Timing,Structural 13D,44,0.6,0.86,0.93,65,0.65
+Broken Timing,Structural 13D,45,0.1,0.87,0.9,12,0.12
+Broken Timing,Structural 13D,45,0.3,0.86,0.93,21,0.21
+Broken Timing,Structural 13D,45,0.6,0.81,0.91,52,0.52
+Broken Timing,Structural 13D,46,0.1,0.88,0.92,11,0.11
+Broken Timing,Structural 13D,46,0.3,0.87,0.9,28,0.28
+Broken Timing,Structural 13D,46,0.6,0.84,0.89,57,0.57
+Broken Timing,Structural 13D,47,0.1,0.93,0.94,7,0.07
+Broken Timing,Structural 13D,47,0.3,0.87,0.93,26,0.26
+Broken Timing,Structural 13D,47,0.6,0.84,0.91,59,0.59
+Broken Timing,Structural 13D,48,0.1,0.92,0.9,14,0.14
+Broken Timing,Structural 13D,48,0.3,0.9,0.9,28,0.28
+Broken Timing,Structural 13D,48,0.6,0.87,0.85,52,0.52
+Broken Timing,Structural 13D,49,0.1,0.94,0.89,6,0.06
+Broken Timing,Structural 13D,49,0.3,0.91,0.9,23,0.23
+Broken Timing,Structural 13D,49,0.6,0.9,0.9,60,0.6
+Broken Timing,Structural 13D,50,0.1,0.95,0.92,11,0.11
+Broken Timing,Structural 13D,50,0.3,0.95,0.92,29,0.29
+Broken Timing,Structural 13D,50,0.6,0.92,0.86,58,0.58
+Broken Timing,Structural 13D,51,0.1,0.96,0.93,12,0.12
+Broken Timing,Structural 13D,51,0.3,0.95,0.94,31,0.31
+Broken Timing,Structural 13D,51,0.6,0.94,0.95,60,0.6
+Broken Timing,Structural 13D,52,0.1,0.91,0.93,11,0.11
+Broken Timing,Structural 13D,52,0.3,0.88,0.9,39,0.39
+Broken Timing,Structural 13D,52,0.6,0.88,0.89,71,0.71
+Broken Timing,Structural 13D,53,0.1,0.96,0.89,8,0.08
+Broken Timing,Structural 13D,53,0.3,0.96,0.87,28,0.28
+Broken Timing,Structural 13D,53,0.6,0.96,0.84,56,0.56
+Broken Timing,Structural 13D,54,0.1,0.95,0.95,14,0.14
+Broken Timing,Structural 13D,54,0.3,0.95,0.96,30,0.3
+Broken Timing,Structural 13D,54,0.6,0.93,0.96,60,0.6
+Broken Timing,Structural 13D,55,0.1,0.92,0.92,13,0.13
+Broken Timing,Structural 13D,55,0.3,0.9,0.92,27,0.27
+Broken Timing,Structural 13D,55,0.6,0.92,0.94,56,0.56
+Broken Timing,Structural 13D,56,0.1,0.92,0.97,11,0.11
+Broken Timing,Structural 13D,56,0.3,0.89,0.96,30,0.3
+Broken Timing,Structural 13D,56,0.6,0.84,0.97,61,0.61
+Broken Timing,Structural 13D,57,0.1,0.95,0.95,12,0.12
+Broken Timing,Structural 13D,57,0.3,0.92,0.96,41,0.41
+Broken Timing,Structural 13D,57,0.6,0.89,0.87,71,0.71
+Broken Timing,Structural 13D,58,0.1,0.8,0.96,12,0.12
+Broken Timing,Structural 13D,58,0.3,0.78,0.92,28,0.28
+Broken Timing,Structural 13D,58,0.6,0.79,0.91,61,0.61
+Broken Timing,Structural 13D,59,0.1,0.94,0.95,12,0.12
+Broken Timing,Structural 13D,59,0.3,0.92,0.93,29,0.29
+Broken Timing,Structural 13D,59,0.6,0.9,0.96,60,0.6
+Broken Timing,Structural 13D,60,0.1,0.89,0.91,9,0.09
+Broken Timing,Structural 13D,60,0.3,0.88,0.91,24,0.24
+Broken Timing,Structural 13D,60,0.6,0.88,0.88,56,0.56
+Broken Timing,Structural 13D,61,0.1,0.93,0.94,9,0.09
+Broken Timing,Structural 13D,61,0.3,0.92,0.97,35,0.35
+Broken Timing,Structural 13D,61,0.6,0.89,0.97,67,0.67
+Broken Timing,Structural 13D,62,0.1,0.97,0.88,12,0.12
+Broken Timing,Structural 13D,62,0.3,0.96,0.87,34,0.34
+Broken Timing,Structural 13D,62,0.6,0.96,0.87,64,0.64
+Broken Timing,Structural 13D,63,0.1,0.92,0.93,13,0.13
+Broken Timing,Structural 13D,63,0.3,0.91,0.91,30,0.3
+Broken Timing,Structural 13D,63,0.6,0.89,0.95,61,0.61
+Broken Timing,Structural 13D,64,0.1,0.96,0.88,15,0.15
+Broken Timing,Structural 13D,64,0.3,0.94,0.93,35,0.35
+Broken Timing,Structural 13D,64,0.6,0.94,0.88,60,0.6
+Broken Timing,Structural 13D,65,0.1,0.92,0.93,12,0.12
+Broken Timing,Structural 13D,65,0.3,0.91,0.93,27,0.27
+Broken Timing,Structural 13D,65,0.6,0.9,0.9,51,0.51
+Broken Timing,Structural 13D,66,0.1,0.9,0.87,15,0.15
+Broken Timing,Structural 13D,66,0.3,0.88,0.87,27,0.27
+Broken Timing,Structural 13D,66,0.6,0.87,0.84,64,0.64
+Broken Timing,Structural 13D,67,0.1,0.9,0.95,9,0.09
+Broken Timing,Structural 13D,67,0.3,0.89,0.96,28,0.28
+Broken Timing,Structural 13D,67,0.6,0.85,0.97,62,0.62
+Broken Timing,Structural 13D,68,0.1,0.87,0.91,14,0.14
+Broken Timing,Structural 13D,68,0.3,0.85,0.88,35,0.35
+Broken Timing,Structural 13D,68,0.6,0.81,0.79,64,0.64
+Broken Timing,Structural 13D,69,0.1,0.96,0.92,8,0.08
+Broken Timing,Structural 13D,69,0.3,0.97,0.95,23,0.23
+Broken Timing,Structural 13D,69,0.6,0.94,0.87,56,0.56
+Broken Timing,Structural 13D,70,0.1,0.9,0.95,9,0.09
+Broken Timing,Structural 13D,70,0.3,0.86,0.94,27,0.27
+Broken Timing,Structural 13D,70,0.6,0.82,0.91,65,0.65
+Broken Timing,Structural 13D,71,0.1,0.93,0.89,12,0.12
+Broken Timing,Structural 13D,71,0.3,0.91,0.92,37,0.37
+Broken Timing,Structural 13D,71,0.6,0.9,0.9,68,0.68
+Broken Timing,Structural 13D,72,0.1,0.92,0.92,13,0.13
+Broken Timing,Structural 13D,72,0.3,0.92,0.92,24,0.24
+Broken Timing,Structural 13D,72,0.6,0.91,0.91,54,0.54
+Broken Timing,Structural 13D,73,0.1,0.87,0.95,10,0.1
+Broken Timing,Structural 13D,73,0.3,0.82,0.91,38,0.38
+Broken Timing,Structural 13D,73,0.6,0.8,0.86,64,0.64
+Broken Timing,Structural 13D,74,0.1,0.96,0.91,7,0.07
+Broken Timing,Structural 13D,74,0.3,0.95,0.93,28,0.28
+Broken Timing,Structural 13D,74,0.6,0.92,0.94,58,0.58
+Broken Timing,Structural 13D,75,0.1,0.88,0.94,14,0.14
+Broken Timing,Structural 13D,75,0.3,0.84,0.95,34,0.34
+Broken Timing,Structural 13D,75,0.6,0.82,0.95,64,0.64
+Broken Timing,Structural 13D,76,0.1,0.88,0.96,15,0.15
+Broken Timing,Structural 13D,76,0.3,0.88,0.99,27,0.27
+Broken Timing,Structural 13D,76,0.6,0.86,0.96,55,0.55
+Broken Timing,Structural 13D,77,0.1,0.9,0.9,10,0.1
+Broken Timing,Structural 13D,77,0.3,0.85,0.91,31,0.31
+Broken Timing,Structural 13D,77,0.6,0.82,0.92,61,0.61
+Broken Timing,Structural 13D,78,0.1,0.9,0.9,6,0.06
+Broken Timing,Structural 13D,78,0.3,0.9,0.9,27,0.27
+Broken Timing,Structural 13D,78,0.6,0.89,0.87,60,0.6
+Broken Timing,Structural 13D,79,0.1,0.95,0.93,7,0.07
+Broken Timing,Structural 13D,79,0.3,0.94,0.94,25,0.25
+Broken Timing,Structural 13D,79,0.6,0.91,0.9,50,0.5
+Broken Timing,Structural 13D,80,0.1,0.9,0.91,6,0.06
+Broken Timing,Structural 13D,80,0.3,0.88,0.88,28,0.28
+Broken Timing,Structural 13D,80,0.6,0.9,0.91,55,0.55
+Broken Timing,Structural 13D,81,0.1,0.94,0.88,12,0.12
+Broken Timing,Structural 13D,81,0.3,0.93,0.9,33,0.33
+Broken Timing,Structural 13D,81,0.6,0.88,0.88,63,0.63
+Broken Timing,Structural 13D,82,0.1,0.99,0.95,8,0.08
+Broken Timing,Structural 13D,82,0.3,0.94,0.92,26,0.26
+Broken Timing,Structural 13D,82,0.6,0.9,0.85,59,0.59
+Broken Timing,Structural 13D,83,0.1,0.9,0.89,9,0.09
+Broken Timing,Structural 13D,83,0.3,0.87,0.92,37,0.37
+Broken Timing,Structural 13D,83,0.6,0.85,0.87,65,0.65
+Broken Timing,Structural 13D,84,0.1,0.96,0.89,11,0.11
+Broken Timing,Structural 13D,84,0.3,0.94,0.93,37,0.37
+Broken Timing,Structural 13D,84,0.6,0.92,0.89,69,0.69
+Broken Timing,Structural 13D,85,0.1,0.98,0.92,9,0.09
+Broken Timing,Structural 13D,85,0.3,0.98,0.87,33,0.33
+Broken Timing,Structural 13D,85,0.6,0.96,0.88,65,0.65
+Broken Timing,Structural 13D,86,0.1,0.92,0.85,7,0.07
+Broken Timing,Structural 13D,86,0.3,0.93,0.89,26,0.26
+Broken Timing,Structural 13D,86,0.6,0.94,0.89,59,0.59
+Broken Timing,Structural 13D,87,0.1,0.91,0.91,8,0.08
+Broken Timing,Structural 13D,87,0.3,0.93,0.89,30,0.3
+Broken Timing,Structural 13D,87,0.6,0.93,0.87,58,0.58
+Broken Timing,Structural 13D,88,0.1,0.9,0.93,11,0.11
+Broken Timing,Structural 13D,88,0.3,0.88,0.89,29,0.29
+Broken Timing,Structural 13D,88,0.6,0.87,0.82,63,0.63
+Broken Timing,Structural 13D,89,0.1,0.94,0.92,5,0.05
+Broken Timing,Structural 13D,89,0.3,0.91,0.92,28,0.28
+Broken Timing,Structural 13D,89,0.6,0.91,0.92,58,0.58
+Broken Timing,Structural 13D,90,0.1,0.86,0.82,10,0.1
+Broken Timing,Structural 13D,90,0.3,0.84,0.81,31,0.31
+Broken Timing,Structural 13D,90,0.6,0.83,0.77,60,0.6
+Broken Timing,Structural 13D,91,0.1,0.96,0.96,5,0.05
+Broken Timing,Structural 13D,91,0.3,0.96,0.95,23,0.23
+Broken Timing,Structural 13D,91,0.6,0.93,0.95,58,0.58
+Broken Timing,Structural 13D,92,0.1,0.88,0.91,11,0.11
+Broken Timing,Structural 13D,92,0.3,0.87,0.9,27,0.27
+Broken Timing,Structural 13D,92,0.6,0.86,0.86,51,0.51
+Broken Timing,Structural 13D,93,0.1,0.9,0.91,10,0.1
+Broken Timing,Structural 13D,93,0.3,0.89,0.92,31,0.31
+Broken Timing,Structural 13D,93,0.6,0.88,0.9,60,0.6
+Broken Timing,Structural 13D,94,0.1,0.92,0.93,6,0.06
+Broken Timing,Structural 13D,94,0.3,0.93,0.93,26,0.26
+Broken Timing,Structural 13D,94,0.6,0.92,0.92,58,0.58
+Broken Timing,Structural 13D,95,0.1,0.91,0.97,10,0.1
+Broken Timing,Structural 13D,95,0.3,0.92,0.97,33,0.33
+Broken Timing,Structural 13D,95,0.6,0.91,0.92,61,0.61
+Broken Timing,Structural 13D,96,0.1,0.92,0.93,13,0.13
+Broken Timing,Structural 13D,96,0.3,0.91,0.93,35,0.35
+Broken Timing,Structural 13D,96,0.6,0.9,0.9,66,0.66
+Broken Timing,Structural 13D,97,0.1,0.93,0.92,13,0.13
+Broken Timing,Structural 13D,97,0.3,0.9,0.95,32,0.32
+Broken Timing,Structural 13D,97,0.6,0.89,0.93,65,0.65
+Broken Timing,Structural 13D,98,0.1,0.95,0.86,11,0.11
+Broken Timing,Structural 13D,98,0.3,0.95,0.86,32,0.32
+Broken Timing,Structural 13D,98,0.6,0.94,0.83,63,0.63
+Broken Timing,Structural 13D,99,0.1,0.92,0.9,10,0.1
+Broken Timing,Structural 13D,99,0.3,0.9,0.9,30,0.3
+Broken Timing,Structural 13D,99,0.6,0.87,0.89,63,0.63
+Broken Timing,Structural 13D,100,0.1,0.92,0.95,8,0.08
+Broken Timing,Structural 13D,100,0.3,0.88,0.96,37,0.37
+Broken Timing,Structural 13D,100,0.6,0.85,0.83,66,0.66
+Broken Timing,Structural 13D,101,0.1,0.85,0.96,12,0.12
+Broken Timing,Structural 13D,101,0.3,0.84,0.94,31,0.31
+Broken Timing,Structural 13D,101,0.6,0.84,0.86,64,0.64
+Broken Timing,Structural 13D,102,0.1,0.89,0.91,11,0.11
+Broken Timing,Structural 13D,102,0.3,0.89,0.9,32,0.32
+Broken Timing,Structural 13D,102,0.6,0.87,0.86,64,0.64
+Broken Timing,Structural 13D,103,0.1,0.94,0.89,8,0.08
+Broken Timing,Structural 13D,103,0.3,0.9,0.87,30,0.3
+Broken Timing,Structural 13D,103,0.6,0.9,0.85,59,0.59
+Broken Timing,Structural 13D,104,0.1,0.94,0.96,9,0.09
+Broken Timing,Structural 13D,104,0.3,0.92,0.95,26,0.26
+Broken Timing,Structural 13D,104,0.6,0.89,0.89,58,0.58
+Broken Timing,Structural 13D,105,0.1,0.88,0.93,10,0.1
+Broken Timing,Structural 13D,105,0.3,0.86,0.98,27,0.27
+Broken Timing,Structural 13D,105,0.6,0.87,0.9,56,0.56
+Broken Timing,Structural 13D,106,0.1,0.93,0.92,11,0.11
+Broken Timing,Structural 13D,106,0.3,0.92,0.91,31,0.31
+Broken Timing,Structural 13D,106,0.6,0.87,0.88,62,0.62
+Broken Timing,Structural 13D,107,0.1,0.88,0.94,11,0.11
+Broken Timing,Structural 13D,107,0.3,0.87,0.93,32,0.32
+Broken Timing,Structural 13D,107,0.6,0.87,0.88,62,0.62
+Broken Timing,Structural 13D,108,0.1,0.91,0.95,10,0.1
+Broken Timing,Structural 13D,108,0.3,0.92,0.93,31,0.31
+Broken Timing,Structural 13D,108,0.6,0.88,0.87,60,0.6
+Broken Timing,Structural 13D,109,0.1,0.92,0.91,10,0.1
+Broken Timing,Structural 13D,109,0.3,0.92,0.93,31,0.31
+Broken Timing,Structural 13D,109,0.6,0.93,0.9,59,0.59
+Broken Timing,Structural 13D,110,0.1,0.87,0.96,11,0.11
+Broken Timing,Structural 13D,110,0.3,0.86,0.97,28,0.28
+Broken Timing,Structural 13D,110,0.6,0.86,0.92,65,0.65
+Broken Timing,Structural 13D,111,0.1,0.83,0.98,13,0.13
+Broken Timing,Structural 13D,111,0.3,0.79,0.95,40,0.4
+Broken Timing,Structural 13D,111,0.6,0.79,0.9,63,0.63
+Broken Timing,Structural 13D,112,0.1,0.91,0.97,12,0.12
+Broken Timing,Structural 13D,112,0.3,0.88,0.97,37,0.37
+Broken Timing,Structural 13D,112,0.6,0.8,0.96,67,0.67
+Broken Timing,Structural 13D,113,0.1,0.93,0.91,6,0.06
+Broken Timing,Structural 13D,113,0.3,0.91,0.9,21,0.21
+Broken Timing,Structural 13D,113,0.6,0.89,0.91,49,0.49
+Broken Timing,Structural 13D,114,0.1,0.88,0.97,12,0.12
+Broken Timing,Structural 13D,114,0.3,0.82,0.98,34,0.34
+Broken Timing,Structural 13D,114,0.6,0.81,0.92,64,0.64
+Broken Timing,Structural 13D,115,0.1,0.91,0.92,13,0.13
+Broken Timing,Structural 13D,115,0.3,0.9,0.91,32,0.32
+Broken Timing,Structural 13D,115,0.6,0.88,0.89,56,0.56
+Broken Timing,Structural 13D,116,0.1,0.91,0.92,8,0.08
+Broken Timing,Structural 13D,116,0.3,0.9,0.95,26,0.26
+Broken Timing,Structural 13D,116,0.6,0.91,0.97,57,0.57
+Broken Timing,Structural 13D,117,0.1,0.89,0.97,7,0.07
+Broken Timing,Structural 13D,117,0.3,0.87,0.97,26,0.26
+Broken Timing,Structural 13D,117,0.6,0.86,0.95,63,0.63
+Broken Timing,Structural 13D,118,0.1,0.9,0.92,12,0.12
+Broken Timing,Structural 13D,118,0.3,0.91,0.92,33,0.33
+Broken Timing,Structural 13D,118,0.6,0.88,0.9,64,0.64
+Broken Timing,Structural 13D,119,0.1,0.97,0.88,9,0.09
+Broken Timing,Structural 13D,119,0.3,0.96,0.86,26,0.26
+Broken Timing,Structural 13D,119,0.6,0.96,0.86,60,0.6
+Broken Timing,Structural 13D,120,0.1,0.89,0.9,12,0.12
+Broken Timing,Structural 13D,120,0.3,0.87,0.92,42,0.42
+Broken Timing,Structural 13D,120,0.6,0.87,0.95,68,0.68
+Broken Timing,Structural 13D,121,0.1,0.94,0.95,5,0.05
+Broken Timing,Structural 13D,121,0.3,0.94,0.99,30,0.3
+Broken Timing,Structural 13D,121,0.6,0.94,0.95,59,0.59
+Broken Timing,Structural 13D,122,0.1,0.89,0.87,8,0.08
+Broken Timing,Structural 13D,122,0.3,0.9,0.89,26,0.26
+Broken Timing,Structural 13D,122,0.6,0.86,0.87,59,0.59
+Broken Timing,Structural 13D,123,0.1,0.97,0.89,7,0.07
+Broken Timing,Structural 13D,123,0.3,0.97,0.85,26,0.26
+Broken Timing,Structural 13D,123,0.6,0.95,0.83,60,0.6
+Broken Timing,Structural 13D,124,0.1,0.92,0.96,10,0.1
+Broken Timing,Structural 13D,124,0.3,0.89,0.96,35,0.35
+Broken Timing,Structural 13D,124,0.6,0.88,0.96,56,0.56
+Broken Timing,Structural 13D,125,0.1,0.92,0.93,11,0.11
+Broken Timing,Structural 13D,125,0.3,0.89,0.89,28,0.28
+Broken Timing,Structural 13D,125,0.6,0.88,0.87,65,0.65
+Broken Timing,Structural 13D,126,0.1,0.93,0.93,13,0.13
+Broken Timing,Structural 13D,126,0.3,0.94,0.93,29,0.29
+Broken Timing,Structural 13D,126,0.6,0.94,0.91,58,0.58
+Broken Timing,Structural 13D,127,0.1,0.94,0.9,14,0.14
+Broken Timing,Structural 13D,127,0.3,0.92,0.89,34,0.34
+Broken Timing,Structural 13D,127,0.6,0.9,0.91,71,0.71
+Broken Timing,Structural 13D,128,0.1,0.97,0.93,8,0.08
+Broken Timing,Structural 13D,128,0.3,0.96,0.93,26,0.26
+Broken Timing,Structural 13D,128,0.6,0.95,0.93,59,0.59
+Broken Timing,Structural 13D,129,0.1,0.87,0.87,15,0.15
+Broken Timing,Structural 13D,129,0.3,0.84,0.91,34,0.34
+Broken Timing,Structural 13D,129,0.6,0.82,0.86,64,0.64
+Broken Timing,Structural 13D,130,0.1,0.94,0.9,10,0.1
+Broken Timing,Structural 13D,130,0.3,0.92,0.91,34,0.34
+Broken Timing,Structural 13D,130,0.6,0.91,0.89,59,0.59
+Broken Timing,Structural 13D,131,0.1,0.84,0.88,14,0.14
+Broken Timing,Structural 13D,131,0.3,0.85,0.87,32,0.32
+Broken Timing,Structural 13D,131,0.6,0.83,0.88,63,0.63
+Broken Timing,Structural 13D,132,0.1,0.89,0.94,6,0.06
+Broken Timing,Structural 13D,132,0.3,0.9,0.92,28,0.28
+Broken Timing,Structural 13D,132,0.6,0.88,0.88,64,0.64
+Broken Timing,Structural 13D,133,0.1,0.88,0.95,10,0.1
+Broken Timing,Structural 13D,133,0.3,0.86,0.95,32,0.32
+Broken Timing,Structural 13D,133,0.6,0.88,0.94,66,0.66
+Broken Timing,Structural 13D,134,0.1,0.91,0.98,13,0.13
+Broken Timing,Structural 13D,134,0.3,0.9,0.98,31,0.31
+Broken Timing,Structural 13D,134,0.6,0.9,0.96,59,0.59
+Broken Timing,Structural 13D,135,0.1,0.88,0.95,12,0.12
+Broken Timing,Structural 13D,135,0.3,0.89,0.95,28,0.28
+Broken Timing,Structural 13D,135,0.6,0.89,0.94,60,0.6
+Broken Timing,Structural 13D,136,0.1,0.97,0.91,8,0.08
+Broken Timing,Structural 13D,136,0.3,0.97,0.92,30,0.3
+Broken Timing,Structural 13D,136,0.6,0.96,0.94,59,0.59
+Broken Timing,Structural 13D,137,0.1,0.99,0.93,14,0.14
+Broken Timing,Structural 13D,137,0.3,0.96,0.88,34,0.34
+Broken Timing,Structural 13D,137,0.6,0.95,0.91,59,0.59
+Broken Timing,Structural 13D,138,0.1,0.9,0.92,11,0.11
+Broken Timing,Structural 13D,138,0.3,0.9,0.94,29,0.29
+Broken Timing,Structural 13D,138,0.6,0.86,0.92,62,0.62
+Broken Timing,Structural 13D,139,0.1,0.9,0.97,10,0.1
+Broken Timing,Structural 13D,139,0.3,0.91,0.97,34,0.34
+Broken Timing,Structural 13D,139,0.6,0.94,0.9,66,0.66
+Broken Timing,Structural 13D,140,0.1,0.98,0.95,10,0.1
+Broken Timing,Structural 13D,140,0.3,0.98,0.93,29,0.29
+Broken Timing,Structural 13D,140,0.6,0.95,0.88,63,0.63
+Broken Timing,Structural 13D,141,0.1,0.92,0.93,10,0.1
+Broken Timing,Structural 13D,141,0.3,0.9,0.95,31,0.31
+Broken Timing,Structural 13D,141,0.6,0.91,0.95,66,0.66
+Broken Timing,Structural 13D,142,0.1,0.96,0.94,9,0.09
+Broken Timing,Structural 13D,142,0.3,0.96,0.9,31,0.31
+Broken Timing,Structural 13D,142,0.6,0.95,0.91,58,0.58
+Broken Timing,Structural 13D,143,0.1,0.91,0.95,9,0.09
+Broken Timing,Structural 13D,143,0.3,0.91,0.93,30,0.3
+Broken Timing,Structural 13D,143,0.6,0.9,0.91,62,0.62
+Broken Timing,Structural 13D,144,0.1,0.86,0.95,8,0.08
+Broken Timing,Structural 13D,144,0.3,0.85,0.97,28,0.28
+Broken Timing,Structural 13D,144,0.6,0.8,0.92,63,0.63
+Broken Timing,Structural 13D,145,0.1,0.96,0.94,9,0.09
+Broken Timing,Structural 13D,145,0.3,0.95,0.96,31,0.31
+Broken Timing,Structural 13D,145,0.6,0.93,0.96,66,0.66
+Broken Timing,Structural 13D,146,0.1,0.92,0.89,11,0.11
+Broken Timing,Structural 13D,146,0.3,0.9,0.92,30,0.3
+Broken Timing,Structural 13D,146,0.6,0.88,0.92,54,0.54
+Broken Timing,Structural 13D,147,0.1,0.97,0.97,7,0.07
+Broken Timing,Structural 13D,147,0.3,0.97,0.95,24,0.24
+Broken Timing,Structural 13D,147,0.6,0.96,0.95,52,0.52
+Broken Timing,Structural 13D,148,0.1,0.93,0.92,11,0.11
+Broken Timing,Structural 13D,148,0.3,0.9,0.94,28,0.28
+Broken Timing,Structural 13D,148,0.6,0.89,0.96,59,0.59
+Broken Timing,Structural 13D,149,0.1,0.94,0.96,10,0.1
+Broken Timing,Structural 13D,149,0.3,0.94,0.96,33,0.33
+Broken Timing,Structural 13D,149,0.6,0.92,0.95,61,0.61
+Broken Timing,Structural 13D,150,0.1,0.86,0.95,11,0.11
+Broken Timing,Structural 13D,150,0.3,0.83,0.95,29,0.29
+Broken Timing,Structural 13D,150,0.6,0.83,0.96,62,0.62
+Broken Timing,Structural 13D,151,0.1,0.92,0.96,13,0.13
+Broken Timing,Structural 13D,151,0.3,0.91,0.9,40,0.4
+Broken Timing,Structural 13D,151,0.6,0.9,0.93,63,0.63
+Broken Timing,Structural 13D,152,0.1,0.89,0.95,11,0.11
+Broken Timing,Structural 13D,152,0.3,0.85,0.97,33,0.33
+Broken Timing,Structural 13D,152,0.6,0.86,0.96,62,0.62
+Broken Timing,Structural 13D,153,0.1,0.89,0.97,12,0.12
+Broken Timing,Structural 13D,153,0.3,0.88,0.97,28,0.28
+Broken Timing,Structural 13D,153,0.6,0.86,0.97,59,0.59
+Broken Timing,Structural 13D,154,0.1,0.94,0.89,12,0.12
+Broken Timing,Structural 13D,154,0.3,0.93,0.9,30,0.3
+Broken Timing,Structural 13D,154,0.6,0.93,0.88,61,0.61
+Broken Timing,Structural 13D,155,0.1,0.89,0.85,10,0.1
+Broken Timing,Structural 13D,155,0.3,0.88,0.83,32,0.32
+Broken Timing,Structural 13D,155,0.6,0.88,0.85,61,0.61
+Broken Timing,Structural 13D,156,0.1,0.9,0.88,8,0.08
+Broken Timing,Structural 13D,156,0.3,0.89,0.86,27,0.27
+Broken Timing,Structural 13D,156,0.6,0.94,0.84,57,0.57
+Broken Timing,Structural 13D,157,0.1,0.97,0.95,9,0.09
+Broken Timing,Structural 13D,157,0.3,0.98,0.97,26,0.26
+Broken Timing,Structural 13D,157,0.6,0.97,0.92,56,0.56
+Broken Timing,Structural 13D,158,0.1,0.93,0.91,7,0.07
+Broken Timing,Structural 13D,158,0.3,0.9,0.92,25,0.25
+Broken Timing,Structural 13D,158,0.6,0.85,0.88,56,0.56
+Broken Timing,Structural 13D,159,0.1,0.9,0.89,12,0.12
+Broken Timing,Structural 13D,159,0.3,0.92,0.89,34,0.34
+Broken Timing,Structural 13D,159,0.6,0.88,0.86,57,0.57
+Broken Timing,Structural 13D,160,0.1,0.91,0.91,12,0.12
+Broken Timing,Structural 13D,160,0.3,0.9,0.94,36,0.36
+Broken Timing,Structural 13D,160,0.6,0.92,0.9,60,0.6
+Broken Timing,Structural 13D,161,0.1,0.89,0.93,10,0.1
+Broken Timing,Structural 13D,161,0.3,0.87,0.91,25,0.25
+Broken Timing,Structural 13D,161,0.6,0.83,0.88,63,0.63
+Broken Timing,Structural 13D,162,0.1,0.9,0.93,10,0.1
+Broken Timing,Structural 13D,162,0.3,0.9,0.94,30,0.3
+Broken Timing,Structural 13D,162,0.6,0.87,0.93,60,0.6
+Broken Timing,Structural 13D,163,0.1,0.89,0.97,12,0.12
+Broken Timing,Structural 13D,163,0.3,0.87,0.92,38,0.38
+Broken Timing,Structural 13D,163,0.6,0.87,0.94,65,0.65
+Broken Timing,Structural 13D,164,0.1,0.89,0.95,9,0.09
+Broken Timing,Structural 13D,164,0.3,0.9,0.94,27,0.27
+Broken Timing,Structural 13D,164,0.6,0.91,0.96,55,0.55
+Broken Timing,Structural 13D,165,0.1,0.9,0.97,11,0.11
+Broken Timing,Structural 13D,165,0.3,0.89,0.97,35,0.35
+Broken Timing,Structural 13D,165,0.6,0.88,0.96,63,0.63
+Broken Timing,Structural 13D,166,0.1,0.87,0.93,7,0.07
+Broken Timing,Structural 13D,166,0.3,0.89,0.93,27,0.27
+Broken Timing,Structural 13D,166,0.6,0.89,0.93,54,0.54
+Broken Timing,Structural 13D,167,0.1,0.95,0.93,6,0.06
+Broken Timing,Structural 13D,167,0.3,0.92,0.91,31,0.31
+Broken Timing,Structural 13D,167,0.6,0.89,0.88,66,0.66
+Broken Timing,Structural 13D,168,0.1,0.94,0.91,6,0.06
+Broken Timing,Structural 13D,168,0.3,0.9,0.92,31,0.31
+Broken Timing,Structural 13D,168,0.6,0.87,0.86,61,0.61
+Broken Timing,Structural 13D,169,0.1,0.86,0.95,14,0.14
+Broken Timing,Structural 13D,169,0.3,0.84,0.9,36,0.36
+Broken Timing,Structural 13D,169,0.6,0.82,0.9,65,0.65
+Broken Timing,Structural 13D,170,0.1,0.89,0.94,9,0.09
+Broken Timing,Structural 13D,170,0.3,0.88,0.95,29,0.29
+Broken Timing,Structural 13D,170,0.6,0.86,0.89,60,0.6
+Broken Timing,Structural 13D,171,0.1,0.93,0.91,13,0.13
+Broken Timing,Structural 13D,171,0.3,0.92,0.92,26,0.26
+Broken Timing,Structural 13D,171,0.6,0.9,0.89,63,0.63
+Broken Timing,Structural 13D,172,0.1,0.92,0.96,11,0.11
+Broken Timing,Structural 13D,172,0.3,0.91,0.95,36,0.36
+Broken Timing,Structural 13D,172,0.6,0.89,0.93,62,0.62
+Broken Timing,Structural 13D,173,0.1,0.93,0.96,8,0.08
+Broken Timing,Structural 13D,173,0.3,0.9,0.97,32,0.32
+Broken Timing,Structural 13D,173,0.6,0.89,0.96,64,0.64
+Broken Timing,Structural 13D,174,0.1,0.92,0.92,9,0.09
+Broken Timing,Structural 13D,174,0.3,0.89,0.92,34,0.34
+Broken Timing,Structural 13D,174,0.6,0.86,0.91,58,0.58
+Broken Timing,Structural 13D,175,0.1,0.96,0.99,8,0.08
+Broken Timing,Structural 13D,175,0.3,0.92,0.98,29,0.29
+Broken Timing,Structural 13D,175,0.6,0.88,0.98,59,0.59
+Broken Timing,Structural 13D,176,0.1,0.94,0.89,13,0.13
+Broken Timing,Structural 13D,176,0.3,0.92,0.87,31,0.31
+Broken Timing,Structural 13D,176,0.6,0.89,0.82,53,0.53
+Broken Timing,Structural 13D,177,0.1,0.86,0.94,16,0.16
+Broken Timing,Structural 13D,177,0.3,0.82,0.94,31,0.31
+Broken Timing,Structural 13D,177,0.6,0.8,0.92,63,0.63
+Broken Timing,Structural 13D,178,0.1,0.95,0.98,12,0.12
+Broken Timing,Structural 13D,178,0.3,0.97,0.95,27,0.27
+Broken Timing,Structural 13D,178,0.6,0.95,0.91,61,0.61
+Broken Timing,Structural 13D,179,0.1,0.93,0.94,10,0.1
+Broken Timing,Structural 13D,179,0.3,0.93,0.91,26,0.26
+Broken Timing,Structural 13D,179,0.6,0.91,0.95,58,0.58
+Broken Timing,Structural 13D,180,0.1,0.89,0.97,12,0.12
+Broken Timing,Structural 13D,180,0.3,0.86,0.99,32,0.32
+Broken Timing,Structural 13D,180,0.6,0.87,0.96,63,0.63
+Broken Timing,Structural 13D,181,0.1,0.93,0.91,10,0.1
+Broken Timing,Structural 13D,181,0.3,0.93,0.9,28,0.28
+Broken Timing,Structural 13D,181,0.6,0.89,0.86,58,0.58
+Broken Timing,Structural 13D,182,0.1,0.9,0.95,8,0.08
+Broken Timing,Structural 13D,182,0.3,0.89,0.93,26,0.26
+Broken Timing,Structural 13D,182,0.6,0.88,0.87,62,0.62
+Broken Timing,Structural 13D,183,0.1,0.98,0.96,14,0.14
+Broken Timing,Structural 13D,183,0.3,0.96,0.93,36,0.36
+Broken Timing,Structural 13D,183,0.6,0.93,0.89,65,0.65
+Broken Timing,Structural 13D,184,0.1,0.9,0.92,12,0.12
+Broken Timing,Structural 13D,184,0.3,0.88,0.89,34,0.34
+Broken Timing,Structural 13D,184,0.6,0.86,0.91,62,0.62
+Broken Timing,Structural 13D,185,0.1,0.84,0.92,16,0.16
+Broken Timing,Structural 13D,185,0.3,0.82,0.94,37,0.37
+Broken Timing,Structural 13D,185,0.6,0.78,0.94,65,0.65
+Broken Timing,Structural 13D,186,0.1,0.87,0.88,9,0.09
+Broken Timing,Structural 13D,186,0.3,0.83,0.88,26,0.26
+Broken Timing,Structural 13D,186,0.6,0.81,0.87,61,0.61
+Broken Timing,Structural 13D,187,0.1,0.88,0.94,8,0.08
+Broken Timing,Structural 13D,187,0.3,0.86,0.93,28,0.28
+Broken Timing,Structural 13D,187,0.6,0.84,0.94,63,0.63
+Broken Timing,Structural 13D,188,0.1,0.9,0.92,11,0.11
+Broken Timing,Structural 13D,188,0.3,0.91,0.93,30,0.3
+Broken Timing,Structural 13D,188,0.6,0.88,0.93,63,0.63
+Broken Timing,Structural 13D,189,0.1,0.95,0.93,11,0.11
+Broken Timing,Structural 13D,189,0.3,0.92,0.91,30,0.3
+Broken Timing,Structural 13D,189,0.6,0.92,0.89,62,0.62
+Broken Timing,Structural 13D,190,0.1,0.89,0.93,11,0.11
+Broken Timing,Structural 13D,190,0.3,0.86,0.92,27,0.27
+Broken Timing,Structural 13D,190,0.6,0.82,0.94,60,0.6
+Broken Timing,Structural 13D,191,0.1,0.96,0.96,9,0.09
+Broken Timing,Structural 13D,191,0.3,0.96,0.96,22,0.22
+Broken Timing,Structural 13D,191,0.6,0.93,0.9,59,0.59
+Broken Timing,Structural 13D,192,0.1,0.94,0.94,9,0.09
+Broken Timing,Structural 13D,192,0.3,0.91,0.95,34,0.34
+Broken Timing,Structural 13D,192,0.6,0.9,0.88,67,0.67
+Broken Timing,Structural 13D,193,0.1,0.95,0.91,11,0.11
+Broken Timing,Structural 13D,193,0.3,0.94,0.92,31,0.31
+Broken Timing,Structural 13D,193,0.6,0.93,0.91,65,0.65
+Broken Timing,Structural 13D,194,0.1,0.89,0.96,12,0.12
+Broken Timing,Structural 13D,194,0.3,0.89,0.96,31,0.31
+Broken Timing,Structural 13D,194,0.6,0.89,0.94,67,0.67
+Broken Timing,Structural 13D,195,0.1,0.87,0.89,6,0.06
+Broken Timing,Structural 13D,195,0.3,0.88,0.89,16,0.16
+Broken Timing,Structural 13D,195,0.6,0.89,0.92,52,0.52
+Broken Timing,Structural 13D,196,0.1,0.94,0.91,15,0.15
+Broken Timing,Structural 13D,196,0.3,0.93,0.94,30,0.3
+Broken Timing,Structural 13D,196,0.6,0.89,0.93,53,0.53
+Broken Timing,Structural 13D,197,0.1,0.93,0.91,12,0.12
+Broken Timing,Structural 13D,197,0.3,0.93,0.93,31,0.31
+Broken Timing,Structural 13D,197,0.6,0.92,0.92,64,0.64
+Broken Timing,Structural 13D,198,0.1,0.96,0.92,11,0.11
+Broken Timing,Structural 13D,198,0.3,0.93,0.91,32,0.32
+Broken Timing,Structural 13D,198,0.6,0.89,0.89,64,0.64
+Broken Timing,Structural 13D,199,0.1,0.94,0.91,9,0.09
+Broken Timing,Structural 13D,199,0.3,0.95,0.94,37,0.37
+Broken Timing,Structural 13D,199,0.6,0.93,0.9,61,0.61
+Entity Inconsistency,MiniLM campaign,0,0.1,0.91,0.85,11,0.11
+Entity Inconsistency,MiniLM campaign,0,0.3,0.91,0.84,31,0.31
+Entity Inconsistency,MiniLM campaign,0,0.6,0.91,0.82,62,0.62
+Entity Inconsistency,MiniLM campaign,1,0.1,0.86,0.79,9,0.09
+Entity Inconsistency,MiniLM campaign,1,0.3,0.87,0.81,31,0.31
+Entity Inconsistency,MiniLM campaign,1,0.6,0.87,0.79,58,0.58
+Entity Inconsistency,MiniLM campaign,2,0.1,0.91,0.9,16,0.16
+Entity Inconsistency,MiniLM campaign,2,0.3,0.91,0.89,33,0.33
+Entity Inconsistency,MiniLM campaign,2,0.6,0.91,0.88,59,0.59
+Entity Inconsistency,MiniLM campaign,3,0.1,0.85,0.86,10,0.1
+Entity Inconsistency,MiniLM campaign,3,0.3,0.83,0.87,28,0.28
+Entity Inconsistency,MiniLM campaign,3,0.6,0.83,0.87,57,0.57
+Entity Inconsistency,MiniLM campaign,4,0.1,0.86,0.81,9,0.09
+Entity Inconsistency,MiniLM campaign,4,0.3,0.85,0.81,33,0.33
+Entity Inconsistency,MiniLM campaign,4,0.6,0.85,0.82,62,0.62
+Entity Inconsistency,MiniLM campaign,5,0.1,0.82,0.88,10,0.1
+Entity Inconsistency,MiniLM campaign,5,0.3,0.83,0.89,28,0.28
+Entity Inconsistency,MiniLM campaign,5,0.6,0.84,0.87,63,0.63
+Entity Inconsistency,MiniLM campaign,6,0.1,0.9,0.84,12,0.12
+Entity Inconsistency,MiniLM campaign,6,0.3,0.9,0.83,36,0.36
+Entity Inconsistency,MiniLM campaign,6,0.6,0.89,0.82,65,0.65
+Entity Inconsistency,MiniLM campaign,7,0.1,0.8,0.83,15,0.15
+Entity Inconsistency,MiniLM campaign,7,0.3,0.8,0.82,31,0.31
+Entity Inconsistency,MiniLM campaign,7,0.6,0.8,0.8,61,0.61
+Entity Inconsistency,MiniLM campaign,8,0.1,0.83,0.91,10,0.1
+Entity Inconsistency,MiniLM campaign,8,0.3,0.84,0.88,34,0.34
+Entity Inconsistency,MiniLM campaign,8,0.6,0.86,0.87,63,0.63
+Entity Inconsistency,MiniLM campaign,9,0.1,0.87,0.86,9,0.09
+Entity Inconsistency,MiniLM campaign,9,0.3,0.86,0.85,27,0.27
+Entity Inconsistency,MiniLM campaign,9,0.6,0.86,0.85,60,0.6
+Entity Inconsistency,MiniLM campaign,10,0.1,0.86,0.86,11,0.11
+Entity Inconsistency,MiniLM campaign,10,0.3,0.88,0.85,29,0.29
+Entity Inconsistency,MiniLM campaign,10,0.6,0.89,0.85,54,0.54
+Entity Inconsistency,MiniLM campaign,11,0.1,0.87,0.8,13,0.13
+Entity Inconsistency,MiniLM campaign,11,0.3,0.87,0.8,28,0.28
+Entity Inconsistency,MiniLM campaign,11,0.6,0.88,0.82,64,0.64
+Entity Inconsistency,MiniLM campaign,12,0.1,0.87,0.84,11,0.11
+Entity Inconsistency,MiniLM campaign,12,0.3,0.87,0.81,34,0.34
+Entity Inconsistency,MiniLM campaign,12,0.6,0.86,0.81,65,0.65
+Entity Inconsistency,MiniLM campaign,13,0.1,0.9,0.83,6,0.06
+Entity Inconsistency,MiniLM campaign,13,0.3,0.91,0.83,29,0.29
+Entity Inconsistency,MiniLM campaign,13,0.6,0.91,0.82,61,0.61
+Entity Inconsistency,MiniLM campaign,14,0.1,0.88,0.88,12,0.12
+Entity Inconsistency,MiniLM campaign,14,0.3,0.88,0.89,28,0.28
+Entity Inconsistency,MiniLM campaign,14,0.6,0.9,0.87,61,0.61
+Entity Inconsistency,MiniLM campaign,15,0.1,0.88,0.83,14,0.14
+Entity Inconsistency,MiniLM campaign,15,0.3,0.87,0.85,35,0.35
+Entity Inconsistency,MiniLM campaign,15,0.6,0.88,0.83,66,0.66
+Entity Inconsistency,MiniLM campaign,16,0.1,0.89,0.89,8,0.08
+Entity Inconsistency,MiniLM campaign,16,0.3,0.9,0.87,27,0.27
+Entity Inconsistency,MiniLM campaign,16,0.6,0.91,0.86,60,0.6
+Entity Inconsistency,MiniLM campaign,17,0.1,0.9,0.79,10,0.1
+Entity Inconsistency,MiniLM campaign,17,0.3,0.89,0.81,29,0.29
+Entity Inconsistency,MiniLM campaign,17,0.6,0.9,0.79,54,0.54
+Entity Inconsistency,MiniLM campaign,18,0.1,0.93,0.82,7,0.07
+Entity Inconsistency,MiniLM campaign,18,0.3,0.94,0.79,31,0.31
+Entity Inconsistency,MiniLM campaign,18,0.6,0.93,0.8,64,0.64
+Entity Inconsistency,MiniLM campaign,19,0.1,0.89,0.8,12,0.12
+Entity Inconsistency,MiniLM campaign,19,0.3,0.89,0.77,36,0.36
+Entity Inconsistency,MiniLM campaign,19,0.6,0.88,0.77,64,0.64
+Entity Inconsistency,MiniLM campaign,20,0.1,0.85,0.76,10,0.1
+Entity Inconsistency,MiniLM campaign,20,0.3,0.87,0.73,30,0.3
+Entity Inconsistency,MiniLM campaign,20,0.6,0.86,0.73,57,0.57
+Entity Inconsistency,MiniLM campaign,21,0.1,0.74,0.92,9,0.09
+Entity Inconsistency,MiniLM campaign,21,0.3,0.75,0.91,25,0.25
+Entity Inconsistency,MiniLM campaign,21,0.6,0.75,0.91,59,0.59
+Entity Inconsistency,MiniLM campaign,22,0.1,0.87,0.85,16,0.16
+Entity Inconsistency,MiniLM campaign,22,0.3,0.87,0.85,41,0.41
+Entity Inconsistency,MiniLM campaign,22,0.6,0.89,0.83,69,0.69
+Entity Inconsistency,MiniLM campaign,23,0.1,0.86,0.84,13,0.13
+Entity Inconsistency,MiniLM campaign,23,0.3,0.85,0.82,34,0.34
+Entity Inconsistency,MiniLM campaign,23,0.6,0.86,0.81,64,0.64
+Entity Inconsistency,MiniLM campaign,24,0.1,0.8,0.89,9,0.09
+Entity Inconsistency,MiniLM campaign,24,0.3,0.8,0.89,28,0.28
+Entity Inconsistency,MiniLM campaign,24,0.6,0.81,0.89,57,0.57
+Entity Inconsistency,MiniLM campaign,25,0.1,0.89,0.89,13,0.13
+Entity Inconsistency,MiniLM campaign,25,0.3,0.89,0.91,33,0.33
+Entity Inconsistency,MiniLM campaign,25,0.6,0.9,0.89,63,0.63
+Entity Inconsistency,MiniLM campaign,26,0.1,0.86,0.85,9,0.09
+Entity Inconsistency,MiniLM campaign,26,0.3,0.86,0.85,34,0.34
+Entity Inconsistency,MiniLM campaign,26,0.6,0.89,0.85,60,0.6
+Entity Inconsistency,MiniLM campaign,27,0.1,0.83,0.88,12,0.12
+Entity Inconsistency,MiniLM campaign,27,0.3,0.83,0.87,30,0.3
+Entity Inconsistency,MiniLM campaign,27,0.6,0.86,0.82,60,0.6
+Entity Inconsistency,MiniLM campaign,28,0.1,0.86,0.9,7,0.07
+Entity Inconsistency,MiniLM campaign,28,0.3,0.85,0.9,20,0.2
+Entity Inconsistency,MiniLM campaign,28,0.6,0.88,0.89,62,0.62
+Entity Inconsistency,MiniLM campaign,29,0.1,0.8,0.94,7,0.07
+Entity Inconsistency,MiniLM campaign,29,0.3,0.8,0.92,28,0.28
+Entity Inconsistency,MiniLM campaign,29,0.6,0.79,0.9,61,0.61
+Entity Inconsistency,MiniLM campaign,30,0.1,0.85,0.86,15,0.15
+Entity Inconsistency,MiniLM campaign,30,0.3,0.84,0.87,33,0.33
+Entity Inconsistency,MiniLM campaign,30,0.6,0.85,0.86,62,0.62
+Entity Inconsistency,MiniLM campaign,31,0.1,0.92,0.84,15,0.15
+Entity Inconsistency,MiniLM campaign,31,0.3,0.93,0.8,36,0.36
+Entity Inconsistency,MiniLM campaign,31,0.6,0.94,0.78,60,0.6
+Entity Inconsistency,MiniLM campaign,32,0.1,0.86,0.86,9,0.09
+Entity Inconsistency,MiniLM campaign,32,0.3,0.87,0.85,25,0.25
+Entity Inconsistency,MiniLM campaign,32,0.6,0.87,0.85,57,0.57
+Entity Inconsistency,MiniLM campaign,33,0.1,0.89,0.86,9,0.09
+Entity Inconsistency,MiniLM campaign,33,0.3,0.9,0.85,25,0.25
+Entity Inconsistency,MiniLM campaign,33,0.6,0.9,0.84,61,0.61
+Entity Inconsistency,MiniLM campaign,34,0.1,0.88,0.91,10,0.1
+Entity Inconsistency,MiniLM campaign,34,0.3,0.87,0.9,32,0.32
+Entity Inconsistency,MiniLM campaign,34,0.6,0.88,0.87,61,0.61
+Entity Inconsistency,MiniLM campaign,35,0.1,0.84,0.85,7,0.07
+Entity Inconsistency,MiniLM campaign,35,0.3,0.83,0.86,28,0.28
+Entity Inconsistency,MiniLM campaign,35,0.6,0.86,0.86,67,0.67
+Entity Inconsistency,MiniLM campaign,36,0.1,0.88,0.87,7,0.07
+Entity Inconsistency,MiniLM campaign,36,0.3,0.87,0.88,28,0.28
+Entity Inconsistency,MiniLM campaign,36,0.6,0.88,0.84,65,0.65
+Entity Inconsistency,MiniLM campaign,37,0.1,0.81,0.85,8,0.08
+Entity Inconsistency,MiniLM campaign,37,0.3,0.81,0.84,31,0.31
+Entity Inconsistency,MiniLM campaign,37,0.6,0.82,0.8,60,0.6
+Entity Inconsistency,MiniLM campaign,38,0.1,0.89,0.87,11,0.11
+Entity Inconsistency,MiniLM campaign,38,0.3,0.91,0.88,33,0.33
+Entity Inconsistency,MiniLM campaign,38,0.6,0.91,0.88,60,0.6
+Entity Inconsistency,MiniLM campaign,39,0.1,0.92,0.83,11,0.11
+Entity Inconsistency,MiniLM campaign,39,0.3,0.93,0.83,26,0.26
+Entity Inconsistency,MiniLM campaign,39,0.6,0.94,0.83,59,0.59
+Entity Inconsistency,MiniLM campaign,40,0.1,0.87,0.88,11,0.11
+Entity Inconsistency,MiniLM campaign,40,0.3,0.87,0.88,27,0.27
+Entity Inconsistency,MiniLM campaign,40,0.6,0.86,0.85,59,0.59
+Entity Inconsistency,MiniLM campaign,41,0.1,0.83,0.85,6,0.06
+Entity Inconsistency,MiniLM campaign,41,0.3,0.83,0.87,26,0.26
+Entity Inconsistency,MiniLM campaign,41,0.6,0.85,0.84,57,0.57
+Entity Inconsistency,MiniLM campaign,42,0.1,0.88,0.89,8,0.08
+Entity Inconsistency,MiniLM campaign,42,0.3,0.87,0.88,32,0.32
+Entity Inconsistency,MiniLM campaign,42,0.6,0.9,0.89,63,0.63
+Entity Inconsistency,MiniLM campaign,43,0.1,0.81,0.9,11,0.11
+Entity Inconsistency,MiniLM campaign,43,0.3,0.82,0.89,32,0.32
+Entity Inconsistency,MiniLM campaign,43,0.6,0.83,0.89,57,0.57
+Entity Inconsistency,MiniLM campaign,44,0.1,0.84,0.78,13,0.13
+Entity Inconsistency,MiniLM campaign,44,0.3,0.85,0.78,33,0.33
+Entity Inconsistency,MiniLM campaign,44,0.6,0.87,0.77,63,0.63
+Entity Inconsistency,MiniLM campaign,45,0.1,0.83,0.83,10,0.1
+Entity Inconsistency,MiniLM campaign,45,0.3,0.83,0.83,27,0.27
+Entity Inconsistency,MiniLM campaign,45,0.6,0.85,0.82,62,0.62
+Entity Inconsistency,MiniLM campaign,46,0.1,0.9,0.86,11,0.11
+Entity Inconsistency,MiniLM campaign,46,0.3,0.9,0.89,28,0.28
+Entity Inconsistency,MiniLM campaign,46,0.6,0.91,0.89,66,0.66
+Entity Inconsistency,MiniLM campaign,47,0.1,0.87,0.86,10,0.1
+Entity Inconsistency,MiniLM campaign,47,0.3,0.87,0.87,30,0.3
+Entity Inconsistency,MiniLM campaign,47,0.6,0.88,0.85,67,0.67
+Entity Inconsistency,MiniLM campaign,48,0.1,0.82,0.83,11,0.11
+Entity Inconsistency,MiniLM campaign,48,0.3,0.83,0.82,36,0.36
+Entity Inconsistency,MiniLM campaign,48,0.6,0.84,0.83,67,0.67
+Entity Inconsistency,MiniLM campaign,49,0.1,0.87,0.91,10,0.1
+Entity Inconsistency,MiniLM campaign,49,0.3,0.86,0.89,34,0.34
+Entity Inconsistency,MiniLM campaign,49,0.6,0.85,0.88,66,0.66
+Entity Inconsistency,MiniLM campaign,50,0.1,0.89,0.9,9,0.09
+Entity Inconsistency,MiniLM campaign,50,0.3,0.89,0.9,23,0.23
+Entity Inconsistency,MiniLM campaign,50,0.6,0.88,0.9,57,0.57
+Entity Inconsistency,MiniLM campaign,51,0.1,0.79,0.87,10,0.1
+Entity Inconsistency,MiniLM campaign,51,0.3,0.79,0.88,28,0.28
+Entity Inconsistency,MiniLM campaign,51,0.6,0.79,0.86,64,0.64
+Entity Inconsistency,MiniLM campaign,52,0.1,0.85,0.92,10,0.1
+Entity Inconsistency,MiniLM campaign,52,0.3,0.85,0.91,32,0.32
+Entity Inconsistency,MiniLM campaign,52,0.6,0.86,0.9,60,0.6
+Entity Inconsistency,MiniLM campaign,53,0.1,0.83,0.82,8,0.08
+Entity Inconsistency,MiniLM campaign,53,0.3,0.82,0.83,28,0.28
+Entity Inconsistency,MiniLM campaign,53,0.6,0.85,0.85,63,0.63
+Entity Inconsistency,MiniLM campaign,54,0.1,0.87,0.89,11,0.11
+Entity Inconsistency,MiniLM campaign,54,0.3,0.89,0.89,39,0.39
+Entity Inconsistency,MiniLM campaign,54,0.6,0.92,0.88,71,0.71
+Entity Inconsistency,MiniLM campaign,55,0.1,0.89,0.82,10,0.1
+Entity Inconsistency,MiniLM campaign,55,0.3,0.89,0.82,31,0.31
+Entity Inconsistency,MiniLM campaign,55,0.6,0.9,0.79,58,0.58
+Entity Inconsistency,MiniLM campaign,56,0.1,0.82,0.9,10,0.1
+Entity Inconsistency,MiniLM campaign,56,0.3,0.81,0.9,30,0.3
+Entity Inconsistency,MiniLM campaign,56,0.6,0.82,0.89,64,0.64
+Entity Inconsistency,MiniLM campaign,57,0.1,0.85,0.9,10,0.1
+Entity Inconsistency,MiniLM campaign,57,0.3,0.86,0.9,32,0.32
+Entity Inconsistency,MiniLM campaign,57,0.6,0.86,0.92,55,0.55
+Entity Inconsistency,MiniLM campaign,58,0.1,0.92,0.86,7,0.07
+Entity Inconsistency,MiniLM campaign,58,0.3,0.93,0.84,30,0.3
+Entity Inconsistency,MiniLM campaign,58,0.6,0.94,0.84,56,0.56
+Entity Inconsistency,MiniLM campaign,59,0.1,0.85,0.89,14,0.14
+Entity Inconsistency,MiniLM campaign,59,0.3,0.83,0.9,32,0.32
+Entity Inconsistency,MiniLM campaign,59,0.6,0.84,0.89,61,0.61
+Entity Inconsistency,MiniLM campaign,60,0.1,0.83,0.81,14,0.14
+Entity Inconsistency,MiniLM campaign,60,0.3,0.8,0.81,37,0.37
+Entity Inconsistency,MiniLM campaign,60,0.6,0.81,0.82,65,0.65
+Entity Inconsistency,MiniLM campaign,61,0.1,0.87,0.84,9,0.09
+Entity Inconsistency,MiniLM campaign,61,0.3,0.87,0.84,26,0.26
+Entity Inconsistency,MiniLM campaign,61,0.6,0.89,0.83,54,0.54
+Entity Inconsistency,MiniLM campaign,62,0.1,0.88,0.88,10,0.1
+Entity Inconsistency,MiniLM campaign,62,0.3,0.88,0.88,27,0.27
+Entity Inconsistency,MiniLM campaign,62,0.6,0.89,0.86,56,0.56
+Entity Inconsistency,MiniLM campaign,63,0.1,0.76,0.9,9,0.09
+Entity Inconsistency,MiniLM campaign,63,0.3,0.76,0.9,31,0.31
+Entity Inconsistency,MiniLM campaign,63,0.6,0.76,0.92,62,0.62
+Entity Inconsistency,MiniLM campaign,64,0.1,0.71,0.87,9,0.09
+Entity Inconsistency,MiniLM campaign,64,0.3,0.73,0.88,31,0.31
+Entity Inconsistency,MiniLM campaign,64,0.6,0.74,0.89,64,0.64
+Entity Inconsistency,MiniLM campaign,65,0.1,0.9,0.82,10,0.1
+Entity Inconsistency,MiniLM campaign,65,0.3,0.89,0.83,24,0.24
+Entity Inconsistency,MiniLM campaign,65,0.6,0.91,0.82,60,0.6
+Entity Inconsistency,MiniLM campaign,66,0.1,0.86,0.91,13,0.13
+Entity Inconsistency,MiniLM campaign,66,0.3,0.86,0.9,35,0.35
+Entity Inconsistency,MiniLM campaign,66,0.6,0.86,0.9,60,0.6
+Entity Inconsistency,MiniLM campaign,67,0.1,0.89,0.87,9,0.09
+Entity Inconsistency,MiniLM campaign,67,0.3,0.89,0.88,30,0.3
+Entity Inconsistency,MiniLM campaign,67,0.6,0.9,0.85,57,0.57
+Entity Inconsistency,MiniLM campaign,68,0.1,0.87,0.86,9,0.09
+Entity Inconsistency,MiniLM campaign,68,0.3,0.86,0.86,29,0.29
+Entity Inconsistency,MiniLM campaign,68,0.6,0.86,0.85,60,0.6
+Entity Inconsistency,MiniLM campaign,69,0.1,0.93,0.86,13,0.13
+Entity Inconsistency,MiniLM campaign,69,0.3,0.93,0.86,35,0.35
+Entity Inconsistency,MiniLM campaign,69,0.6,0.94,0.87,64,0.64
+Entity Inconsistency,MiniLM campaign,70,0.1,0.87,0.85,11,0.11
+Entity Inconsistency,MiniLM campaign,70,0.3,0.87,0.85,26,0.26
+Entity Inconsistency,MiniLM campaign,70,0.6,0.88,0.82,59,0.59
+Entity Inconsistency,MiniLM campaign,71,0.1,0.87,0.91,10,0.1
+Entity Inconsistency,MiniLM campaign,71,0.3,0.86,0.91,33,0.33
+Entity Inconsistency,MiniLM campaign,71,0.6,0.86,0.89,60,0.6
+Entity Inconsistency,MiniLM campaign,72,0.1,0.9,0.82,7,0.07
+Entity Inconsistency,MiniLM campaign,72,0.3,0.9,0.82,27,0.27
+Entity Inconsistency,MiniLM campaign,72,0.6,0.88,0.83,62,0.62
+Entity Inconsistency,MiniLM campaign,73,0.1,0.81,0.91,9,0.09
+Entity Inconsistency,MiniLM campaign,73,0.3,0.82,0.9,29,0.29
+Entity Inconsistency,MiniLM campaign,73,0.6,0.83,0.91,52,0.52
+Entity Inconsistency,MiniLM campaign,74,0.1,0.86,0.79,10,0.1
+Entity Inconsistency,MiniLM campaign,74,0.3,0.87,0.78,34,0.34
+Entity Inconsistency,MiniLM campaign,74,0.6,0.87,0.77,62,0.62
+Entity Inconsistency,MiniLM campaign,75,0.1,0.9,0.88,13,0.13
+Entity Inconsistency,MiniLM campaign,75,0.3,0.89,0.88,29,0.29
+Entity Inconsistency,MiniLM campaign,75,0.6,0.91,0.89,60,0.6
+Entity Inconsistency,MiniLM campaign,76,0.1,0.81,0.8,10,0.1
+Entity Inconsistency,MiniLM campaign,76,0.3,0.81,0.81,35,0.35
+Entity Inconsistency,MiniLM campaign,76,0.6,0.83,0.78,68,0.68
+Entity Inconsistency,MiniLM campaign,77,0.1,0.83,0.77,13,0.13
+Entity Inconsistency,MiniLM campaign,77,0.3,0.82,0.78,25,0.25
+Entity Inconsistency,MiniLM campaign,77,0.6,0.83,0.8,55,0.55
+Entity Inconsistency,MiniLM campaign,78,0.1,0.86,0.8,7,0.07
+Entity Inconsistency,MiniLM campaign,78,0.3,0.87,0.82,32,0.32
+Entity Inconsistency,MiniLM campaign,78,0.6,0.88,0.81,61,0.61
+Entity Inconsistency,MiniLM campaign,79,0.1,0.92,0.83,9,0.09
+Entity Inconsistency,MiniLM campaign,79,0.3,0.91,0.83,36,0.36
+Entity Inconsistency,MiniLM campaign,79,0.6,0.93,0.83,63,0.63
+Entity Inconsistency,MiniLM campaign,80,0.1,0.85,0.78,12,0.12
+Entity Inconsistency,MiniLM campaign,80,0.3,0.86,0.78,34,0.34
+Entity Inconsistency,MiniLM campaign,80,0.6,0.88,0.76,64,0.64
+Entity Inconsistency,MiniLM campaign,81,0.1,0.84,0.86,14,0.14
+Entity Inconsistency,MiniLM campaign,81,0.3,0.83,0.86,32,0.32
+Entity Inconsistency,MiniLM campaign,81,0.6,0.83,0.87,63,0.63
+Entity Inconsistency,MiniLM campaign,82,0.1,0.88,0.83,8,0.08
+Entity Inconsistency,MiniLM campaign,82,0.3,0.87,0.84,27,0.27
+Entity Inconsistency,MiniLM campaign,82,0.6,0.92,0.84,63,0.63
+Entity Inconsistency,MiniLM campaign,83,0.1,0.94,0.82,11,0.11
+Entity Inconsistency,MiniLM campaign,83,0.3,0.94,0.83,30,0.3
+Entity Inconsistency,MiniLM campaign,83,0.6,0.95,0.81,60,0.6
+Entity Inconsistency,MiniLM campaign,84,0.1,0.87,0.83,7,0.07
+Entity Inconsistency,MiniLM campaign,84,0.3,0.87,0.83,27,0.27
+Entity Inconsistency,MiniLM campaign,84,0.6,0.88,0.81,55,0.55
+Entity Inconsistency,MiniLM campaign,85,0.1,0.85,0.86,13,0.13
+Entity Inconsistency,MiniLM campaign,85,0.3,0.82,0.87,32,0.32
+Entity Inconsistency,MiniLM campaign,85,0.6,0.81,0.87,57,0.57
+Entity Inconsistency,MiniLM campaign,86,0.1,0.89,0.86,10,0.1
+Entity Inconsistency,MiniLM campaign,86,0.3,0.88,0.84,31,0.31
+Entity Inconsistency,MiniLM campaign,86,0.6,0.89,0.81,59,0.59
+Entity Inconsistency,MiniLM campaign,87,0.1,0.88,0.86,9,0.09
+Entity Inconsistency,MiniLM campaign,87,0.3,0.89,0.89,32,0.32
+Entity Inconsistency,MiniLM campaign,87,0.6,0.88,0.86,59,0.59
+Entity Inconsistency,MiniLM campaign,88,0.1,0.91,0.81,8,0.08
+Entity Inconsistency,MiniLM campaign,88,0.3,0.89,0.81,29,0.29
+Entity Inconsistency,MiniLM campaign,88,0.6,0.89,0.79,59,0.59
+Entity Inconsistency,MiniLM campaign,89,0.1,0.89,0.81,7,0.07
+Entity Inconsistency,MiniLM campaign,89,0.3,0.89,0.82,20,0.2
+Entity Inconsistency,MiniLM campaign,89,0.6,0.92,0.82,57,0.57
+Entity Inconsistency,MiniLM campaign,90,0.1,0.92,0.83,8,0.08
+Entity Inconsistency,MiniLM campaign,90,0.3,0.92,0.83,28,0.28
+Entity Inconsistency,MiniLM campaign,90,0.6,0.92,0.83,56,0.56
+Entity Inconsistency,MiniLM campaign,91,0.1,0.9,0.9,13,0.13
+Entity Inconsistency,MiniLM campaign,91,0.3,0.89,0.92,33,0.33
+Entity Inconsistency,MiniLM campaign,91,0.6,0.89,0.9,59,0.59
+Entity Inconsistency,MiniLM campaign,92,0.1,0.92,0.88,12,0.12
+Entity Inconsistency,MiniLM campaign,92,0.3,0.9,0.88,33,0.33
+Entity Inconsistency,MiniLM campaign,92,0.6,0.9,0.86,58,0.58
+Entity Inconsistency,MiniLM campaign,93,0.1,0.85,0.81,12,0.12
+Entity Inconsistency,MiniLM campaign,93,0.3,0.85,0.8,29,0.29
+Entity Inconsistency,MiniLM campaign,93,0.6,0.87,0.81,59,0.59
+Entity Inconsistency,MiniLM campaign,94,0.1,0.9,0.78,8,0.08
+Entity Inconsistency,MiniLM campaign,94,0.3,0.89,0.79,28,0.28
+Entity Inconsistency,MiniLM campaign,94,0.6,0.9,0.8,60,0.6
+Entity Inconsistency,MiniLM campaign,95,0.1,0.91,0.8,14,0.14
+Entity Inconsistency,MiniLM campaign,95,0.3,0.9,0.8,28,0.28
+Entity Inconsistency,MiniLM campaign,95,0.6,0.89,0.78,56,0.56
+Entity Inconsistency,MiniLM campaign,96,0.1,0.88,0.81,15,0.15
+Entity Inconsistency,MiniLM campaign,96,0.3,0.87,0.83,31,0.31
+Entity Inconsistency,MiniLM campaign,96,0.6,0.88,0.84,59,0.59
+Entity Inconsistency,MiniLM campaign,97,0.1,0.87,0.74,11,0.11
+Entity Inconsistency,MiniLM campaign,97,0.3,0.87,0.75,28,0.28
+Entity Inconsistency,MiniLM campaign,97,0.6,0.88,0.74,56,0.56
+Entity Inconsistency,MiniLM campaign,98,0.1,0.86,0.85,10,0.1
+Entity Inconsistency,MiniLM campaign,98,0.3,0.86,0.85,26,0.26
+Entity Inconsistency,MiniLM campaign,98,0.6,0.88,0.84,59,0.59
+Entity Inconsistency,MiniLM campaign,99,0.1,0.88,0.86,12,0.12
+Entity Inconsistency,MiniLM campaign,99,0.3,0.88,0.85,34,0.34
+Entity Inconsistency,MiniLM campaign,99,0.6,0.91,0.83,61,0.61
+Entity Inconsistency,MiniLM campaign,100,0.1,0.87,0.83,9,0.09
+Entity Inconsistency,MiniLM campaign,100,0.3,0.88,0.84,26,0.26
+Entity Inconsistency,MiniLM campaign,100,0.6,0.89,0.84,55,0.55
+Entity Inconsistency,MiniLM campaign,101,0.1,0.88,0.88,8,0.08
+Entity Inconsistency,MiniLM campaign,101,0.3,0.88,0.87,22,0.22
+Entity Inconsistency,MiniLM campaign,101,0.6,0.89,0.86,54,0.54
+Entity Inconsistency,MiniLM campaign,102,0.1,0.76,0.91,10,0.1
+Entity Inconsistency,MiniLM campaign,102,0.3,0.77,0.91,32,0.32
+Entity Inconsistency,MiniLM campaign,102,0.6,0.78,0.89,59,0.59
+Entity Inconsistency,MiniLM campaign,103,0.1,0.89,0.87,5,0.05
+Entity Inconsistency,MiniLM campaign,103,0.3,0.88,0.89,27,0.27
+Entity Inconsistency,MiniLM campaign,103,0.6,0.89,0.87,62,0.62
+Entity Inconsistency,MiniLM campaign,104,0.1,0.92,0.9,12,0.12
+Entity Inconsistency,MiniLM campaign,104,0.3,0.92,0.89,34,0.34
+Entity Inconsistency,MiniLM campaign,104,0.6,0.93,0.89,60,0.6
+Entity Inconsistency,MiniLM campaign,105,0.1,0.85,0.89,10,0.1
+Entity Inconsistency,MiniLM campaign,105,0.3,0.85,0.89,26,0.26
+Entity Inconsistency,MiniLM campaign,105,0.6,0.86,0.89,56,0.56
+Entity Inconsistency,MiniLM campaign,106,0.1,0.82,0.9,10,0.1
+Entity Inconsistency,MiniLM campaign,106,0.3,0.81,0.89,35,0.35
+Entity Inconsistency,MiniLM campaign,106,0.6,0.81,0.87,62,0.62
+Entity Inconsistency,MiniLM campaign,107,0.1,0.87,0.81,12,0.12
+Entity Inconsistency,MiniLM campaign,107,0.3,0.87,0.8,31,0.31
+Entity Inconsistency,MiniLM campaign,107,0.6,0.87,0.79,61,0.61
+Entity Inconsistency,MiniLM campaign,108,0.1,0.9,0.92,15,0.15
+Entity Inconsistency,MiniLM campaign,108,0.3,0.89,0.91,28,0.28
+Entity Inconsistency,MiniLM campaign,108,0.6,0.91,0.91,54,0.54
+Entity Inconsistency,MiniLM campaign,109,0.1,0.88,0.82,10,0.1
+Entity Inconsistency,MiniLM campaign,109,0.3,0.87,0.81,31,0.31
+Entity Inconsistency,MiniLM campaign,109,0.6,0.88,0.79,57,0.57
+Entity Inconsistency,MiniLM campaign,110,0.1,0.9,0.8,12,0.12
+Entity Inconsistency,MiniLM campaign,110,0.3,0.88,0.79,34,0.34
+Entity Inconsistency,MiniLM campaign,110,0.6,0.91,0.79,64,0.64
+Entity Inconsistency,MiniLM campaign,111,0.1,0.85,0.89,8,0.08
+Entity Inconsistency,MiniLM campaign,111,0.3,0.86,0.87,33,0.33
+Entity Inconsistency,MiniLM campaign,111,0.6,0.86,0.88,65,0.65
+Entity Inconsistency,MiniLM campaign,112,0.1,0.9,0.78,7,0.07
+Entity Inconsistency,MiniLM campaign,112,0.3,0.91,0.79,27,0.27
+Entity Inconsistency,MiniLM campaign,112,0.6,0.9,0.77,57,0.57
+Entity Inconsistency,MiniLM campaign,113,0.1,0.82,0.86,9,0.09
+Entity Inconsistency,MiniLM campaign,113,0.3,0.82,0.86,27,0.27
+Entity Inconsistency,MiniLM campaign,113,0.6,0.81,0.88,65,0.65
+Entity Inconsistency,MiniLM campaign,114,0.1,0.85,0.83,14,0.14
+Entity Inconsistency,MiniLM campaign,114,0.3,0.85,0.81,32,0.32
+Entity Inconsistency,MiniLM campaign,114,0.6,0.85,0.83,60,0.6
+Entity Inconsistency,MiniLM campaign,115,0.1,0.91,0.86,10,0.1
+Entity Inconsistency,MiniLM campaign,115,0.3,0.91,0.86,27,0.27
+Entity Inconsistency,MiniLM campaign,115,0.6,0.92,0.87,57,0.57
+Entity Inconsistency,MiniLM campaign,116,0.1,0.88,0.92,11,0.11
+Entity Inconsistency,MiniLM campaign,116,0.3,0.88,0.88,36,0.36
+Entity Inconsistency,MiniLM campaign,116,0.6,0.88,0.88,66,0.66
+Entity Inconsistency,MiniLM campaign,117,0.1,0.87,0.83,11,0.11
+Entity Inconsistency,MiniLM campaign,117,0.3,0.87,0.84,29,0.29
+Entity Inconsistency,MiniLM campaign,117,0.6,0.88,0.85,63,0.63
+Entity Inconsistency,MiniLM campaign,118,0.1,0.9,0.82,10,0.1
+Entity Inconsistency,MiniLM campaign,118,0.3,0.89,0.82,31,0.31
+Entity Inconsistency,MiniLM campaign,118,0.6,0.89,0.84,61,0.61
+Entity Inconsistency,MiniLM campaign,119,0.1,0.9,0.88,11,0.11
+Entity Inconsistency,MiniLM campaign,119,0.3,0.92,0.86,32,0.32
+Entity Inconsistency,MiniLM campaign,119,0.6,0.94,0.87,58,0.58
+Entity Inconsistency,MiniLM campaign,120,0.1,0.91,0.88,13,0.13
+Entity Inconsistency,MiniLM campaign,120,0.3,0.91,0.86,37,0.37
+Entity Inconsistency,MiniLM campaign,120,0.6,0.91,0.85,54,0.54
+Entity Inconsistency,MiniLM campaign,121,0.1,0.93,0.81,17,0.17
+Entity Inconsistency,MiniLM campaign,121,0.3,0.93,0.8,33,0.33
+Entity Inconsistency,MiniLM campaign,121,0.6,0.94,0.8,64,0.64
+Entity Inconsistency,MiniLM campaign,122,0.1,0.89,0.79,8,0.08
+Entity Inconsistency,MiniLM campaign,122,0.3,0.9,0.81,35,0.35
+Entity Inconsistency,MiniLM campaign,122,0.6,0.9,0.81,64,0.64
+Entity Inconsistency,MiniLM campaign,123,0.1,0.86,0.88,5,0.05
+Entity Inconsistency,MiniLM campaign,123,0.3,0.85,0.87,22,0.22
+Entity Inconsistency,MiniLM campaign,123,0.6,0.86,0.87,58,0.58
+Entity Inconsistency,MiniLM campaign,124,0.1,0.92,0.86,9,0.09
+Entity Inconsistency,MiniLM campaign,124,0.3,0.9,0.85,30,0.3
+Entity Inconsistency,MiniLM campaign,124,0.6,0.92,0.83,61,0.61
+Entity Inconsistency,MiniLM campaign,125,0.1,0.84,0.92,11,0.11
+Entity Inconsistency,MiniLM campaign,125,0.3,0.84,0.92,28,0.28
+Entity Inconsistency,MiniLM campaign,125,0.6,0.83,0.91,63,0.63
+Entity Inconsistency,MiniLM campaign,126,0.1,0.87,0.81,9,0.09
+Entity Inconsistency,MiniLM campaign,126,0.3,0.89,0.82,31,0.31
+Entity Inconsistency,MiniLM campaign,126,0.6,0.88,0.82,59,0.59
+Entity Inconsistency,MiniLM campaign,127,0.1,0.87,0.88,12,0.12
+Entity Inconsistency,MiniLM campaign,127,0.3,0.86,0.89,29,0.29
+Entity Inconsistency,MiniLM campaign,127,0.6,0.83,0.89,56,0.56
+Entity Inconsistency,MiniLM campaign,128,0.1,0.84,0.94,12,0.12
+Entity Inconsistency,MiniLM campaign,128,0.3,0.85,0.92,26,0.26
+Entity Inconsistency,MiniLM campaign,128,0.6,0.88,0.92,57,0.57
+Entity Inconsistency,MiniLM campaign,129,0.1,0.94,0.86,9,0.09
+Entity Inconsistency,MiniLM campaign,129,0.3,0.92,0.86,27,0.27
+Entity Inconsistency,MiniLM campaign,129,0.6,0.92,0.86,50,0.5
+Entity Inconsistency,MiniLM campaign,130,0.1,0.91,0.86,8,0.08
+Entity Inconsistency,MiniLM campaign,130,0.3,0.9,0.85,26,0.26
+Entity Inconsistency,MiniLM campaign,130,0.6,0.89,0.85,57,0.57
+Entity Inconsistency,MiniLM campaign,131,0.1,0.88,0.82,8,0.08
+Entity Inconsistency,MiniLM campaign,131,0.3,0.87,0.79,29,0.29
+Entity Inconsistency,MiniLM campaign,131,0.6,0.88,0.74,66,0.66
+Entity Inconsistency,MiniLM campaign,132,0.1,0.87,0.88,10,0.1
+Entity Inconsistency,MiniLM campaign,132,0.3,0.89,0.89,28,0.28
+Entity Inconsistency,MiniLM campaign,132,0.6,0.89,0.84,54,0.54
+Entity Inconsistency,MiniLM campaign,133,0.1,0.8,0.88,10,0.1
+Entity Inconsistency,MiniLM campaign,133,0.3,0.81,0.88,34,0.34
+Entity Inconsistency,MiniLM campaign,133,0.6,0.84,0.89,56,0.56
+Entity Inconsistency,MiniLM campaign,134,0.1,0.91,0.82,11,0.11
+Entity Inconsistency,MiniLM campaign,134,0.3,0.91,0.81,27,0.27
+Entity Inconsistency,MiniLM campaign,134,0.6,0.89,0.82,60,0.6
+Entity Inconsistency,MiniLM campaign,135,0.1,0.85,0.82,13,0.13
+Entity Inconsistency,MiniLM campaign,135,0.3,0.85,0.83,34,0.34
+Entity Inconsistency,MiniLM campaign,135,0.6,0.87,0.84,57,0.57
+Entity Inconsistency,MiniLM campaign,136,0.1,0.89,0.9,13,0.13
+Entity Inconsistency,MiniLM campaign,136,0.3,0.89,0.92,41,0.41
+Entity Inconsistency,MiniLM campaign,136,0.6,0.9,0.91,70,0.7
+Entity Inconsistency,MiniLM campaign,137,0.1,0.87,0.89,12,0.12
+Entity Inconsistency,MiniLM campaign,137,0.3,0.87,0.89,31,0.31
+Entity Inconsistency,MiniLM campaign,137,0.6,0.88,0.87,65,0.65
+Entity Inconsistency,MiniLM campaign,138,0.1,0.9,0.84,10,0.1
+Entity Inconsistency,MiniLM campaign,138,0.3,0.89,0.82,31,0.31
+Entity Inconsistency,MiniLM campaign,138,0.6,0.89,0.81,58,0.58
+Entity Inconsistency,MiniLM campaign,139,0.1,0.8,0.94,10,0.1
+Entity Inconsistency,MiniLM campaign,139,0.3,0.82,0.93,31,0.31
+Entity Inconsistency,MiniLM campaign,139,0.6,0.82,0.92,61,0.61
+Entity Inconsistency,MiniLM campaign,140,0.1,0.92,0.88,9,0.09
+Entity Inconsistency,MiniLM campaign,140,0.3,0.91,0.88,26,0.26
+Entity Inconsistency,MiniLM campaign,140,0.6,0.91,0.87,59,0.59
+Entity Inconsistency,MiniLM campaign,141,0.1,0.89,0.86,11,0.11
+Entity Inconsistency,MiniLM campaign,141,0.3,0.89,0.88,35,0.35
+Entity Inconsistency,MiniLM campaign,141,0.6,0.89,0.88,63,0.63
+Entity Inconsistency,MiniLM campaign,142,0.1,0.85,0.87,8,0.08
+Entity Inconsistency,MiniLM campaign,142,0.3,0.84,0.87,23,0.23
+Entity Inconsistency,MiniLM campaign,142,0.6,0.86,0.86,53,0.53
+Entity Inconsistency,MiniLM campaign,143,0.1,0.84,0.88,10,0.1
+Entity Inconsistency,MiniLM campaign,143,0.3,0.83,0.87,27,0.27
+Entity Inconsistency,MiniLM campaign,143,0.6,0.83,0.86,55,0.55
+Entity Inconsistency,MiniLM campaign,144,0.1,0.88,0.83,9,0.09
+Entity Inconsistency,MiniLM campaign,144,0.3,0.88,0.85,23,0.23
+Entity Inconsistency,MiniLM campaign,144,0.6,0.89,0.83,55,0.55
+Entity Inconsistency,MiniLM campaign,145,0.1,0.75,0.94,7,0.07
+Entity Inconsistency,MiniLM campaign,145,0.3,0.75,0.93,25,0.25
+Entity Inconsistency,MiniLM campaign,145,0.6,0.74,0.91,59,0.59
+Entity Inconsistency,MiniLM campaign,146,0.1,0.9,0.88,11,0.11
+Entity Inconsistency,MiniLM campaign,146,0.3,0.9,0.86,33,0.33
+Entity Inconsistency,MiniLM campaign,146,0.6,0.9,0.86,58,0.58
+Entity Inconsistency,MiniLM campaign,147,0.1,0.95,0.85,10,0.1
+Entity Inconsistency,MiniLM campaign,147,0.3,0.95,0.87,29,0.29
+Entity Inconsistency,MiniLM campaign,147,0.6,0.94,0.83,64,0.64
+Entity Inconsistency,MiniLM campaign,148,0.1,0.82,0.89,10,0.1
+Entity Inconsistency,MiniLM campaign,148,0.3,0.82,0.89,30,0.3
+Entity Inconsistency,MiniLM campaign,148,0.6,0.84,0.9,66,0.66
+Entity Inconsistency,MiniLM campaign,149,0.1,0.85,0.87,15,0.15
+Entity Inconsistency,MiniLM campaign,149,0.3,0.84,0.87,36,0.36
+Entity Inconsistency,MiniLM campaign,149,0.6,0.83,0.86,65,0.65
+Entity Inconsistency,MiniLM campaign,150,0.1,0.85,0.86,10,0.1
+Entity Inconsistency,MiniLM campaign,150,0.3,0.87,0.87,30,0.3
+Entity Inconsistency,MiniLM campaign,150,0.6,0.87,0.86,60,0.6
+Entity Inconsistency,MiniLM campaign,151,0.1,0.88,0.88,13,0.13
+Entity Inconsistency,MiniLM campaign,151,0.3,0.88,0.87,36,0.36
+Entity Inconsistency,MiniLM campaign,151,0.6,0.88,0.87,65,0.65
+Entity Inconsistency,MiniLM campaign,152,0.1,0.85,0.9,9,0.09
+Entity Inconsistency,MiniLM campaign,152,0.3,0.86,0.91,31,0.31
+Entity Inconsistency,MiniLM campaign,152,0.6,0.88,0.9,64,0.64
+Entity Inconsistency,MiniLM campaign,153,0.1,0.9,0.78,12,0.12
+Entity Inconsistency,MiniLM campaign,153,0.3,0.91,0.77,36,0.36
+Entity Inconsistency,MiniLM campaign,153,0.6,0.92,0.79,63,0.63
+Entity Inconsistency,MiniLM campaign,154,0.1,0.84,0.89,13,0.13
+Entity Inconsistency,MiniLM campaign,154,0.3,0.84,0.92,35,0.35
+Entity Inconsistency,MiniLM campaign,154,0.6,0.86,0.9,63,0.63
+Entity Inconsistency,MiniLM campaign,155,0.1,0.8,0.87,9,0.09
+Entity Inconsistency,MiniLM campaign,155,0.3,0.8,0.88,28,0.28
+Entity Inconsistency,MiniLM campaign,155,0.6,0.8,0.88,50,0.5
+Entity Inconsistency,MiniLM campaign,156,0.1,0.88,0.92,9,0.09
+Entity Inconsistency,MiniLM campaign,156,0.3,0.87,0.91,26,0.26
+Entity Inconsistency,MiniLM campaign,156,0.6,0.92,0.87,63,0.63
+Entity Inconsistency,MiniLM campaign,157,0.1,0.92,0.83,10,0.1
+Entity Inconsistency,MiniLM campaign,157,0.3,0.93,0.85,25,0.25
+Entity Inconsistency,MiniLM campaign,157,0.6,0.94,0.83,58,0.58
+Entity Inconsistency,MiniLM campaign,158,0.1,0.87,0.78,6,0.06
+Entity Inconsistency,MiniLM campaign,158,0.3,0.89,0.79,28,0.28
+Entity Inconsistency,MiniLM campaign,158,0.6,0.87,0.8,61,0.61
+Entity Inconsistency,MiniLM campaign,159,0.1,0.83,0.89,9,0.09
+Entity Inconsistency,MiniLM campaign,159,0.3,0.84,0.87,33,0.33
+Entity Inconsistency,MiniLM campaign,159,0.6,0.86,0.86,64,0.64
+Entity Inconsistency,MiniLM campaign,160,0.1,0.87,0.95,8,0.08
+Entity Inconsistency,MiniLM campaign,160,0.3,0.85,0.94,29,0.29
+Entity Inconsistency,MiniLM campaign,160,0.6,0.87,0.93,50,0.5
+Entity Inconsistency,MiniLM campaign,161,0.1,0.85,0.81,7,0.07
+Entity Inconsistency,MiniLM campaign,161,0.3,0.86,0.8,25,0.25
+Entity Inconsistency,MiniLM campaign,161,0.6,0.88,0.77,62,0.62
+Entity Inconsistency,MiniLM campaign,162,0.1,0.85,0.81,8,0.08
+Entity Inconsistency,MiniLM campaign,162,0.3,0.85,0.79,26,0.26
+Entity Inconsistency,MiniLM campaign,162,0.6,0.89,0.76,61,0.61
+Entity Inconsistency,MiniLM campaign,163,0.1,0.88,0.82,14,0.14
+Entity Inconsistency,MiniLM campaign,163,0.3,0.88,0.81,32,0.32
+Entity Inconsistency,MiniLM campaign,163,0.6,0.88,0.8,62,0.62
+Entity Inconsistency,MiniLM campaign,164,0.1,0.91,0.9,6,0.06
+Entity Inconsistency,MiniLM campaign,164,0.3,0.9,0.88,29,0.29
+Entity Inconsistency,MiniLM campaign,164,0.6,0.92,0.87,57,0.57
+Entity Inconsistency,MiniLM campaign,165,0.1,0.85,0.84,9,0.09
+Entity Inconsistency,MiniLM campaign,165,0.3,0.83,0.84,24,0.24
+Entity Inconsistency,MiniLM campaign,165,0.6,0.82,0.84,58,0.58
+Entity Inconsistency,MiniLM campaign,166,0.1,0.88,0.84,8,0.08
+Entity Inconsistency,MiniLM campaign,166,0.3,0.88,0.85,27,0.27
+Entity Inconsistency,MiniLM campaign,166,0.6,0.88,0.85,59,0.59
+Entity Inconsistency,MiniLM campaign,167,0.1,0.86,0.88,8,0.08
+Entity Inconsistency,MiniLM campaign,167,0.3,0.85,0.85,32,0.32
+Entity Inconsistency,MiniLM campaign,167,0.6,0.86,0.84,62,0.62
+Entity Inconsistency,MiniLM campaign,168,0.1,0.79,0.91,15,0.15
+Entity Inconsistency,MiniLM campaign,168,0.3,0.79,0.9,29,0.29
+Entity Inconsistency,MiniLM campaign,168,0.6,0.8,0.89,55,0.55
+Entity Inconsistency,MiniLM campaign,169,0.1,0.84,0.79,7,0.07
+Entity Inconsistency,MiniLM campaign,169,0.3,0.83,0.79,30,0.3
+Entity Inconsistency,MiniLM campaign,169,0.6,0.86,0.78,57,0.57
+Entity Inconsistency,MiniLM campaign,170,0.1,0.89,0.84,8,0.08
+Entity Inconsistency,MiniLM campaign,170,0.3,0.89,0.83,24,0.24
+Entity Inconsistency,MiniLM campaign,170,0.6,0.89,0.83,60,0.6
+Entity Inconsistency,MiniLM campaign,171,0.1,0.84,0.89,9,0.09
+Entity Inconsistency,MiniLM campaign,171,0.3,0.85,0.89,22,0.22
+Entity Inconsistency,MiniLM campaign,171,0.6,0.86,0.87,55,0.55
+Entity Inconsistency,MiniLM campaign,172,0.1,0.89,0.93,10,0.1
+Entity Inconsistency,MiniLM campaign,172,0.3,0.89,0.93,30,0.3
+Entity Inconsistency,MiniLM campaign,172,0.6,0.87,0.92,64,0.64
+Entity Inconsistency,MiniLM campaign,173,0.1,0.89,0.79,15,0.15
+Entity Inconsistency,MiniLM campaign,173,0.3,0.89,0.79,28,0.28
+Entity Inconsistency,MiniLM campaign,173,0.6,0.89,0.77,61,0.61
+Entity Inconsistency,MiniLM campaign,174,0.1,0.9,0.83,12,0.12
+Entity Inconsistency,MiniLM campaign,174,0.3,0.9,0.85,30,0.3
+Entity Inconsistency,MiniLM campaign,174,0.6,0.88,0.86,62,0.62
+Entity Inconsistency,MiniLM campaign,175,0.1,0.87,0.85,9,0.09
+Entity Inconsistency,MiniLM campaign,175,0.3,0.88,0.82,26,0.26
+Entity Inconsistency,MiniLM campaign,175,0.6,0.88,0.82,60,0.6
+Entity Inconsistency,MiniLM campaign,176,0.1,0.86,0.84,8,0.08
+Entity Inconsistency,MiniLM campaign,176,0.3,0.88,0.82,30,0.3
+Entity Inconsistency,MiniLM campaign,176,0.6,0.87,0.83,56,0.56
+Entity Inconsistency,MiniLM campaign,177,0.1,0.9,0.91,10,0.1
+Entity Inconsistency,MiniLM campaign,177,0.3,0.88,0.9,30,0.3
+Entity Inconsistency,MiniLM campaign,177,0.6,0.88,0.88,56,0.56
+Entity Inconsistency,MiniLM campaign,178,0.1,0.76,0.93,6,0.06
+Entity Inconsistency,MiniLM campaign,178,0.3,0.77,0.92,25,0.25
+Entity Inconsistency,MiniLM campaign,178,0.6,0.8,0.89,60,0.6
+Entity Inconsistency,MiniLM campaign,179,0.1,0.87,0.88,8,0.08
+Entity Inconsistency,MiniLM campaign,179,0.3,0.88,0.89,29,0.29
+Entity Inconsistency,MiniLM campaign,179,0.6,0.87,0.92,54,0.54
+Entity Inconsistency,MiniLM campaign,180,0.1,0.9,0.89,10,0.1
+Entity Inconsistency,MiniLM campaign,180,0.3,0.88,0.9,35,0.35
+Entity Inconsistency,MiniLM campaign,180,0.6,0.87,0.91,55,0.55
+Entity Inconsistency,MiniLM campaign,181,0.1,0.89,0.87,13,0.13
+Entity Inconsistency,MiniLM campaign,181,0.3,0.89,0.88,35,0.35
+Entity Inconsistency,MiniLM campaign,181,0.6,0.9,0.88,58,0.58
+Entity Inconsistency,MiniLM campaign,182,0.1,0.88,0.77,7,0.07
+Entity Inconsistency,MiniLM campaign,182,0.3,0.86,0.78,33,0.33
+Entity Inconsistency,MiniLM campaign,182,0.6,0.86,0.77,62,0.62
+Entity Inconsistency,MiniLM campaign,183,0.1,0.86,0.84,5,0.05
+Entity Inconsistency,MiniLM campaign,183,0.3,0.86,0.84,30,0.3
+Entity Inconsistency,MiniLM campaign,183,0.6,0.86,0.83,60,0.6
+Entity Inconsistency,MiniLM campaign,184,0.1,0.93,0.87,8,0.08
+Entity Inconsistency,MiniLM campaign,184,0.3,0.93,0.89,24,0.24
+Entity Inconsistency,MiniLM campaign,184,0.6,0.96,0.87,63,0.63
+Entity Inconsistency,MiniLM campaign,185,0.1,0.83,0.92,6,0.06
+Entity Inconsistency,MiniLM campaign,185,0.3,0.82,0.94,28,0.28
+Entity Inconsistency,MiniLM campaign,185,0.6,0.81,0.93,62,0.62
+Entity Inconsistency,MiniLM campaign,186,0.1,0.88,0.85,11,0.11
+Entity Inconsistency,MiniLM campaign,186,0.3,0.89,0.84,29,0.29
+Entity Inconsistency,MiniLM campaign,186,0.6,0.9,0.83,62,0.62
+Entity Inconsistency,MiniLM campaign,187,0.1,0.9,0.9,13,0.13
+Entity Inconsistency,MiniLM campaign,187,0.3,0.9,0.88,37,0.37
+Entity Inconsistency,MiniLM campaign,187,0.6,0.92,0.87,63,0.63
+Entity Inconsistency,MiniLM campaign,188,0.1,0.87,0.84,7,0.07
+Entity Inconsistency,MiniLM campaign,188,0.3,0.87,0.83,25,0.25
+Entity Inconsistency,MiniLM campaign,188,0.6,0.89,0.84,60,0.6
+Entity Inconsistency,MiniLM campaign,189,0.1,0.83,0.89,12,0.12
+Entity Inconsistency,MiniLM campaign,189,0.3,0.82,0.88,34,0.34
+Entity Inconsistency,MiniLM campaign,189,0.6,0.84,0.86,64,0.64
+Entity Inconsistency,MiniLM campaign,190,0.1,0.91,0.77,9,0.09
+Entity Inconsistency,MiniLM campaign,190,0.3,0.9,0.73,34,0.34
+Entity Inconsistency,MiniLM campaign,190,0.6,0.88,0.75,65,0.65
+Entity Inconsistency,MiniLM campaign,191,0.1,0.9,0.85,10,0.1
+Entity Inconsistency,MiniLM campaign,191,0.3,0.9,0.87,33,0.33
+Entity Inconsistency,MiniLM campaign,191,0.6,0.9,0.85,59,0.59
+Entity Inconsistency,MiniLM campaign,192,0.1,0.76,0.9,9,0.09
+Entity Inconsistency,MiniLM campaign,192,0.3,0.77,0.87,32,0.32
+Entity Inconsistency,MiniLM campaign,192,0.6,0.78,0.88,57,0.57
+Entity Inconsistency,MiniLM campaign,193,0.1,0.9,0.77,8,0.08
+Entity Inconsistency,MiniLM campaign,193,0.3,0.9,0.77,27,0.27
+Entity Inconsistency,MiniLM campaign,193,0.6,0.9,0.8,57,0.57
+Entity Inconsistency,MiniLM campaign,194,0.1,0.84,0.89,10,0.1
+Entity Inconsistency,MiniLM campaign,194,0.3,0.85,0.89,30,0.3
+Entity Inconsistency,MiniLM campaign,194,0.6,0.85,0.87,54,0.54
+Entity Inconsistency,MiniLM campaign,195,0.1,0.83,0.87,12,0.12
+Entity Inconsistency,MiniLM campaign,195,0.3,0.83,0.88,35,0.35
+Entity Inconsistency,MiniLM campaign,195,0.6,0.84,0.87,69,0.69
+Entity Inconsistency,MiniLM campaign,196,0.1,0.91,0.84,12,0.12
+Entity Inconsistency,MiniLM campaign,196,0.3,0.9,0.84,41,0.41
+Entity Inconsistency,MiniLM campaign,196,0.6,0.93,0.82,67,0.67
+Entity Inconsistency,MiniLM campaign,197,0.1,0.8,0.83,7,0.07
+Entity Inconsistency,MiniLM campaign,197,0.3,0.8,0.82,35,0.35
+Entity Inconsistency,MiniLM campaign,197,0.6,0.81,0.8,67,0.67
+Entity Inconsistency,MiniLM campaign,198,0.1,0.89,0.81,12,0.12
+Entity Inconsistency,MiniLM campaign,198,0.3,0.88,0.85,28,0.28
+Entity Inconsistency,MiniLM campaign,198,0.6,0.87,0.83,60,0.6
+Entity Inconsistency,MiniLM campaign,199,0.1,0.86,0.86,10,0.1
+Entity Inconsistency,MiniLM campaign,199,0.3,0.86,0.86,31,0.31
+Entity Inconsistency,MiniLM campaign,199,0.6,0.87,0.85,60,0.6
+Missing Cross-Channel,MiniLM campaign,0,0.1,0.92,0.85,11,0.11
+Missing Cross-Channel,MiniLM campaign,0,0.3,0.93,0.82,32,0.32
+Missing Cross-Channel,MiniLM campaign,0,0.6,0.94,0.74,62,0.62
+Missing Cross-Channel,MiniLM campaign,1,0.1,0.87,0.76,10,0.1
+Missing Cross-Channel,MiniLM campaign,1,0.3,0.87,0.76,32,0.32
+Missing Cross-Channel,MiniLM campaign,1,0.6,0.89,0.74,64,0.64
+Missing Cross-Channel,MiniLM campaign,2,0.1,0.9,0.86,8,0.08
+Missing Cross-Channel,MiniLM campaign,2,0.3,0.92,0.85,32,0.32
+Missing Cross-Channel,MiniLM campaign,2,0.6,0.94,0.86,58,0.58
+Missing Cross-Channel,MiniLM campaign,3,0.1,0.83,0.88,7,0.07
+Missing Cross-Channel,MiniLM campaign,3,0.3,0.86,0.88,31,0.31
+Missing Cross-Channel,MiniLM campaign,3,0.6,0.89,0.85,60,0.6
+Missing Cross-Channel,MiniLM campaign,4,0.1,0.87,0.81,13,0.13
+Missing Cross-Channel,MiniLM campaign,4,0.3,0.89,0.79,31,0.31
+Missing Cross-Channel,MiniLM campaign,4,0.6,0.91,0.81,62,0.62
+Missing Cross-Channel,MiniLM campaign,5,0.1,0.83,0.88,11,0.11
+Missing Cross-Channel,MiniLM campaign,5,0.3,0.84,0.88,26,0.26
+Missing Cross-Channel,MiniLM campaign,5,0.6,0.86,0.8,62,0.62
+Missing Cross-Channel,MiniLM campaign,6,0.1,0.91,0.84,6,0.06
+Missing Cross-Channel,MiniLM campaign,6,0.3,0.93,0.82,28,0.28
+Missing Cross-Channel,MiniLM campaign,6,0.6,0.94,0.83,59,0.59
+Missing Cross-Channel,MiniLM campaign,7,0.1,0.84,0.83,12,0.12
+Missing Cross-Channel,MiniLM campaign,7,0.3,0.84,0.79,35,0.35
+Missing Cross-Channel,MiniLM campaign,7,0.6,0.87,0.71,65,0.65
+Missing Cross-Channel,MiniLM campaign,8,0.1,0.83,0.92,13,0.13
+Missing Cross-Channel,MiniLM campaign,8,0.3,0.84,0.86,34,0.34
+Missing Cross-Channel,MiniLM campaign,8,0.6,0.86,0.9,59,0.59
+Missing Cross-Channel,MiniLM campaign,9,0.1,0.87,0.87,5,0.05
+Missing Cross-Channel,MiniLM campaign,9,0.3,0.87,0.86,28,0.28
+Missing Cross-Channel,MiniLM campaign,9,0.6,0.89,0.84,58,0.58
+Missing Cross-Channel,MiniLM campaign,10,0.1,0.87,0.87,14,0.14
+Missing Cross-Channel,MiniLM campaign,10,0.3,0.88,0.88,36,0.36
+Missing Cross-Channel,MiniLM campaign,10,0.6,0.89,0.86,68,0.68
+Missing Cross-Channel,MiniLM campaign,11,0.1,0.87,0.81,8,0.08
+Missing Cross-Channel,MiniLM campaign,11,0.3,0.9,0.81,23,0.23
+Missing Cross-Channel,MiniLM campaign,11,0.6,0.92,0.81,53,0.53
+Missing Cross-Channel,MiniLM campaign,12,0.1,0.87,0.86,8,0.08
+Missing Cross-Channel,MiniLM campaign,12,0.3,0.89,0.87,32,0.32
+Missing Cross-Channel,MiniLM campaign,12,0.6,0.9,0.87,63,0.63
+Missing Cross-Channel,MiniLM campaign,13,0.1,0.9,0.81,10,0.1
+Missing Cross-Channel,MiniLM campaign,13,0.3,0.88,0.79,26,0.26
+Missing Cross-Channel,MiniLM campaign,13,0.6,0.89,0.68,60,0.6
+Missing Cross-Channel,MiniLM campaign,14,0.1,0.89,0.89,12,0.12
+Missing Cross-Channel,MiniLM campaign,14,0.3,0.89,0.86,32,0.32
+Missing Cross-Channel,MiniLM campaign,14,0.6,0.88,0.85,65,0.65
+Missing Cross-Channel,MiniLM campaign,15,0.1,0.88,0.86,6,0.06
+Missing Cross-Channel,MiniLM campaign,15,0.3,0.9,0.83,29,0.29
+Missing Cross-Channel,MiniLM campaign,15,0.6,0.9,0.84,64,0.64
+Missing Cross-Channel,MiniLM campaign,16,0.1,0.89,0.89,13,0.13
+Missing Cross-Channel,MiniLM campaign,16,0.3,0.89,0.88,34,0.34
+Missing Cross-Channel,MiniLM campaign,16,0.6,0.91,0.8,62,0.62
+Missing Cross-Channel,MiniLM campaign,17,0.1,0.91,0.77,11,0.11
+Missing Cross-Channel,MiniLM campaign,17,0.3,0.91,0.79,30,0.3
+Missing Cross-Channel,MiniLM campaign,17,0.6,0.91,0.77,63,0.63
+Missing Cross-Channel,MiniLM campaign,18,0.1,0.94,0.78,9,0.09
+Missing Cross-Channel,MiniLM campaign,18,0.3,0.96,0.78,33,0.33
+Missing Cross-Channel,MiniLM campaign,18,0.6,0.95,0.76,60,0.6
+Missing Cross-Channel,MiniLM campaign,19,0.1,0.87,0.8,10,0.1
+Missing Cross-Channel,MiniLM campaign,19,0.3,0.87,0.81,26,0.26
+Missing Cross-Channel,MiniLM campaign,19,0.6,0.88,0.76,54,0.54
+Missing Cross-Channel,MiniLM campaign,20,0.1,0.83,0.76,5,0.05
+Missing Cross-Channel,MiniLM campaign,20,0.3,0.83,0.78,25,0.25
+Missing Cross-Channel,MiniLM campaign,20,0.6,0.87,0.74,59,0.59
+Missing Cross-Channel,MiniLM campaign,21,0.1,0.74,0.92,11,0.11
+Missing Cross-Channel,MiniLM campaign,21,0.3,0.76,0.91,36,0.36
+Missing Cross-Channel,MiniLM campaign,21,0.6,0.81,0.9,61,0.61
+Missing Cross-Channel,MiniLM campaign,22,0.1,0.87,0.84,7,0.07
+Missing Cross-Channel,MiniLM campaign,22,0.3,0.88,0.83,27,0.27
+Missing Cross-Channel,MiniLM campaign,22,0.6,0.89,0.76,57,0.57
+Missing Cross-Channel,MiniLM campaign,23,0.1,0.87,0.82,9,0.09
+Missing Cross-Channel,MiniLM campaign,23,0.3,0.86,0.83,26,0.26
+Missing Cross-Channel,MiniLM campaign,23,0.6,0.87,0.82,53,0.53
+Missing Cross-Channel,MiniLM campaign,24,0.1,0.8,0.9,8,0.08
+Missing Cross-Channel,MiniLM campaign,24,0.3,0.81,0.91,29,0.29
+Missing Cross-Channel,MiniLM campaign,24,0.6,0.81,0.85,58,0.58
+Missing Cross-Channel,MiniLM campaign,25,0.1,0.9,0.88,14,0.14
+Missing Cross-Channel,MiniLM campaign,25,0.3,0.9,0.86,33,0.33
+Missing Cross-Channel,MiniLM campaign,25,0.6,0.91,0.83,60,0.6
+Missing Cross-Channel,MiniLM campaign,26,0.1,0.88,0.86,13,0.13
+Missing Cross-Channel,MiniLM campaign,26,0.3,0.9,0.82,32,0.32
+Missing Cross-Channel,MiniLM campaign,26,0.6,0.91,0.76,58,0.58
+Missing Cross-Channel,MiniLM campaign,27,0.1,0.82,0.88,9,0.09
+Missing Cross-Channel,MiniLM campaign,27,0.3,0.82,0.83,29,0.29
+Missing Cross-Channel,MiniLM campaign,27,0.6,0.83,0.83,63,0.63
+Missing Cross-Channel,MiniLM campaign,28,0.1,0.86,0.89,9,0.09
+Missing Cross-Channel,MiniLM campaign,28,0.3,0.88,0.85,32,0.32
+Missing Cross-Channel,MiniLM campaign,28,0.6,0.92,0.81,62,0.62
+Missing Cross-Channel,MiniLM campaign,29,0.1,0.8,0.92,11,0.11
+Missing Cross-Channel,MiniLM campaign,29,0.3,0.81,0.93,30,0.3
+Missing Cross-Channel,MiniLM campaign,29,0.6,0.82,0.89,62,0.62
+Missing Cross-Channel,MiniLM campaign,30,0.1,0.85,0.84,12,0.12
+Missing Cross-Channel,MiniLM campaign,30,0.3,0.87,0.84,33,0.33
+Missing Cross-Channel,MiniLM campaign,30,0.6,0.88,0.82,58,0.58
+Missing Cross-Channel,MiniLM campaign,31,0.1,0.92,0.85,8,0.08
+Missing Cross-Channel,MiniLM campaign,31,0.3,0.95,0.83,34,0.34
+Missing Cross-Channel,MiniLM campaign,31,0.6,0.94,0.79,67,0.67
+Missing Cross-Channel,MiniLM campaign,32,0.1,0.86,0.86,7,0.07
+Missing Cross-Channel,MiniLM campaign,32,0.3,0.88,0.88,33,0.33
+Missing Cross-Channel,MiniLM campaign,32,0.6,0.9,0.84,62,0.62
+Missing Cross-Channel,MiniLM campaign,33,0.1,0.9,0.86,15,0.15
+Missing Cross-Channel,MiniLM campaign,33,0.3,0.9,0.86,32,0.32
+Missing Cross-Channel,MiniLM campaign,33,0.6,0.91,0.81,65,0.65
+Missing Cross-Channel,MiniLM campaign,34,0.1,0.89,0.89,8,0.08
+Missing Cross-Channel,MiniLM campaign,34,0.3,0.89,0.88,26,0.26
+Missing Cross-Channel,MiniLM campaign,34,0.6,0.93,0.86,60,0.6
+Missing Cross-Channel,MiniLM campaign,35,0.1,0.84,0.85,10,0.1
+Missing Cross-Channel,MiniLM campaign,35,0.3,0.86,0.81,31,0.31
+Missing Cross-Channel,MiniLM campaign,35,0.6,0.85,0.78,60,0.6
+Missing Cross-Channel,MiniLM campaign,36,0.1,0.89,0.83,7,0.07
+Missing Cross-Channel,MiniLM campaign,36,0.3,0.89,0.82,27,0.27
+Missing Cross-Channel,MiniLM campaign,36,0.6,0.87,0.81,60,0.6
+Missing Cross-Channel,MiniLM campaign,37,0.1,0.83,0.86,8,0.08
+Missing Cross-Channel,MiniLM campaign,37,0.3,0.82,0.87,31,0.31
+Missing Cross-Channel,MiniLM campaign,37,0.6,0.79,0.73,61,0.61
+Missing Cross-Channel,MiniLM campaign,38,0.1,0.9,0.87,8,0.08
+Missing Cross-Channel,MiniLM campaign,38,0.3,0.91,0.88,26,0.26
+Missing Cross-Channel,MiniLM campaign,38,0.6,0.93,0.86,56,0.56
+Missing Cross-Channel,MiniLM campaign,39,0.1,0.93,0.83,13,0.13
+Missing Cross-Channel,MiniLM campaign,39,0.3,0.93,0.81,32,0.32
+Missing Cross-Channel,MiniLM campaign,39,0.6,0.94,0.78,63,0.63
+Missing Cross-Channel,MiniLM campaign,40,0.1,0.88,0.87,14,0.14
+Missing Cross-Channel,MiniLM campaign,40,0.3,0.87,0.9,34,0.34
+Missing Cross-Channel,MiniLM campaign,40,0.6,0.88,0.84,58,0.58
+Missing Cross-Channel,MiniLM campaign,41,0.1,0.82,0.85,6,0.06
+Missing Cross-Channel,MiniLM campaign,41,0.3,0.83,0.8,26,0.26
+Missing Cross-Channel,MiniLM campaign,41,0.6,0.87,0.77,59,0.59
+Missing Cross-Channel,MiniLM campaign,42,0.1,0.88,0.84,8,0.08
+Missing Cross-Channel,MiniLM campaign,42,0.3,0.89,0.84,28,0.28
+Missing Cross-Channel,MiniLM campaign,42,0.6,0.89,0.8,57,0.57
+Missing Cross-Channel,MiniLM campaign,43,0.1,0.8,0.88,9,0.09
+Missing Cross-Channel,MiniLM campaign,43,0.3,0.79,0.91,22,0.22
+Missing Cross-Channel,MiniLM campaign,43,0.6,0.81,0.86,55,0.55
+Missing Cross-Channel,MiniLM campaign,44,0.1,0.83,0.78,6,0.06
+Missing Cross-Channel,MiniLM campaign,44,0.3,0.84,0.78,33,0.33
+Missing Cross-Channel,MiniLM campaign,44,0.6,0.89,0.84,65,0.65
+Missing Cross-Channel,MiniLM campaign,45,0.1,0.85,0.82,12,0.12
+Missing Cross-Channel,MiniLM campaign,45,0.3,0.86,0.78,21,0.21
+Missing Cross-Channel,MiniLM campaign,45,0.6,0.86,0.76,52,0.52
+Missing Cross-Channel,MiniLM campaign,46,0.1,0.9,0.88,11,0.11
+Missing Cross-Channel,MiniLM campaign,46,0.3,0.88,0.83,28,0.28
+Missing Cross-Channel,MiniLM campaign,46,0.6,0.88,0.81,57,0.57
+Missing Cross-Channel,MiniLM campaign,47,0.1,0.87,0.87,7,0.07
+Missing Cross-Channel,MiniLM campaign,47,0.3,0.88,0.86,26,0.26
+Missing Cross-Channel,MiniLM campaign,47,0.6,0.9,0.87,59,0.59
+Missing Cross-Channel,MiniLM campaign,48,0.1,0.82,0.83,14,0.14
+Missing Cross-Channel,MiniLM campaign,48,0.3,0.82,0.82,28,0.28
+Missing Cross-Channel,MiniLM campaign,48,0.6,0.83,0.85,52,0.52
+Missing Cross-Channel,MiniLM campaign,49,0.1,0.86,0.9,6,0.06
+Missing Cross-Channel,MiniLM campaign,49,0.3,0.86,0.9,23,0.23
+Missing Cross-Channel,MiniLM campaign,49,0.6,0.89,0.86,60,0.6
+Missing Cross-Channel,MiniLM campaign,50,0.1,0.9,0.92,11,0.11
+Missing Cross-Channel,MiniLM campaign,50,0.3,0.9,0.91,29,0.29
+Missing Cross-Channel,MiniLM campaign,50,0.6,0.88,0.8,58,0.58
+Missing Cross-Channel,MiniLM campaign,51,0.1,0.78,0.85,12,0.12
+Missing Cross-Channel,MiniLM campaign,51,0.3,0.77,0.86,31,0.31
+Missing Cross-Channel,MiniLM campaign,51,0.6,0.79,0.86,60,0.6
+Missing Cross-Channel,MiniLM campaign,52,0.1,0.85,0.93,11,0.11
+Missing Cross-Channel,MiniLM campaign,52,0.3,0.86,0.93,39,0.39
+Missing Cross-Channel,MiniLM campaign,52,0.6,0.87,0.85,71,0.71
+Missing Cross-Channel,MiniLM campaign,53,0.1,0.85,0.83,8,0.08
+Missing Cross-Channel,MiniLM campaign,53,0.3,0.86,0.81,28,0.28
+Missing Cross-Channel,MiniLM campaign,53,0.6,0.87,0.81,56,0.56
+Missing Cross-Channel,MiniLM campaign,54,0.1,0.88,0.89,14,0.14
+Missing Cross-Channel,MiniLM campaign,54,0.3,0.89,0.87,30,0.3
+Missing Cross-Channel,MiniLM campaign,54,0.6,0.85,0.83,60,0.6
+Missing Cross-Channel,MiniLM campaign,55,0.1,0.9,0.83,13,0.13
+Missing Cross-Channel,MiniLM campaign,55,0.3,0.91,0.8,27,0.27
+Missing Cross-Channel,MiniLM campaign,55,0.6,0.92,0.76,56,0.56
+Missing Cross-Channel,MiniLM campaign,56,0.1,0.83,0.91,11,0.11
+Missing Cross-Channel,MiniLM campaign,56,0.3,0.84,0.9,30,0.3
+Missing Cross-Channel,MiniLM campaign,56,0.6,0.88,0.84,61,0.61
+Missing Cross-Channel,MiniLM campaign,57,0.1,0.85,0.9,12,0.12
+Missing Cross-Channel,MiniLM campaign,57,0.3,0.87,0.91,41,0.41
+Missing Cross-Channel,MiniLM campaign,57,0.6,0.88,0.82,71,0.71
+Missing Cross-Channel,MiniLM campaign,58,0.1,0.94,0.86,12,0.12
+Missing Cross-Channel,MiniLM campaign,58,0.3,0.93,0.86,28,0.28
+Missing Cross-Channel,MiniLM campaign,58,0.6,0.94,0.84,61,0.61
+Missing Cross-Channel,MiniLM campaign,59,0.1,0.84,0.89,12,0.12
+Missing Cross-Channel,MiniLM campaign,59,0.3,0.83,0.89,29,0.29
+Missing Cross-Channel,MiniLM campaign,59,0.6,0.87,0.88,60,0.6
+Missing Cross-Channel,MiniLM campaign,60,0.1,0.81,0.79,9,0.09
+Missing Cross-Channel,MiniLM campaign,60,0.3,0.83,0.8,24,0.24
+Missing Cross-Channel,MiniLM campaign,60,0.6,0.85,0.79,56,0.56
+Missing Cross-Channel,MiniLM campaign,61,0.1,0.88,0.86,9,0.09
+Missing Cross-Channel,MiniLM campaign,61,0.3,0.89,0.84,35,0.35
+Missing Cross-Channel,MiniLM campaign,61,0.6,0.88,0.86,67,0.67
+Missing Cross-Channel,MiniLM campaign,62,0.1,0.88,0.87,12,0.12
+Missing Cross-Channel,MiniLM campaign,62,0.3,0.9,0.86,34,0.34
+Missing Cross-Channel,MiniLM campaign,62,0.6,0.9,0.85,64,0.64
+Missing Cross-Channel,MiniLM campaign,63,0.1,0.77,0.89,13,0.13
+Missing Cross-Channel,MiniLM campaign,63,0.3,0.79,0.88,30,0.3
+Missing Cross-Channel,MiniLM campaign,63,0.6,0.81,0.88,61,0.61
+Missing Cross-Channel,MiniLM campaign,64,0.1,0.71,0.84,15,0.15
+Missing Cross-Channel,MiniLM campaign,64,0.3,0.74,0.88,35,0.35
+Missing Cross-Channel,MiniLM campaign,64,0.6,0.8,0.89,60,0.6
+Missing Cross-Channel,MiniLM campaign,65,0.1,0.91,0.87,12,0.12
+Missing Cross-Channel,MiniLM campaign,65,0.3,0.92,0.85,27,0.27
+Missing Cross-Channel,MiniLM campaign,65,0.6,0.92,0.8,51,0.51
+Missing Cross-Channel,MiniLM campaign,66,0.1,0.85,0.91,15,0.15
+Missing Cross-Channel,MiniLM campaign,66,0.3,0.85,0.9,27,0.27
+Missing Cross-Channel,MiniLM campaign,66,0.6,0.86,0.88,64,0.64
+Missing Cross-Channel,MiniLM campaign,67,0.1,0.9,0.86,9,0.09
+Missing Cross-Channel,MiniLM campaign,67,0.3,0.89,0.83,28,0.28
+Missing Cross-Channel,MiniLM campaign,67,0.6,0.9,0.7,62,0.62
+Missing Cross-Channel,MiniLM campaign,68,0.1,0.87,0.83,14,0.14
+Missing Cross-Channel,MiniLM campaign,68,0.3,0.89,0.83,35,0.35
+Missing Cross-Channel,MiniLM campaign,68,0.6,0.9,0.75,64,0.64
+Missing Cross-Channel,MiniLM campaign,69,0.1,0.93,0.87,8,0.08
+Missing Cross-Channel,MiniLM campaign,69,0.3,0.91,0.87,23,0.23
+Missing Cross-Channel,MiniLM campaign,69,0.6,0.93,0.84,56,0.56
+Missing Cross-Channel,MiniLM campaign,70,0.1,0.88,0.84,9,0.09
+Missing Cross-Channel,MiniLM campaign,70,0.3,0.87,0.84,27,0.27
+Missing Cross-Channel,MiniLM campaign,70,0.6,0.9,0.77,65,0.65
+Missing Cross-Channel,MiniLM campaign,71,0.1,0.87,0.91,12,0.12
+Missing Cross-Channel,MiniLM campaign,71,0.3,0.88,0.92,37,0.37
+Missing Cross-Channel,MiniLM campaign,71,0.6,0.89,0.87,68,0.68
+Missing Cross-Channel,MiniLM campaign,72,0.1,0.93,0.84,13,0.13
+Missing Cross-Channel,MiniLM campaign,72,0.3,0.93,0.85,24,0.24
+Missing Cross-Channel,MiniLM campaign,72,0.6,0.94,0.78,54,0.54
+Missing Cross-Channel,MiniLM campaign,73,0.1,0.83,0.92,10,0.1
+Missing Cross-Channel,MiniLM campaign,73,0.3,0.87,0.89,38,0.38
+Missing Cross-Channel,MiniLM campaign,73,0.6,0.88,0.82,64,0.64
+Missing Cross-Channel,MiniLM campaign,74,0.1,0.87,0.8,7,0.07
+Missing Cross-Channel,MiniLM campaign,74,0.3,0.91,0.83,28,0.28
+Missing Cross-Channel,MiniLM campaign,74,0.6,0.92,0.78,58,0.58
+Missing Cross-Channel,MiniLM campaign,75,0.1,0.91,0.88,14,0.14
+Missing Cross-Channel,MiniLM campaign,75,0.3,0.92,0.88,34,0.34
+Missing Cross-Channel,MiniLM campaign,75,0.6,0.92,0.85,64,0.64
+Missing Cross-Channel,MiniLM campaign,76,0.1,0.81,0.74,15,0.15
+Missing Cross-Channel,MiniLM campaign,76,0.3,0.83,0.76,27,0.27
+Missing Cross-Channel,MiniLM campaign,76,0.6,0.87,0.81,55,0.55
+Missing Cross-Channel,MiniLM campaign,77,0.1,0.82,0.75,10,0.1
+Missing Cross-Channel,MiniLM campaign,77,0.3,0.84,0.71,31,0.31
+Missing Cross-Channel,MiniLM campaign,77,0.6,0.86,0.74,61,0.61
+Missing Cross-Channel,MiniLM campaign,78,0.1,0.86,0.8,6,0.06
+Missing Cross-Channel,MiniLM campaign,78,0.3,0.89,0.81,27,0.27
+Missing Cross-Channel,MiniLM campaign,78,0.6,0.9,0.79,60,0.6
+Missing Cross-Channel,MiniLM campaign,79,0.1,0.92,0.85,7,0.07
+Missing Cross-Channel,MiniLM campaign,79,0.3,0.92,0.8,25,0.25
+Missing Cross-Channel,MiniLM campaign,79,0.6,0.92,0.82,50,0.5
+Missing Cross-Channel,MiniLM campaign,80,0.1,0.85,0.78,6,0.06
+Missing Cross-Channel,MiniLM campaign,80,0.3,0.88,0.74,28,0.28
+Missing Cross-Channel,MiniLM campaign,80,0.6,0.91,0.75,55,0.55
+Missing Cross-Channel,MiniLM campaign,81,0.1,0.86,0.85,12,0.12
+Missing Cross-Channel,MiniLM campaign,81,0.3,0.87,0.82,33,0.33
+Missing Cross-Channel,MiniLM campaign,81,0.6,0.87,0.76,63,0.63
+Missing Cross-Channel,MiniLM campaign,82,0.1,0.87,0.85,8,0.08
+Missing Cross-Channel,MiniLM campaign,82,0.3,0.85,0.84,26,0.26
+Missing Cross-Channel,MiniLM campaign,82,0.6,0.85,0.78,59,0.59
+Missing Cross-Channel,MiniLM campaign,83,0.1,0.94,0.84,9,0.09
+Missing Cross-Channel,MiniLM campaign,83,0.3,0.95,0.74,37,0.37
+Missing Cross-Channel,MiniLM campaign,83,0.6,0.96,0.75,65,0.65
+Missing Cross-Channel,MiniLM campaign,84,0.1,0.88,0.75,11,0.11
+Missing Cross-Channel,MiniLM campaign,84,0.3,0.88,0.72,37,0.37
+Missing Cross-Channel,MiniLM campaign,84,0.6,0.87,0.68,69,0.69
+Missing Cross-Channel,MiniLM campaign,85,0.1,0.86,0.85,9,0.09
+Missing Cross-Channel,MiniLM campaign,85,0.3,0.89,0.84,33,0.33
+Missing Cross-Channel,MiniLM campaign,85,0.6,0.92,0.84,65,0.65
+Missing Cross-Channel,MiniLM campaign,86,0.1,0.89,0.85,7,0.07
+Missing Cross-Channel,MiniLM campaign,86,0.3,0.88,0.85,26,0.26
+Missing Cross-Channel,MiniLM campaign,86,0.6,0.91,0.84,59,0.59
+Missing Cross-Channel,MiniLM campaign,87,0.1,0.87,0.84,8,0.08
+Missing Cross-Channel,MiniLM campaign,87,0.3,0.87,0.82,30,0.3
+Missing Cross-Channel,MiniLM campaign,87,0.6,0.89,0.84,58,0.58
+Missing Cross-Channel,MiniLM campaign,88,0.1,0.92,0.81,11,0.11
+Missing Cross-Channel,MiniLM campaign,88,0.3,0.93,0.8,29,0.29
+Missing Cross-Channel,MiniLM campaign,88,0.6,0.94,0.71,63,0.63
+Missing Cross-Channel,MiniLM campaign,89,0.1,0.89,0.81,5,0.05
+Missing Cross-Channel,MiniLM campaign,89,0.3,0.88,0.78,28,0.28
+Missing Cross-Channel,MiniLM campaign,89,0.6,0.88,0.76,58,0.58
+Missing Cross-Channel,MiniLM campaign,90,0.1,0.91,0.83,10,0.1
+Missing Cross-Channel,MiniLM campaign,90,0.3,0.91,0.86,31,0.31
+Missing Cross-Channel,MiniLM campaign,90,0.6,0.93,0.82,60,0.6
+Missing Cross-Channel,MiniLM campaign,91,0.1,0.91,0.91,5,0.05
+Missing Cross-Channel,MiniLM campaign,91,0.3,0.91,0.91,23,0.23
+Missing Cross-Channel,MiniLM campaign,91,0.6,0.9,0.9,58,0.58
+Missing Cross-Channel,MiniLM campaign,92,0.1,0.93,0.88,11,0.11
+Missing Cross-Channel,MiniLM campaign,92,0.3,0.93,0.86,27,0.27
+Missing Cross-Channel,MiniLM campaign,92,0.6,0.9,0.84,51,0.51
+Missing Cross-Channel,MiniLM campaign,93,0.1,0.84,0.83,10,0.1
+Missing Cross-Channel,MiniLM campaign,93,0.3,0.86,0.79,31,0.31
+Missing Cross-Channel,MiniLM campaign,93,0.6,0.89,0.78,60,0.6
+Missing Cross-Channel,MiniLM campaign,94,0.1,0.91,0.8,6,0.06
+Missing Cross-Channel,MiniLM campaign,94,0.3,0.92,0.77,26,0.26
+Missing Cross-Channel,MiniLM campaign,94,0.6,0.92,0.77,58,0.58
+Missing Cross-Channel,MiniLM campaign,95,0.1,0.9,0.79,10,0.1
+Missing Cross-Channel,MiniLM campaign,95,0.3,0.89,0.8,33,0.33
+Missing Cross-Channel,MiniLM campaign,95,0.6,0.91,0.79,61,0.61
+Missing Cross-Channel,MiniLM campaign,96,0.1,0.89,0.8,13,0.13
+Missing Cross-Channel,MiniLM campaign,96,0.3,0.9,0.82,35,0.35
+Missing Cross-Channel,MiniLM campaign,96,0.6,0.91,0.82,66,0.66
+Missing Cross-Channel,MiniLM campaign,97,0.1,0.89,0.74,13,0.13
+Missing Cross-Channel,MiniLM campaign,97,0.3,0.92,0.76,32,0.32
+Missing Cross-Channel,MiniLM campaign,97,0.6,0.93,0.73,65,0.65
+Missing Cross-Channel,MiniLM campaign,98,0.1,0.85,0.86,11,0.11
+Missing Cross-Channel,MiniLM campaign,98,0.3,0.87,0.85,32,0.32
+Missing Cross-Channel,MiniLM campaign,98,0.6,0.83,0.84,63,0.63
+Missing Cross-Channel,MiniLM campaign,99,0.1,0.9,0.83,10,0.1
+Missing Cross-Channel,MiniLM campaign,99,0.3,0.88,0.83,30,0.3
+Missing Cross-Channel,MiniLM campaign,99,0.6,0.88,0.82,63,0.63
+Missing Cross-Channel,MiniLM campaign,100,0.1,0.88,0.82,8,0.08
+Missing Cross-Channel,MiniLM campaign,100,0.3,0.87,0.82,37,0.37
+Missing Cross-Channel,MiniLM campaign,100,0.6,0.88,0.76,66,0.66
+Missing Cross-Channel,MiniLM campaign,101,0.1,0.88,0.88,12,0.12
+Missing Cross-Channel,MiniLM campaign,101,0.3,0.88,0.87,31,0.31
+Missing Cross-Channel,MiniLM campaign,101,0.6,0.89,0.86,64,0.64
+Missing Cross-Channel,MiniLM campaign,102,0.1,0.74,0.89,11,0.11
+Missing Cross-Channel,MiniLM campaign,102,0.3,0.76,0.86,32,0.32
+Missing Cross-Channel,MiniLM campaign,102,0.6,0.75,0.86,64,0.64
+Missing Cross-Channel,MiniLM campaign,103,0.1,0.88,0.87,8,0.08
+Missing Cross-Channel,MiniLM campaign,103,0.3,0.91,0.88,30,0.3
+Missing Cross-Channel,MiniLM campaign,103,0.6,0.93,0.82,59,0.59
+Missing Cross-Channel,MiniLM campaign,104,0.1,0.92,0.88,9,0.09
+Missing Cross-Channel,MiniLM campaign,104,0.3,0.89,0.86,26,0.26
+Missing Cross-Channel,MiniLM campaign,104,0.6,0.87,0.85,58,0.58
+Missing Cross-Channel,MiniLM campaign,105,0.1,0.85,0.9,10,0.1
+Missing Cross-Channel,MiniLM campaign,105,0.3,0.86,0.89,27,0.27
+Missing Cross-Channel,MiniLM campaign,105,0.6,0.85,0.88,56,0.56
+Missing Cross-Channel,MiniLM campaign,106,0.1,0.82,0.9,11,0.11
+Missing Cross-Channel,MiniLM campaign,106,0.3,0.85,0.9,31,0.31
+Missing Cross-Channel,MiniLM campaign,106,0.6,0.85,0.85,62,0.62
+Missing Cross-Channel,MiniLM campaign,107,0.1,0.87,0.79,11,0.11
+Missing Cross-Channel,MiniLM campaign,107,0.3,0.87,0.77,32,0.32
+Missing Cross-Channel,MiniLM campaign,107,0.6,0.88,0.74,62,0.62
+Missing Cross-Channel,MiniLM campaign,108,0.1,0.9,0.89,10,0.1
+Missing Cross-Channel,MiniLM campaign,108,0.3,0.9,0.88,31,0.31
+Missing Cross-Channel,MiniLM campaign,108,0.6,0.89,0.81,60,0.6
+Missing Cross-Channel,MiniLM campaign,109,0.1,0.88,0.81,10,0.1
+Missing Cross-Channel,MiniLM campaign,109,0.3,0.88,0.79,31,0.31
+Missing Cross-Channel,MiniLM campaign,109,0.6,0.87,0.74,59,0.59
+Missing Cross-Channel,MiniLM campaign,110,0.1,0.9,0.8,11,0.11
+Missing Cross-Channel,MiniLM campaign,110,0.3,0.9,0.79,28,0.28
+Missing Cross-Channel,MiniLM campaign,110,0.6,0.93,0.81,65,0.65
+Missing Cross-Channel,MiniLM campaign,111,0.1,0.84,0.9,13,0.13
+Missing Cross-Channel,MiniLM campaign,111,0.3,0.87,0.9,40,0.4
+Missing Cross-Channel,MiniLM campaign,111,0.6,0.89,0.86,63,0.63
+Missing Cross-Channel,MiniLM campaign,112,0.1,0.9,0.76,12,0.12
+Missing Cross-Channel,MiniLM campaign,112,0.3,0.9,0.81,37,0.37
+Missing Cross-Channel,MiniLM campaign,112,0.6,0.9,0.73,67,0.67
+Missing Cross-Channel,MiniLM campaign,113,0.1,0.82,0.89,6,0.06
+Missing Cross-Channel,MiniLM campaign,113,0.3,0.86,0.89,21,0.21
+Missing Cross-Channel,MiniLM campaign,113,0.6,0.89,0.86,49,0.49
+Missing Cross-Channel,MiniLM campaign,114,0.1,0.85,0.86,12,0.12
+Missing Cross-Channel,MiniLM campaign,114,0.3,0.87,0.88,34,0.34
+Missing Cross-Channel,MiniLM campaign,114,0.6,0.9,0.83,64,0.64
+Missing Cross-Channel,MiniLM campaign,115,0.1,0.91,0.85,13,0.13
+Missing Cross-Channel,MiniLM campaign,115,0.3,0.91,0.84,32,0.32
+Missing Cross-Channel,MiniLM campaign,115,0.6,0.91,0.8,56,0.56
+Missing Cross-Channel,MiniLM campaign,116,0.1,0.89,0.91,8,0.08
+Missing Cross-Channel,MiniLM campaign,116,0.3,0.89,0.91,26,0.26
+Missing Cross-Channel,MiniLM campaign,116,0.6,0.89,0.88,57,0.57
+Missing Cross-Channel,MiniLM campaign,117,0.1,0.84,0.81,7,0.07
+Missing Cross-Channel,MiniLM campaign,117,0.3,0.83,0.77,26,0.26
+Missing Cross-Channel,MiniLM campaign,117,0.6,0.84,0.8,63,0.63
+Missing Cross-Channel,MiniLM campaign,118,0.1,0.91,0.81,12,0.12
+Missing Cross-Channel,MiniLM campaign,118,0.3,0.93,0.8,33,0.33
+Missing Cross-Channel,MiniLM campaign,118,0.6,0.94,0.73,64,0.64
+Missing Cross-Channel,MiniLM campaign,119,0.1,0.91,0.88,9,0.09
+Missing Cross-Channel,MiniLM campaign,119,0.3,0.91,0.89,26,0.26
+Missing Cross-Channel,MiniLM campaign,119,0.6,0.94,0.85,60,0.6
+Missing Cross-Channel,MiniLM campaign,120,0.1,0.91,0.9,12,0.12
+Missing Cross-Channel,MiniLM campaign,120,0.3,0.91,0.85,42,0.42
+Missing Cross-Channel,MiniLM campaign,120,0.6,0.93,0.8,68,0.68
+Missing Cross-Channel,MiniLM campaign,121,0.1,0.91,0.81,5,0.05
+Missing Cross-Channel,MiniLM campaign,121,0.3,0.9,0.79,30,0.3
+Missing Cross-Channel,MiniLM campaign,121,0.6,0.92,0.79,59,0.59
+Missing Cross-Channel,MiniLM campaign,122,0.1,0.88,0.77,8,0.08
+Missing Cross-Channel,MiniLM campaign,122,0.3,0.87,0.77,26,0.26
+Missing Cross-Channel,MiniLM campaign,122,0.6,0.89,0.69,59,0.59
+Missing Cross-Channel,MiniLM campaign,123,0.1,0.86,0.89,7,0.07
+Missing Cross-Channel,MiniLM campaign,123,0.3,0.86,0.84,26,0.26
+Missing Cross-Channel,MiniLM campaign,123,0.6,0.86,0.75,60,0.6
+Missing Cross-Channel,MiniLM campaign,124,0.1,0.93,0.86,10,0.1
+Missing Cross-Channel,MiniLM campaign,124,0.3,0.93,0.88,35,0.35
+Missing Cross-Channel,MiniLM campaign,124,0.6,0.94,0.81,56,0.56
+Missing Cross-Channel,MiniLM campaign,125,0.1,0.83,0.94,11,0.11
+Missing Cross-Channel,MiniLM campaign,125,0.3,0.83,0.92,28,0.28
+Missing Cross-Channel,MiniLM campaign,125,0.6,0.84,0.93,65,0.65
+Missing Cross-Channel,MiniLM campaign,126,0.1,0.87,0.82,13,0.13
+Missing Cross-Channel,MiniLM campaign,126,0.3,0.87,0.8,29,0.29
+Missing Cross-Channel,MiniLM campaign,126,0.6,0.88,0.75,58,0.58
+Missing Cross-Channel,MiniLM campaign,127,0.1,0.85,0.89,14,0.14
+Missing Cross-Channel,MiniLM campaign,127,0.3,0.85,0.9,34,0.34
+Missing Cross-Channel,MiniLM campaign,127,0.6,0.85,0.87,71,0.71
+Missing Cross-Channel,MiniLM campaign,128,0.1,0.84,0.91,8,0.08
+Missing Cross-Channel,MiniLM campaign,128,0.3,0.88,0.92,26,0.26
+Missing Cross-Channel,MiniLM campaign,128,0.6,0.89,0.83,59,0.59
+Missing Cross-Channel,MiniLM campaign,129,0.1,0.95,0.87,15,0.15
+Missing Cross-Channel,MiniLM campaign,129,0.3,0.95,0.82,34,0.34
+Missing Cross-Channel,MiniLM campaign,129,0.6,0.95,0.76,64,0.64
+Missing Cross-Channel,MiniLM campaign,130,0.1,0.91,0.87,10,0.1
+Missing Cross-Channel,MiniLM campaign,130,0.3,0.89,0.88,34,0.34
+Missing Cross-Channel,MiniLM campaign,130,0.6,0.88,0.82,59,0.59
+Missing Cross-Channel,MiniLM campaign,131,0.1,0.87,0.84,14,0.14
+Missing Cross-Channel,MiniLM campaign,131,0.3,0.88,0.83,32,0.32
+Missing Cross-Channel,MiniLM campaign,131,0.6,0.9,0.81,63,0.63
+Missing Cross-Channel,MiniLM campaign,132,0.1,0.87,0.87,6,0.06
+Missing Cross-Channel,MiniLM campaign,132,0.3,0.88,0.85,28,0.28
+Missing Cross-Channel,MiniLM campaign,132,0.6,0.87,0.83,64,0.64
+Missing Cross-Channel,MiniLM campaign,133,0.1,0.8,0.87,10,0.1
+Missing Cross-Channel,MiniLM campaign,133,0.3,0.83,0.85,32,0.32
+Missing Cross-Channel,MiniLM campaign,133,0.6,0.84,0.91,66,0.66
+Missing Cross-Channel,MiniLM campaign,134,0.1,0.91,0.79,13,0.13
+Missing Cross-Channel,MiniLM campaign,134,0.3,0.9,0.8,31,0.31
+Missing Cross-Channel,MiniLM campaign,134,0.6,0.9,0.8,59,0.59
+Missing Cross-Channel,MiniLM campaign,135,0.1,0.83,0.87,12,0.12
+Missing Cross-Channel,MiniLM campaign,135,0.3,0.85,0.84,28,0.28
+Missing Cross-Channel,MiniLM campaign,135,0.6,0.87,0.79,60,0.6
+Missing Cross-Channel,MiniLM campaign,136,0.1,0.89,0.87,8,0.08
+Missing Cross-Channel,MiniLM campaign,136,0.3,0.89,0.85,30,0.3
+Missing Cross-Channel,MiniLM campaign,136,0.6,0.88,0.87,59,0.59
+Missing Cross-Channel,MiniLM campaign,137,0.1,0.88,0.91,14,0.14
+Missing Cross-Channel,MiniLM campaign,137,0.3,0.87,0.89,34,0.34
+Missing Cross-Channel,MiniLM campaign,137,0.6,0.87,0.87,59,0.59
+Missing Cross-Channel,MiniLM campaign,138,0.1,0.89,0.87,11,0.11
+Missing Cross-Channel,MiniLM campaign,138,0.3,0.88,0.86,29,0.29
+Missing Cross-Channel,MiniLM campaign,138,0.6,0.89,0.75,62,0.62
+Missing Cross-Channel,MiniLM campaign,139,0.1,0.79,0.91,10,0.1
+Missing Cross-Channel,MiniLM campaign,139,0.3,0.81,0.86,34,0.34
+Missing Cross-Channel,MiniLM campaign,139,0.6,0.83,0.87,66,0.66
+Missing Cross-Channel,MiniLM campaign,140,0.1,0.92,0.88,10,0.1
+Missing Cross-Channel,MiniLM campaign,140,0.3,0.93,0.88,29,0.29
+Missing Cross-Channel,MiniLM campaign,140,0.6,0.95,0.86,63,0.63
+Missing Cross-Channel,MiniLM campaign,141,0.1,0.9,0.87,10,0.1
+Missing Cross-Channel,MiniLM campaign,141,0.3,0.9,0.81,31,0.31
+Missing Cross-Channel,MiniLM campaign,141,0.6,0.92,0.77,66,0.66
+Missing Cross-Channel,MiniLM campaign,142,0.1,0.84,0.89,9,0.09
+Missing Cross-Channel,MiniLM campaign,142,0.3,0.85,0.87,31,0.31
+Missing Cross-Channel,MiniLM campaign,142,0.6,0.85,0.85,58,0.58
+Missing Cross-Channel,MiniLM campaign,143,0.1,0.84,0.88,9,0.09
+Missing Cross-Channel,MiniLM campaign,143,0.3,0.83,0.87,30,0.3
+Missing Cross-Channel,MiniLM campaign,143,0.6,0.87,0.82,62,0.62
+Missing Cross-Channel,MiniLM campaign,144,0.1,0.88,0.84,8,0.08
+Missing Cross-Channel,MiniLM campaign,144,0.3,0.9,0.81,28,0.28
+Missing Cross-Channel,MiniLM campaign,144,0.6,0.92,0.77,63,0.63
+Missing Cross-Channel,MiniLM campaign,145,0.1,0.75,0.92,9,0.09
+Missing Cross-Channel,MiniLM campaign,145,0.3,0.81,0.94,31,0.31
+Missing Cross-Channel,MiniLM campaign,145,0.6,0.83,0.88,66,0.66
+Missing Cross-Channel,MiniLM campaign,146,0.1,0.9,0.89,11,0.11
+Missing Cross-Channel,MiniLM campaign,146,0.3,0.92,0.88,30,0.3
+Missing Cross-Channel,MiniLM campaign,146,0.6,0.93,0.86,54,0.54
+Missing Cross-Channel,MiniLM campaign,147,0.1,0.94,0.85,7,0.07
+Missing Cross-Channel,MiniLM campaign,147,0.3,0.93,0.84,24,0.24
+Missing Cross-Channel,MiniLM campaign,147,0.6,0.92,0.76,52,0.52
+Missing Cross-Channel,MiniLM campaign,148,0.1,0.84,0.92,11,0.11
+Missing Cross-Channel,MiniLM campaign,148,0.3,0.82,0.9,28,0.28
+Missing Cross-Channel,MiniLM campaign,148,0.6,0.84,0.84,59,0.59
+Missing Cross-Channel,MiniLM campaign,149,0.1,0.85,0.86,10,0.1
+Missing Cross-Channel,MiniLM campaign,149,0.3,0.86,0.87,33,0.33
+Missing Cross-Channel,MiniLM campaign,149,0.6,0.86,0.84,61,0.61
+Missing Cross-Channel,MiniLM campaign,150,0.1,0.84,0.86,11,0.11
+Missing Cross-Channel,MiniLM campaign,150,0.3,0.83,0.86,29,0.29
+Missing Cross-Channel,MiniLM campaign,150,0.6,0.84,0.82,62,0.62
+Missing Cross-Channel,MiniLM campaign,151,0.1,0.88,0.88,13,0.13
+Missing Cross-Channel,MiniLM campaign,151,0.3,0.89,0.85,40,0.4
+Missing Cross-Channel,MiniLM campaign,151,0.6,0.9,0.85,63,0.63
+Missing Cross-Channel,MiniLM campaign,152,0.1,0.85,0.89,11,0.11
+Missing Cross-Channel,MiniLM campaign,152,0.3,0.86,0.87,33,0.33
+Missing Cross-Channel,MiniLM campaign,152,0.6,0.86,0.78,62,0.62
+Missing Cross-Channel,MiniLM campaign,153,0.1,0.92,0.81,12,0.12
+Missing Cross-Channel,MiniLM campaign,153,0.3,0.92,0.79,28,0.28
+Missing Cross-Channel,MiniLM campaign,153,0.6,0.94,0.76,59,0.59
+Missing Cross-Channel,MiniLM campaign,154,0.1,0.84,0.87,12,0.12
+Missing Cross-Channel,MiniLM campaign,154,0.3,0.84,0.88,30,0.3
+Missing Cross-Channel,MiniLM campaign,154,0.6,0.89,0.82,61,0.61
+Missing Cross-Channel,MiniLM campaign,155,0.1,0.83,0.87,10,0.1
+Missing Cross-Channel,MiniLM campaign,155,0.3,0.84,0.85,32,0.32
+Missing Cross-Channel,MiniLM campaign,155,0.6,0.85,0.83,61,0.61
+Missing Cross-Channel,MiniLM campaign,156,0.1,0.89,0.86,8,0.08
+Missing Cross-Channel,MiniLM campaign,156,0.3,0.88,0.84,27,0.27
+Missing Cross-Channel,MiniLM campaign,156,0.6,0.9,0.81,57,0.57
+Missing Cross-Channel,MiniLM campaign,157,0.1,0.92,0.83,9,0.09
+Missing Cross-Channel,MiniLM campaign,157,0.3,0.92,0.82,26,0.26
+Missing Cross-Channel,MiniLM campaign,157,0.6,0.9,0.75,56,0.56
+Missing Cross-Channel,MiniLM campaign,158,0.1,0.87,0.77,7,0.07
+Missing Cross-Channel,MiniLM campaign,158,0.3,0.91,0.79,25,0.25
+Missing Cross-Channel,MiniLM campaign,158,0.6,0.95,0.76,56,0.56
+Missing Cross-Channel,MiniLM campaign,159,0.1,0.82,0.9,12,0.12
+Missing Cross-Channel,MiniLM campaign,159,0.3,0.84,0.89,34,0.34
+Missing Cross-Channel,MiniLM campaign,159,0.6,0.85,0.81,57,0.57
+Missing Cross-Channel,MiniLM campaign,160,0.1,0.87,0.93,12,0.12
+Missing Cross-Channel,MiniLM campaign,160,0.3,0.89,0.93,36,0.36
+Missing Cross-Channel,MiniLM campaign,160,0.6,0.88,0.88,60,0.6
+Missing Cross-Channel,MiniLM campaign,161,0.1,0.84,0.82,10,0.1
+Missing Cross-Channel,MiniLM campaign,161,0.3,0.85,0.79,25,0.25
+Missing Cross-Channel,MiniLM campaign,161,0.6,0.86,0.8,63,0.63
+Missing Cross-Channel,MiniLM campaign,162,0.1,0.85,0.83,10,0.1
+Missing Cross-Channel,MiniLM campaign,162,0.3,0.88,0.8,30,0.3
+Missing Cross-Channel,MiniLM campaign,162,0.6,0.89,0.77,60,0.6
+Missing Cross-Channel,MiniLM campaign,163,0.1,0.89,0.81,12,0.12
+Missing Cross-Channel,MiniLM campaign,163,0.3,0.89,0.81,38,0.38
+Missing Cross-Channel,MiniLM campaign,163,0.6,0.91,0.77,65,0.65
+Missing Cross-Channel,MiniLM campaign,164,0.1,0.91,0.91,9,0.09
+Missing Cross-Channel,MiniLM campaign,164,0.3,0.9,0.92,27,0.27
+Missing Cross-Channel,MiniLM campaign,164,0.6,0.9,0.9,55,0.55
+Missing Cross-Channel,MiniLM campaign,165,0.1,0.84,0.85,11,0.11
+Missing Cross-Channel,MiniLM campaign,165,0.3,0.85,0.87,35,0.35
+Missing Cross-Channel,MiniLM campaign,165,0.6,0.86,0.82,63,0.63
+Missing Cross-Channel,MiniLM campaign,166,0.1,0.88,0.82,7,0.07
+Missing Cross-Channel,MiniLM campaign,166,0.3,0.91,0.83,27,0.27
+Missing Cross-Channel,MiniLM campaign,166,0.6,0.89,0.76,54,0.54
+Missing Cross-Channel,MiniLM campaign,167,0.1,0.86,0.88,6,0.06
+Missing Cross-Channel,MiniLM campaign,167,0.3,0.87,0.86,31,0.31
+Missing Cross-Channel,MiniLM campaign,167,0.6,0.88,0.81,66,0.66
+Missing Cross-Channel,MiniLM campaign,168,0.1,0.81,0.9,6,0.06
+Missing Cross-Channel,MiniLM campaign,168,0.3,0.83,0.84,31,0.31
+Missing Cross-Channel,MiniLM campaign,168,0.6,0.87,0.84,61,0.61
+Missing Cross-Channel,MiniLM campaign,169,0.1,0.84,0.8,14,0.14
+Missing Cross-Channel,MiniLM campaign,169,0.3,0.86,0.82,36,0.36
+Missing Cross-Channel,MiniLM campaign,169,0.6,0.87,0.74,65,0.65
+Missing Cross-Channel,MiniLM campaign,170,0.1,0.91,0.8,9,0.09
+Missing Cross-Channel,MiniLM campaign,170,0.3,0.91,0.81,29,0.29
+Missing Cross-Channel,MiniLM campaign,170,0.6,0.89,0.77,60,0.6
+Missing Cross-Channel,MiniLM campaign,171,0.1,0.86,0.86,13,0.13
+Missing Cross-Channel,MiniLM campaign,171,0.3,0.86,0.86,26,0.26
+Missing Cross-Channel,MiniLM campaign,171,0.6,0.87,0.81,63,0.63
+Missing Cross-Channel,MiniLM campaign,172,0.1,0.9,0.92,11,0.11
+Missing Cross-Channel,MiniLM campaign,172,0.3,0.89,0.89,36,0.36
+Missing Cross-Channel,MiniLM campaign,172,0.6,0.91,0.88,62,0.62
+Missing Cross-Channel,MiniLM campaign,173,0.1,0.89,0.81,8,0.08
+Missing Cross-Channel,MiniLM campaign,173,0.3,0.91,0.79,32,0.32
+Missing Cross-Channel,MiniLM campaign,173,0.6,0.91,0.76,64,0.64
+Missing Cross-Channel,MiniLM campaign,174,0.1,0.88,0.84,9,0.09
+Missing Cross-Channel,MiniLM campaign,174,0.3,0.88,0.79,34,0.34
+Missing Cross-Channel,MiniLM campaign,174,0.6,0.89,0.78,58,0.58
+Missing Cross-Channel,MiniLM campaign,175,0.1,0.88,0.84,8,0.08
+Missing Cross-Channel,MiniLM campaign,175,0.3,0.88,0.82,29,0.29
+Missing Cross-Channel,MiniLM campaign,175,0.6,0.89,0.77,59,0.59
+Missing Cross-Channel,MiniLM campaign,176,0.1,0.86,0.85,13,0.13
+Missing Cross-Channel,MiniLM campaign,176,0.3,0.9,0.84,31,0.31
+Missing Cross-Channel,MiniLM campaign,176,0.6,0.91,0.77,53,0.53
+Missing Cross-Channel,MiniLM campaign,177,0.1,0.92,0.87,16,0.16
+Missing Cross-Channel,MiniLM campaign,177,0.3,0.92,0.86,31,0.31
+Missing Cross-Channel,MiniLM campaign,177,0.6,0.91,0.82,63,0.63
+Missing Cross-Channel,MiniLM campaign,178,0.1,0.76,0.91,12,0.12
+Missing Cross-Channel,MiniLM campaign,178,0.3,0.8,0.89,27,0.27
+Missing Cross-Channel,MiniLM campaign,178,0.6,0.88,0.85,61,0.61
+Missing Cross-Channel,MiniLM campaign,179,0.1,0.87,0.88,10,0.1
+Missing Cross-Channel,MiniLM campaign,179,0.3,0.87,0.83,26,0.26
+Missing Cross-Channel,MiniLM campaign,179,0.6,0.88,0.83,58,0.58
+Missing Cross-Channel,MiniLM campaign,180,0.1,0.9,0.87,12,0.12
+Missing Cross-Channel,MiniLM campaign,180,0.3,0.93,0.88,32,0.32
+Missing Cross-Channel,MiniLM campaign,180,0.6,0.94,0.87,63,0.63
+Missing Cross-Channel,MiniLM campaign,181,0.1,0.9,0.86,10,0.1
+Missing Cross-Channel,MiniLM campaign,181,0.3,0.89,0.85,28,0.28
+Missing Cross-Channel,MiniLM campaign,181,0.6,0.89,0.78,58,0.58
+Missing Cross-Channel,MiniLM campaign,182,0.1,0.87,0.78,8,0.08
+Missing Cross-Channel,MiniLM campaign,182,0.3,0.87,0.76,26,0.26
+Missing Cross-Channel,MiniLM campaign,182,0.6,0.87,0.81,62,0.62
+Missing Cross-Channel,MiniLM campaign,183,0.1,0.85,0.83,14,0.14
+Missing Cross-Channel,MiniLM campaign,183,0.3,0.87,0.84,36,0.36
+Missing Cross-Channel,MiniLM campaign,183,0.6,0.89,0.8,65,0.65
+Missing Cross-Channel,MiniLM campaign,184,0.1,0.93,0.85,12,0.12
+Missing Cross-Channel,MiniLM campaign,184,0.3,0.91,0.85,34,0.34
+Missing Cross-Channel,MiniLM campaign,184,0.6,0.89,0.75,62,0.62
+Missing Cross-Channel,MiniLM campaign,185,0.1,0.83,0.92,16,0.16
+Missing Cross-Channel,MiniLM campaign,185,0.3,0.82,0.9,37,0.37
+Missing Cross-Channel,MiniLM campaign,185,0.6,0.83,0.87,65,0.65
+Missing Cross-Channel,MiniLM campaign,186,0.1,0.87,0.8,9,0.09
+Missing Cross-Channel,MiniLM campaign,186,0.3,0.89,0.81,26,0.26
+Missing Cross-Channel,MiniLM campaign,186,0.6,0.89,0.84,61,0.61
+Missing Cross-Channel,MiniLM campaign,187,0.1,0.9,0.89,8,0.08
+Missing Cross-Channel,MiniLM campaign,187,0.3,0.89,0.86,28,0.28
+Missing Cross-Channel,MiniLM campaign,187,0.6,0.93,0.78,63,0.63
+Missing Cross-Channel,MiniLM campaign,188,0.1,0.88,0.85,11,0.11
+Missing Cross-Channel,MiniLM campaign,188,0.3,0.89,0.86,30,0.3
+Missing Cross-Channel,MiniLM campaign,188,0.6,0.92,0.82,63,0.63
+Missing Cross-Channel,MiniLM campaign,189,0.1,0.84,0.88,11,0.11
+Missing Cross-Channel,MiniLM campaign,189,0.3,0.86,0.84,30,0.3
+Missing Cross-Channel,MiniLM campaign,189,0.6,0.9,0.73,62,0.62
+Missing Cross-Channel,MiniLM campaign,190,0.1,0.91,0.77,11,0.11
+Missing Cross-Channel,MiniLM campaign,190,0.3,0.9,0.78,27,0.27
+Missing Cross-Channel,MiniLM campaign,190,0.6,0.89,0.71,60,0.6
+Missing Cross-Channel,MiniLM campaign,191,0.1,0.9,0.87,9,0.09
+Missing Cross-Channel,MiniLM campaign,191,0.3,0.89,0.87,22,0.22
+Missing Cross-Channel,MiniLM campaign,191,0.6,0.89,0.84,59,0.59
+Missing Cross-Channel,MiniLM campaign,192,0.1,0.75,0.91,9,0.09
+Missing Cross-Channel,MiniLM campaign,192,0.3,0.81,0.84,34,0.34
+Missing Cross-Channel,MiniLM campaign,192,0.6,0.84,0.82,67,0.67
+Missing Cross-Channel,MiniLM campaign,193,0.1,0.9,0.8,11,0.11
+Missing Cross-Channel,MiniLM campaign,193,0.3,0.89,0.78,31,0.31
+Missing Cross-Channel,MiniLM campaign,193,0.6,0.88,0.73,65,0.65
+Missing Cross-Channel,MiniLM campaign,194,0.1,0.85,0.87,12,0.12
+Missing Cross-Channel,MiniLM campaign,194,0.3,0.86,0.86,31,0.31
+Missing Cross-Channel,MiniLM campaign,194,0.6,0.85,0.85,67,0.67
+Missing Cross-Channel,MiniLM campaign,195,0.1,0.84,0.9,6,0.06
+Missing Cross-Channel,MiniLM campaign,195,0.3,0.84,0.89,16,0.16
+Missing Cross-Channel,MiniLM campaign,195,0.6,0.85,0.84,52,0.52
+Missing Cross-Channel,MiniLM campaign,196,0.1,0.93,0.83,15,0.15
+Missing Cross-Channel,MiniLM campaign,196,0.3,0.93,0.84,30,0.3
+Missing Cross-Channel,MiniLM campaign,196,0.6,0.92,0.83,53,0.53
+Missing Cross-Channel,MiniLM campaign,197,0.1,0.81,0.81,12,0.12
+Missing Cross-Channel,MiniLM campaign,197,0.3,0.81,0.81,31,0.31
+Missing Cross-Channel,MiniLM campaign,197,0.6,0.77,0.8,64,0.64
+Missing Cross-Channel,MiniLM campaign,198,0.1,0.89,0.82,11,0.11
+Missing Cross-Channel,MiniLM campaign,198,0.3,0.9,0.8,32,0.32
+Missing Cross-Channel,MiniLM campaign,198,0.6,0.91,0.71,64,0.64
+Missing Cross-Channel,MiniLM campaign,199,0.1,0.85,0.82,9,0.09
+Missing Cross-Channel,MiniLM campaign,199,0.3,0.86,0.81,37,0.37
+Missing Cross-Channel,MiniLM campaign,199,0.6,0.88,0.74,61,0.61
+Over-Polished Language,MiniLM message,0,0.1,0.8,0.91,9,0.09
+Over-Polished Language,MiniLM message,0,0.3,0.8,0.9,26,0.26
+Over-Polished Language,MiniLM message,0,0.6,0.83,0.91,58,0.58
+Over-Polished Language,MiniLM message,1,0.1,0.88,0.93,14,0.14
+Over-Polished Language,MiniLM message,1,0.3,0.88,0.92,29,0.29
+Over-Polished Language,MiniLM message,1,0.6,0.9,0.92,60,0.6
+Over-Polished Language,MiniLM message,2,0.1,0.79,0.92,12,0.12
+Over-Polished Language,MiniLM message,2,0.3,0.78,0.91,33,0.33
+Over-Polished Language,MiniLM message,2,0.6,0.79,0.93,61,0.61
+Over-Polished Language,MiniLM message,3,0.1,0.8,0.86,7,0.07
+Over-Polished Language,MiniLM message,3,0.3,0.8,0.87,24,0.24
+Over-Polished Language,MiniLM message,3,0.6,0.8,0.87,48,0.48
+Over-Polished Language,MiniLM message,4,0.1,0.93,0.86,12,0.12
+Over-Polished Language,MiniLM message,4,0.3,0.89,0.86,29,0.29
+Over-Polished Language,MiniLM message,4,0.6,0.89,0.88,64,0.64
+Over-Polished Language,MiniLM message,5,0.1,0.86,0.88,10,0.1
+Over-Polished Language,MiniLM message,5,0.3,0.86,0.88,33,0.33
+Over-Polished Language,MiniLM message,5,0.6,0.86,0.9,50,0.5
+Over-Polished Language,MiniLM message,6,0.1,0.89,0.83,9,0.09
+Over-Polished Language,MiniLM message,6,0.3,0.88,0.84,28,0.28
+Over-Polished Language,MiniLM message,6,0.6,0.89,0.87,56,0.56
+Over-Polished Language,MiniLM message,7,0.1,0.86,0.81,9,0.09
+Over-Polished Language,MiniLM message,7,0.3,0.87,0.8,29,0.29
+Over-Polished Language,MiniLM message,7,0.6,0.86,0.79,64,0.64
+Over-Polished Language,MiniLM message,8,0.1,0.92,0.76,9,0.09
+Over-Polished Language,MiniLM message,8,0.3,0.92,0.78,25,0.25
+Over-Polished Language,MiniLM message,8,0.6,0.92,0.79,58,0.58
+Over-Polished Language,MiniLM message,9,0.1,0.94,0.9,8,0.08
+Over-Polished Language,MiniLM message,9,0.3,0.94,0.92,25,0.25
+Over-Polished Language,MiniLM message,9,0.6,0.95,0.91,56,0.56
+Over-Polished Language,MiniLM message,10,0.1,0.83,0.89,12,0.12
+Over-Polished Language,MiniLM message,10,0.3,0.83,0.9,35,0.35
+Over-Polished Language,MiniLM message,10,0.6,0.84,0.9,60,0.6
+Over-Polished Language,MiniLM message,11,0.1,0.88,0.93,9,0.09
+Over-Polished Language,MiniLM message,11,0.3,0.86,0.92,27,0.27
+Over-Polished Language,MiniLM message,11,0.6,0.88,0.87,54,0.54
+Over-Polished Language,MiniLM message,12,0.1,0.87,0.89,11,0.11
+Over-Polished Language,MiniLM message,12,0.3,0.87,0.89,24,0.24
+Over-Polished Language,MiniLM message,12,0.6,0.88,0.9,57,0.57
+Over-Polished Language,MiniLM message,13,0.1,0.92,0.83,7,0.07
+Over-Polished Language,MiniLM message,13,0.3,0.91,0.83,25,0.25
+Over-Polished Language,MiniLM message,13,0.6,0.91,0.83,55,0.55
+Over-Polished Language,MiniLM message,14,0.1,0.9,0.9,8,0.08
+Over-Polished Language,MiniLM message,14,0.3,0.88,0.9,27,0.27
+Over-Polished Language,MiniLM message,14,0.6,0.86,0.89,61,0.61
+Over-Polished Language,MiniLM message,15,0.1,0.85,0.85,10,0.1
+Over-Polished Language,MiniLM message,15,0.3,0.85,0.89,33,0.33
+Over-Polished Language,MiniLM message,15,0.6,0.85,0.89,60,0.6
+Over-Polished Language,MiniLM message,16,0.1,0.89,0.86,8,0.08
+Over-Polished Language,MiniLM message,16,0.3,0.88,0.88,26,0.26
+Over-Polished Language,MiniLM message,16,0.6,0.87,0.83,55,0.55
+Over-Polished Language,MiniLM message,17,0.1,0.86,0.81,12,0.12
+Over-Polished Language,MiniLM message,17,0.3,0.86,0.79,34,0.34
+Over-Polished Language,MiniLM message,17,0.6,0.86,0.81,60,0.6
+Over-Polished Language,MiniLM message,18,0.1,0.93,0.81,11,0.11
+Over-Polished Language,MiniLM message,18,0.3,0.92,0.84,30,0.3
+Over-Polished Language,MiniLM message,18,0.6,0.92,0.79,57,0.57
+Over-Polished Language,MiniLM message,19,0.1,0.95,0.92,6,0.06
+Over-Polished Language,MiniLM message,19,0.3,0.93,0.89,31,0.31
+Over-Polished Language,MiniLM message,19,0.6,0.93,0.88,60,0.6
+Over-Polished Language,MiniLM message,20,0.1,0.87,0.89,9,0.09
+Over-Polished Language,MiniLM message,20,0.3,0.87,0.88,29,0.29
+Over-Polished Language,MiniLM message,20,0.6,0.86,0.83,56,0.56
+Over-Polished Language,MiniLM message,21,0.1,0.82,0.86,7,0.07
+Over-Polished Language,MiniLM message,21,0.3,0.81,0.88,30,0.3
+Over-Polished Language,MiniLM message,21,0.6,0.81,0.88,63,0.63
+Over-Polished Language,MiniLM message,22,0.1,0.86,0.83,6,0.06
+Over-Polished Language,MiniLM message,22,0.3,0.86,0.83,27,0.27
+Over-Polished Language,MiniLM message,22,0.6,0.89,0.84,61,0.61
+Over-Polished Language,MiniLM message,23,0.1,0.91,0.96,15,0.15
+Over-Polished Language,MiniLM message,23,0.3,0.91,0.96,25,0.25
+Over-Polished Language,MiniLM message,23,0.6,0.91,0.97,59,0.59
+Over-Polished Language,MiniLM message,24,0.1,0.76,0.89,10,0.1
+Over-Polished Language,MiniLM message,24,0.3,0.76,0.88,33,0.33
+Over-Polished Language,MiniLM message,24,0.6,0.75,0.9,68,0.68
+Over-Polished Language,MiniLM message,25,0.1,0.85,0.88,7,0.07
+Over-Polished Language,MiniLM message,25,0.3,0.84,0.91,28,0.28
+Over-Polished Language,MiniLM message,25,0.6,0.86,0.9,58,0.58
+Over-Polished Language,MiniLM message,26,0.1,0.88,0.85,10,0.1
+Over-Polished Language,MiniLM message,26,0.3,0.88,0.84,26,0.26
+Over-Polished Language,MiniLM message,26,0.6,0.89,0.81,57,0.57
+Over-Polished Language,MiniLM message,27,0.1,0.88,0.85,9,0.09
+Over-Polished Language,MiniLM message,27,0.3,0.86,0.86,31,0.31
+Over-Polished Language,MiniLM message,27,0.6,0.86,0.88,57,0.57
+Over-Polished Language,MiniLM message,28,0.1,0.86,0.92,11,0.11
+Over-Polished Language,MiniLM message,28,0.3,0.86,0.93,39,0.39
+Over-Polished Language,MiniLM message,28,0.6,0.87,0.94,68,0.68
+Over-Polished Language,MiniLM message,29,0.1,0.86,0.91,11,0.11
+Over-Polished Language,MiniLM message,29,0.3,0.87,0.89,37,0.37
+Over-Polished Language,MiniLM message,29,0.6,0.87,0.89,64,0.64
+Over-Polished Language,MiniLM message,30,0.1,0.85,0.86,8,0.08
+Over-Polished Language,MiniLM message,30,0.3,0.86,0.85,29,0.29
+Over-Polished Language,MiniLM message,30,0.6,0.86,0.84,60,0.6
+Over-Polished Language,MiniLM message,31,0.1,0.86,0.87,10,0.1
+Over-Polished Language,MiniLM message,31,0.3,0.86,0.87,25,0.25
+Over-Polished Language,MiniLM message,31,0.6,0.86,0.87,57,0.57
+Over-Polished Language,MiniLM message,32,0.1,0.88,0.84,11,0.11
+Over-Polished Language,MiniLM message,32,0.3,0.87,0.81,33,0.33
+Over-Polished Language,MiniLM message,32,0.6,0.87,0.81,64,0.64
+Over-Polished Language,MiniLM message,33,0.1,0.86,0.86,12,0.12
+Over-Polished Language,MiniLM message,33,0.3,0.86,0.86,36,0.36
+Over-Polished Language,MiniLM message,33,0.6,0.86,0.85,61,0.61
+Over-Polished Language,MiniLM message,34,0.1,0.84,0.92,7,0.07
+Over-Polished Language,MiniLM message,34,0.3,0.84,0.92,27,0.27
+Over-Polished Language,MiniLM message,34,0.6,0.84,0.9,56,0.56
+Over-Polished Language,MiniLM message,35,0.1,0.81,0.94,13,0.13
+Over-Polished Language,MiniLM message,35,0.3,0.8,0.92,33,0.33
+Over-Polished Language,MiniLM message,35,0.6,0.8,0.93,64,0.64
+Over-Polished Language,MiniLM message,36,0.1,0.92,0.83,10,0.1
+Over-Polished Language,MiniLM message,36,0.3,0.91,0.83,30,0.3
+Over-Polished Language,MiniLM message,36,0.6,0.9,0.86,58,0.58
+Over-Polished Language,MiniLM message,37,0.1,0.85,0.85,11,0.11
+Over-Polished Language,MiniLM message,37,0.3,0.85,0.87,31,0.31
+Over-Polished Language,MiniLM message,37,0.6,0.85,0.87,66,0.66
+Over-Polished Language,MiniLM message,38,0.1,0.84,0.8,14,0.14
+Over-Polished Language,MiniLM message,38,0.3,0.84,0.8,35,0.35
+Over-Polished Language,MiniLM message,38,0.6,0.85,0.82,62,0.62
+Over-Polished Language,MiniLM message,39,0.1,0.84,0.92,10,0.1
+Over-Polished Language,MiniLM message,39,0.3,0.82,0.93,28,0.28
+Over-Polished Language,MiniLM message,39,0.6,0.83,0.89,58,0.58
+Over-Polished Language,MiniLM message,40,0.1,0.92,0.92,7,0.07
+Over-Polished Language,MiniLM message,40,0.3,0.9,0.9,31,0.31
+Over-Polished Language,MiniLM message,40,0.6,0.92,0.92,66,0.66
+Over-Polished Language,MiniLM message,41,0.1,0.92,0.87,11,0.11
+Over-Polished Language,MiniLM message,41,0.3,0.91,0.86,26,0.26
+Over-Polished Language,MiniLM message,41,0.6,0.91,0.88,59,0.59
+Over-Polished Language,MiniLM message,42,0.1,0.87,0.88,16,0.16
+Over-Polished Language,MiniLM message,42,0.3,0.86,0.88,36,0.36
+Over-Polished Language,MiniLM message,42,0.6,0.87,0.9,62,0.62
+Over-Polished Language,MiniLM message,43,0.1,0.92,0.9,9,0.09
+Over-Polished Language,MiniLM message,43,0.3,0.91,0.89,25,0.25
+Over-Polished Language,MiniLM message,43,0.6,0.88,0.85,56,0.56
+Over-Polished Language,MiniLM message,44,0.1,0.88,0.78,9,0.09
+Over-Polished Language,MiniLM message,44,0.3,0.89,0.8,27,0.27
+Over-Polished Language,MiniLM message,44,0.6,0.88,0.77,54,0.54
+Over-Polished Language,MiniLM message,45,0.1,0.83,0.87,8,0.08
+Over-Polished Language,MiniLM message,45,0.3,0.83,0.85,28,0.28
+Over-Polished Language,MiniLM message,45,0.6,0.85,0.87,57,0.57
+Over-Polished Language,MiniLM message,46,0.1,0.93,0.87,8,0.08
+Over-Polished Language,MiniLM message,46,0.3,0.93,0.88,34,0.34
+Over-Polished Language,MiniLM message,46,0.6,0.94,0.86,64,0.64
+Over-Polished Language,MiniLM message,47,0.1,0.85,0.88,7,0.07
+Over-Polished Language,MiniLM message,47,0.3,0.84,0.88,31,0.31
+Over-Polished Language,MiniLM message,47,0.6,0.83,0.89,62,0.62
+Over-Polished Language,MiniLM message,48,0.1,0.88,0.85,9,0.09
+Over-Polished Language,MiniLM message,48,0.3,0.87,0.86,33,0.33
+Over-Polished Language,MiniLM message,48,0.6,0.84,0.87,64,0.64
+Over-Polished Language,MiniLM message,49,0.1,0.94,0.9,7,0.07
+Over-Polished Language,MiniLM message,49,0.3,0.94,0.88,21,0.21
+Over-Polished Language,MiniLM message,49,0.6,0.94,0.86,52,0.52
+Over-Polished Language,MiniLM message,50,0.1,0.9,0.86,9,0.09
+Over-Polished Language,MiniLM message,50,0.3,0.88,0.85,28,0.28
+Over-Polished Language,MiniLM message,50,0.6,0.91,0.85,67,0.67
+Over-Polished Language,MiniLM message,51,0.1,0.86,0.86,9,0.09
+Over-Polished Language,MiniLM message,51,0.3,0.86,0.85,36,0.36
+Over-Polished Language,MiniLM message,51,0.6,0.86,0.81,65,0.65
+Over-Polished Language,MiniLM message,52,0.1,0.83,0.92,8,0.08
+Over-Polished Language,MiniLM message,52,0.3,0.81,0.9,30,0.3
+Over-Polished Language,MiniLM message,52,0.6,0.81,0.92,60,0.6
+Over-Polished Language,MiniLM message,53,0.1,0.89,0.75,8,0.08
+Over-Polished Language,MiniLM message,53,0.3,0.89,0.74,25,0.25
+Over-Polished Language,MiniLM message,53,0.6,0.9,0.75,56,0.56
+Over-Polished Language,MiniLM message,54,0.1,0.84,0.88,9,0.09
+Over-Polished Language,MiniLM message,54,0.3,0.86,0.86,32,0.32
+Over-Polished Language,MiniLM message,54,0.6,0.85,0.85,61,0.61
+Over-Polished Language,MiniLM message,55,0.1,0.9,0.83,10,0.1
+Over-Polished Language,MiniLM message,55,0.3,0.91,0.86,32,0.32
+Over-Polished Language,MiniLM message,55,0.6,0.89,0.86,57,0.57
+Over-Polished Language,MiniLM message,56,0.1,0.91,0.92,4,0.04
+Over-Polished Language,MiniLM message,56,0.3,0.91,0.95,21,0.21
+Over-Polished Language,MiniLM message,56,0.6,0.92,0.93,57,0.57
+Over-Polished Language,MiniLM message,57,0.1,0.93,0.91,6,0.06
+Over-Polished Language,MiniLM message,57,0.3,0.91,0.92,31,0.31
+Over-Polished Language,MiniLM message,57,0.6,0.9,0.92,60,0.6
+Over-Polished Language,MiniLM message,58,0.1,0.9,0.83,9,0.09
+Over-Polished Language,MiniLM message,58,0.3,0.91,0.83,30,0.3
+Over-Polished Language,MiniLM message,58,0.6,0.92,0.83,62,0.62
+Over-Polished Language,MiniLM message,59,0.1,0.88,0.84,7,0.07
+Over-Polished Language,MiniLM message,59,0.3,0.89,0.85,32,0.32
+Over-Polished Language,MiniLM message,59,0.6,0.91,0.85,66,0.66
+Over-Polished Language,MiniLM message,60,0.1,0.91,0.91,8,0.08
+Over-Polished Language,MiniLM message,60,0.3,0.88,0.92,31,0.31
+Over-Polished Language,MiniLM message,60,0.6,0.87,0.94,56,0.56
+Over-Polished Language,MiniLM message,61,0.1,0.85,0.88,7,0.07
+Over-Polished Language,MiniLM message,61,0.3,0.82,0.89,32,0.32
+Over-Polished Language,MiniLM message,61,0.6,0.82,0.9,63,0.63
+Over-Polished Language,MiniLM message,62,0.1,0.84,0.92,14,0.14
+Over-Polished Language,MiniLM message,62,0.3,0.83,0.92,35,0.35
+Over-Polished Language,MiniLM message,62,0.6,0.83,0.93,60,0.6
+Over-Polished Language,MiniLM message,63,0.1,0.83,0.92,9,0.09
+Over-Polished Language,MiniLM message,63,0.3,0.82,0.93,33,0.33
+Over-Polished Language,MiniLM message,63,0.6,0.85,0.92,61,0.61
+Over-Polished Language,MiniLM message,64,0.1,0.86,0.86,10,0.1
+Over-Polished Language,MiniLM message,64,0.3,0.86,0.85,29,0.29
+Over-Polished Language,MiniLM message,64,0.6,0.85,0.88,57,0.57
+Over-Polished Language,MiniLM message,65,0.1,0.86,0.93,10,0.1
+Over-Polished Language,MiniLM message,65,0.3,0.85,0.91,27,0.27
+Over-Polished Language,MiniLM message,65,0.6,0.86,0.93,51,0.51
+Over-Polished Language,MiniLM message,66,0.1,0.86,0.86,10,0.1
+Over-Polished Language,MiniLM message,66,0.3,0.87,0.83,28,0.28
+Over-Polished Language,MiniLM message,66,0.6,0.88,0.86,57,0.57
+Over-Polished Language,MiniLM message,67,0.1,0.94,0.83,15,0.15
+Over-Polished Language,MiniLM message,67,0.3,0.94,0.83,29,0.29
+Over-Polished Language,MiniLM message,67,0.6,0.94,0.81,61,0.61
+Over-Polished Language,MiniLM message,68,0.1,0.9,0.97,12,0.12
+Over-Polished Language,MiniLM message,68,0.3,0.9,0.97,30,0.3
+Over-Polished Language,MiniLM message,68,0.6,0.92,0.94,59,0.59
+Over-Polished Language,MiniLM message,69,0.1,0.92,0.89,9,0.09
+Over-Polished Language,MiniLM message,69,0.3,0.9,0.87,26,0.26
+Over-Polished Language,MiniLM message,69,0.6,0.88,0.88,54,0.54
+Over-Polished Language,MiniLM message,70,0.1,0.87,0.95,9,0.09
+Over-Polished Language,MiniLM message,70,0.3,0.88,0.93,33,0.33
+Over-Polished Language,MiniLM message,70,0.6,0.88,0.93,64,0.64
+Over-Polished Language,MiniLM message,71,0.1,0.9,0.83,14,0.14
+Over-Polished Language,MiniLM message,71,0.3,0.88,0.86,36,0.36
+Over-Polished Language,MiniLM message,71,0.6,0.89,0.87,60,0.6
+Over-Polished Language,MiniLM message,72,0.1,0.87,0.92,10,0.1
+Over-Polished Language,MiniLM message,72,0.3,0.86,0.91,27,0.27
+Over-Polished Language,MiniLM message,72,0.6,0.83,0.91,55,0.55
+Over-Polished Language,MiniLM message,73,0.1,0.91,0.91,12,0.12
+Over-Polished Language,MiniLM message,73,0.3,0.9,0.9,31,0.31
+Over-Polished Language,MiniLM message,73,0.6,0.9,0.91,60,0.6
+Over-Polished Language,MiniLM message,74,0.1,0.91,0.87,8,0.08
+Over-Polished Language,MiniLM message,74,0.3,0.88,0.9,26,0.26
+Over-Polished Language,MiniLM message,74,0.6,0.88,0.9,60,0.6
+Over-Polished Language,MiniLM message,75,0.1,0.87,0.85,11,0.11
+Over-Polished Language,MiniLM message,75,0.3,0.86,0.86,32,0.32
+Over-Polished Language,MiniLM message,75,0.6,0.86,0.87,60,0.6
+Over-Polished Language,MiniLM message,76,0.1,0.94,0.87,9,0.09
+Over-Polished Language,MiniLM message,76,0.3,0.9,0.88,25,0.25
+Over-Polished Language,MiniLM message,76,0.6,0.89,0.88,55,0.55
+Over-Polished Language,MiniLM message,77,0.1,0.85,0.92,6,0.06
+Over-Polished Language,MiniLM message,77,0.3,0.84,0.92,24,0.24
+Over-Polished Language,MiniLM message,77,0.6,0.84,0.92,54,0.54
+Over-Polished Language,MiniLM message,78,0.1,0.83,0.94,12,0.12
+Over-Polished Language,MiniLM message,78,0.3,0.85,0.93,28,0.28
+Over-Polished Language,MiniLM message,78,0.6,0.86,0.93,54,0.54
+Over-Polished Language,MiniLM message,79,0.1,0.9,0.86,7,0.07
+Over-Polished Language,MiniLM message,79,0.3,0.89,0.84,30,0.3
+Over-Polished Language,MiniLM message,79,0.6,0.89,0.83,60,0.6
+Over-Polished Language,MiniLM message,80,0.1,0.86,0.89,12,0.12
+Over-Polished Language,MiniLM message,80,0.3,0.87,0.88,32,0.32
+Over-Polished Language,MiniLM message,80,0.6,0.9,0.9,66,0.66
+Over-Polished Language,MiniLM message,81,0.1,0.82,0.93,14,0.14
+Over-Polished Language,MiniLM message,81,0.3,0.81,0.95,30,0.3
+Over-Polished Language,MiniLM message,81,0.6,0.82,0.92,60,0.6
+Over-Polished Language,MiniLM message,82,0.1,0.86,0.92,12,0.12
+Over-Polished Language,MiniLM message,82,0.3,0.86,0.88,35,0.35
+Over-Polished Language,MiniLM message,82,0.6,0.86,0.87,62,0.62
+Over-Polished Language,MiniLM message,83,0.1,0.9,0.92,10,0.1
+Over-Polished Language,MiniLM message,83,0.3,0.91,0.92,31,0.31
+Over-Polished Language,MiniLM message,83,0.6,0.91,0.92,64,0.64
+Over-Polished Language,MiniLM message,84,0.1,0.87,0.89,13,0.13
+Over-Polished Language,MiniLM message,84,0.3,0.87,0.86,37,0.37
+Over-Polished Language,MiniLM message,84,0.6,0.88,0.88,67,0.67
+Over-Polished Language,MiniLM message,85,0.1,0.77,0.91,10,0.1
+Over-Polished Language,MiniLM message,85,0.3,0.78,0.91,27,0.27
+Over-Polished Language,MiniLM message,85,0.6,0.77,0.89,57,0.57
+Over-Polished Language,MiniLM message,86,0.1,0.87,0.82,6,0.06
+Over-Polished Language,MiniLM message,86,0.3,0.86,0.83,23,0.23
+Over-Polished Language,MiniLM message,86,0.6,0.87,0.83,58,0.58
+Over-Polished Language,MiniLM message,87,0.1,0.86,0.81,13,0.13
+Over-Polished Language,MiniLM message,87,0.3,0.86,0.82,33,0.33
+Over-Polished Language,MiniLM message,87,0.6,0.87,0.82,65,0.65
+Over-Polished Language,MiniLM message,88,0.1,0.9,0.89,10,0.1
+Over-Polished Language,MiniLM message,88,0.3,0.89,0.87,35,0.35
+Over-Polished Language,MiniLM message,88,0.6,0.87,0.91,69,0.69
+Over-Polished Language,MiniLM message,89,0.1,0.89,0.9,11,0.11
+Over-Polished Language,MiniLM message,89,0.3,0.88,0.91,31,0.31
+Over-Polished Language,MiniLM message,89,0.6,0.9,0.91,60,0.6
+Over-Polished Language,MiniLM message,90,0.1,0.87,0.88,7,0.07
+Over-Polished Language,MiniLM message,90,0.3,0.88,0.87,32,0.32
+Over-Polished Language,MiniLM message,90,0.6,0.9,0.85,62,0.62
+Over-Polished Language,MiniLM message,91,0.1,0.91,0.91,12,0.12
+Over-Polished Language,MiniLM message,91,0.3,0.9,0.9,28,0.28
+Over-Polished Language,MiniLM message,91,0.6,0.9,0.9,61,0.61
+Over-Polished Language,MiniLM message,92,0.1,0.89,0.85,12,0.12
+Over-Polished Language,MiniLM message,92,0.3,0.88,0.84,28,0.28
+Over-Polished Language,MiniLM message,92,0.6,0.89,0.84,59,0.59
+Over-Polished Language,MiniLM message,93,0.1,0.86,0.89,6,0.06
+Over-Polished Language,MiniLM message,93,0.3,0.88,0.88,30,0.3
+Over-Polished Language,MiniLM message,93,0.6,0.88,0.89,60,0.6
+Over-Polished Language,MiniLM message,94,0.1,0.8,0.86,9,0.09
+Over-Polished Language,MiniLM message,94,0.3,0.81,0.86,24,0.24
+Over-Polished Language,MiniLM message,94,0.6,0.84,0.87,59,0.59
+Over-Polished Language,MiniLM message,95,0.1,0.93,0.85,15,0.15
+Over-Polished Language,MiniLM message,95,0.3,0.92,0.86,29,0.29
+Over-Polished Language,MiniLM message,95,0.6,0.93,0.86,66,0.66
+Over-Polished Language,MiniLM message,96,0.1,0.9,0.86,14,0.14
+Over-Polished Language,MiniLM message,96,0.3,0.9,0.86,29,0.29
+Over-Polished Language,MiniLM message,96,0.6,0.9,0.87,57,0.57
+Over-Polished Language,MiniLM message,97,0.1,0.83,0.93,13,0.13
+Over-Polished Language,MiniLM message,97,0.3,0.83,0.94,32,0.32
+Over-Polished Language,MiniLM message,97,0.6,0.83,0.99,63,0.63
+Over-Polished Language,MiniLM message,98,0.1,0.84,0.88,7,0.07
+Over-Polished Language,MiniLM message,98,0.3,0.8,0.89,29,0.29
+Over-Polished Language,MiniLM message,98,0.6,0.8,0.88,61,0.61
+Over-Polished Language,MiniLM message,99,0.1,0.81,0.89,13,0.13
+Over-Polished Language,MiniLM message,99,0.3,0.81,0.92,31,0.31
+Over-Polished Language,MiniLM message,99,0.6,0.81,0.93,61,0.61
+Over-Polished Language,MiniLM message,100,0.1,0.84,0.87,10,0.1
+Over-Polished Language,MiniLM message,100,0.3,0.83,0.87,28,0.28
+Over-Polished Language,MiniLM message,100,0.6,0.83,0.89,56,0.56
+Over-Polished Language,MiniLM message,101,0.1,0.85,0.86,10,0.1
+Over-Polished Language,MiniLM message,101,0.3,0.83,0.85,27,0.27
+Over-Polished Language,MiniLM message,101,0.6,0.84,0.85,59,0.59
+Over-Polished Language,MiniLM message,102,0.1,0.88,0.91,11,0.11
+Over-Polished Language,MiniLM message,102,0.3,0.88,0.91,33,0.33
+Over-Polished Language,MiniLM message,102,0.6,0.88,0.88,63,0.63
+Over-Polished Language,MiniLM message,103,0.1,0.9,0.94,7,0.07
+Over-Polished Language,MiniLM message,103,0.3,0.89,0.93,27,0.27
+Over-Polished Language,MiniLM message,103,0.6,0.87,0.94,62,0.62
+Over-Polished Language,MiniLM message,104,0.1,0.87,0.86,8,0.08
+Over-Polished Language,MiniLM message,104,0.3,0.85,0.86,32,0.32
+Over-Polished Language,MiniLM message,104,0.6,0.83,0.85,62,0.62
+Over-Polished Language,MiniLM message,105,0.1,0.87,0.76,5,0.05
+Over-Polished Language,MiniLM message,105,0.3,0.88,0.77,24,0.24
+Over-Polished Language,MiniLM message,105,0.6,0.89,0.81,48,0.48
+Over-Polished Language,MiniLM message,106,0.1,0.72,0.94,12,0.12
+Over-Polished Language,MiniLM message,106,0.3,0.72,0.94,28,0.28
+Over-Polished Language,MiniLM message,106,0.6,0.7,0.92,65,0.65
+Over-Polished Language,MiniLM message,107,0.1,0.83,0.92,11,0.11
+Over-Polished Language,MiniLM message,107,0.3,0.84,0.92,28,0.28
+Over-Polished Language,MiniLM message,107,0.6,0.86,0.91,60,0.6
+Over-Polished Language,MiniLM message,108,0.1,0.89,0.89,10,0.1
+Over-Polished Language,MiniLM message,108,0.3,0.88,0.85,29,0.29
+Over-Polished Language,MiniLM message,108,0.6,0.88,0.86,60,0.6
+Over-Polished Language,MiniLM message,109,0.1,0.91,0.86,15,0.15
+Over-Polished Language,MiniLM message,109,0.3,0.9,0.88,26,0.26
+Over-Polished Language,MiniLM message,109,0.6,0.9,0.87,64,0.64
+Over-Polished Language,MiniLM message,110,0.1,0.88,0.87,11,0.11
+Over-Polished Language,MiniLM message,110,0.3,0.87,0.88,33,0.33
+Over-Polished Language,MiniLM message,110,0.6,0.87,0.87,62,0.62
+Over-Polished Language,MiniLM message,111,0.1,0.85,0.84,9,0.09
+Over-Polished Language,MiniLM message,111,0.3,0.86,0.85,29,0.29
+Over-Polished Language,MiniLM message,111,0.6,0.89,0.9,65,0.65
+Over-Polished Language,MiniLM message,112,0.1,0.88,0.82,15,0.15
+Over-Polished Language,MiniLM message,112,0.3,0.89,0.83,37,0.37
+Over-Polished Language,MiniLM message,112,0.6,0.92,0.84,67,0.67
+Over-Polished Language,MiniLM message,113,0.1,0.9,0.85,16,0.16
+Over-Polished Language,MiniLM message,113,0.3,0.92,0.85,37,0.37
+Over-Polished Language,MiniLM message,113,0.6,0.92,0.87,60,0.6
+Over-Polished Language,MiniLM message,114,0.1,0.88,0.94,7,0.07
+Over-Polished Language,MiniLM message,114,0.3,0.86,0.95,27,0.27
+Over-Polished Language,MiniLM message,114,0.6,0.85,0.94,59,0.59
+Over-Polished Language,MiniLM message,115,0.1,0.93,0.9,12,0.12
+Over-Polished Language,MiniLM message,115,0.3,0.93,0.9,29,0.29
+Over-Polished Language,MiniLM message,115,0.6,0.91,0.9,55,0.55
+Over-Polished Language,MiniLM message,116,0.1,0.88,0.95,14,0.14
+Over-Polished Language,MiniLM message,116,0.3,0.89,0.94,37,0.37
+Over-Polished Language,MiniLM message,116,0.6,0.89,0.91,64,0.64
+Over-Polished Language,MiniLM message,117,0.1,0.89,0.85,8,0.08
+Over-Polished Language,MiniLM message,117,0.3,0.88,0.87,30,0.3
+Over-Polished Language,MiniLM message,117,0.6,0.89,0.84,62,0.62
+Over-Polished Language,MiniLM message,118,0.1,0.82,0.94,10,0.1
+Over-Polished Language,MiniLM message,118,0.3,0.81,0.95,32,0.32
+Over-Polished Language,MiniLM message,118,0.6,0.81,0.92,62,0.62
+Over-Polished Language,MiniLM message,119,0.1,0.82,0.91,8,0.08
+Over-Polished Language,MiniLM message,119,0.3,0.83,0.92,25,0.25
+Over-Polished Language,MiniLM message,119,0.6,0.83,0.87,62,0.62
+Over-Polished Language,MiniLM message,120,0.1,0.82,0.87,9,0.09
+Over-Polished Language,MiniLM message,120,0.3,0.81,0.89,34,0.34
+Over-Polished Language,MiniLM message,120,0.6,0.79,0.87,55,0.55
+Over-Polished Language,MiniLM message,121,0.1,0.92,0.93,9,0.09
+Over-Polished Language,MiniLM message,121,0.3,0.91,0.93,30,0.3
+Over-Polished Language,MiniLM message,121,0.6,0.91,0.93,59,0.59
+Over-Polished Language,MiniLM message,122,0.1,0.93,0.91,8,0.08
+Over-Polished Language,MiniLM message,122,0.3,0.93,0.92,33,0.33
+Over-Polished Language,MiniLM message,122,0.6,0.95,0.92,66,0.66
+Over-Polished Language,MiniLM message,123,0.1,0.85,0.85,7,0.07
+Over-Polished Language,MiniLM message,123,0.3,0.84,0.84,25,0.25
+Over-Polished Language,MiniLM message,123,0.6,0.84,0.82,62,0.62
+Over-Polished Language,MiniLM message,124,0.1,0.88,0.8,8,0.08
+Over-Polished Language,MiniLM message,124,0.3,0.88,0.78,29,0.29
+Over-Polished Language,MiniLM message,124,0.6,0.88,0.78,57,0.57
+Over-Polished Language,MiniLM message,125,0.1,0.96,0.82,8,0.08
+Over-Polished Language,MiniLM message,125,0.3,0.96,0.81,29,0.29
+Over-Polished Language,MiniLM message,125,0.6,0.96,0.81,55,0.55
+Over-Polished Language,MiniLM message,126,0.1,0.77,0.91,7,0.07
+Over-Polished Language,MiniLM message,126,0.3,0.77,0.91,29,0.29
+Over-Polished Language,MiniLM message,126,0.6,0.79,0.89,64,0.64
+Over-Polished Language,MiniLM message,127,0.1,0.87,0.85,7,0.07
+Over-Polished Language,MiniLM message,127,0.3,0.86,0.84,27,0.27
+Over-Polished Language,MiniLM message,127,0.6,0.84,0.78,58,0.58
+Over-Polished Language,MiniLM message,128,0.1,0.87,0.81,8,0.08
+Over-Polished Language,MiniLM message,128,0.3,0.87,0.84,27,0.27
+Over-Polished Language,MiniLM message,128,0.6,0.85,0.82,59,0.59
+Over-Polished Language,MiniLM message,129,0.1,0.89,0.85,7,0.07
+Over-Polished Language,MiniLM message,129,0.3,0.89,0.84,28,0.28
+Over-Polished Language,MiniLM message,129,0.6,0.89,0.84,56,0.56
+Over-Polished Language,MiniLM message,130,0.1,0.9,0.89,6,0.06
+Over-Polished Language,MiniLM message,130,0.3,0.9,0.87,29,0.29
+Over-Polished Language,MiniLM message,130,0.6,0.89,0.87,63,0.63
+Over-Polished Language,MiniLM message,131,0.1,0.89,0.9,7,0.07
+Over-Polished Language,MiniLM message,131,0.3,0.9,0.91,26,0.26
+Over-Polished Language,MiniLM message,131,0.6,0.9,0.9,55,0.55
+Over-Polished Language,MiniLM message,132,0.1,0.87,0.83,12,0.12
+Over-Polished Language,MiniLM message,132,0.3,0.87,0.85,31,0.31
+Over-Polished Language,MiniLM message,132,0.6,0.87,0.87,56,0.56
+Over-Polished Language,MiniLM message,133,0.1,0.87,0.85,11,0.11
+Over-Polished Language,MiniLM message,133,0.3,0.86,0.83,31,0.31
+Over-Polished Language,MiniLM message,133,0.6,0.86,0.81,61,0.61
+Over-Polished Language,MiniLM message,134,0.1,0.87,0.89,11,0.11
+Over-Polished Language,MiniLM message,134,0.3,0.87,0.88,30,0.3
+Over-Polished Language,MiniLM message,134,0.6,0.87,0.9,60,0.6
+Over-Polished Language,MiniLM message,135,0.1,0.81,0.86,11,0.11
+Over-Polished Language,MiniLM message,135,0.3,0.81,0.86,32,0.32
+Over-Polished Language,MiniLM message,135,0.6,0.79,0.88,60,0.6
+Over-Polished Language,MiniLM message,136,0.1,0.9,0.86,12,0.12
+Over-Polished Language,MiniLM message,136,0.3,0.9,0.86,31,0.31
+Over-Polished Language,MiniLM message,136,0.6,0.9,0.85,62,0.62
+Over-Polished Language,MiniLM message,137,0.1,0.84,0.8,10,0.1
+Over-Polished Language,MiniLM message,137,0.3,0.83,0.84,31,0.31
+Over-Polished Language,MiniLM message,137,0.6,0.82,0.83,64,0.64
+Over-Polished Language,MiniLM message,138,0.1,0.8,0.89,11,0.11
+Over-Polished Language,MiniLM message,138,0.3,0.81,0.9,32,0.32
+Over-Polished Language,MiniLM message,138,0.6,0.82,0.89,59,0.59
+Over-Polished Language,MiniLM message,139,0.1,0.93,0.88,14,0.14
+Over-Polished Language,MiniLM message,139,0.3,0.93,0.89,33,0.33
+Over-Polished Language,MiniLM message,139,0.6,0.92,0.91,65,0.65
+Over-Polished Language,MiniLM message,140,0.1,0.92,0.83,9,0.09
+Over-Polished Language,MiniLM message,140,0.3,0.92,0.83,29,0.29
+Over-Polished Language,MiniLM message,140,0.6,0.92,0.85,61,0.61
+Over-Polished Language,MiniLM message,141,0.1,0.9,0.86,11,0.11
+Over-Polished Language,MiniLM message,141,0.3,0.92,0.87,34,0.34
+Over-Polished Language,MiniLM message,141,0.6,0.92,0.87,62,0.62
+Over-Polished Language,MiniLM message,142,0.1,0.83,0.87,15,0.15
+Over-Polished Language,MiniLM message,142,0.3,0.82,0.88,35,0.35
+Over-Polished Language,MiniLM message,142,0.6,0.82,0.89,68,0.68
+Over-Polished Language,MiniLM message,143,0.1,0.91,0.86,10,0.1
+Over-Polished Language,MiniLM message,143,0.3,0.9,0.87,28,0.28
+Over-Polished Language,MiniLM message,143,0.6,0.88,0.88,66,0.66
+Over-Polished Language,MiniLM message,144,0.1,0.88,0.92,7,0.07
+Over-Polished Language,MiniLM message,144,0.3,0.88,0.91,25,0.25
+Over-Polished Language,MiniLM message,144,0.6,0.88,0.89,57,0.57
+Over-Polished Language,MiniLM message,145,0.1,0.84,0.99,9,0.09
+Over-Polished Language,MiniLM message,145,0.3,0.83,0.99,25,0.25
+Over-Polished Language,MiniLM message,145,0.6,0.82,0.98,65,0.65
+Over-Polished Language,MiniLM message,146,0.1,0.89,0.92,12,0.12
+Over-Polished Language,MiniLM message,146,0.3,0.9,0.93,35,0.35
+Over-Polished Language,MiniLM message,146,0.6,0.88,0.92,61,0.61
+Over-Polished Language,MiniLM message,147,0.1,0.88,0.85,12,0.12
+Over-Polished Language,MiniLM message,147,0.3,0.88,0.87,31,0.31
+Over-Polished Language,MiniLM message,147,0.6,0.9,0.88,59,0.59
+Over-Polished Language,MiniLM message,148,0.1,0.86,0.91,13,0.13
+Over-Polished Language,MiniLM message,148,0.3,0.86,0.91,31,0.31
+Over-Polished Language,MiniLM message,148,0.6,0.88,0.92,61,0.61
+Over-Polished Language,MiniLM message,149,0.1,0.86,0.84,8,0.08
+Over-Polished Language,MiniLM message,149,0.3,0.88,0.84,24,0.24
+Over-Polished Language,MiniLM message,149,0.6,0.89,0.87,55,0.55
+Over-Polished Language,MiniLM message,150,0.1,0.78,0.93,10,0.1
+Over-Polished Language,MiniLM message,150,0.3,0.8,0.92,37,0.37
+Over-Polished Language,MiniLM message,150,0.6,0.82,0.89,65,0.65
+Over-Polished Language,MiniLM message,151,0.1,0.88,0.88,10,0.1
+Over-Polished Language,MiniLM message,151,0.3,0.9,0.88,35,0.35
+Over-Polished Language,MiniLM message,151,0.6,0.9,0.9,65,0.65
+Over-Polished Language,MiniLM message,152,0.1,0.93,0.9,11,0.11
+Over-Polished Language,MiniLM message,152,0.3,0.93,0.9,26,0.26
+Over-Polished Language,MiniLM message,152,0.6,0.92,0.89,58,0.58
+Over-Polished Language,MiniLM message,153,0.1,0.96,0.86,10,0.1
+Over-Polished Language,MiniLM message,153,0.3,0.95,0.83,30,0.3
+Over-Polished Language,MiniLM message,153,0.6,0.95,0.83,61,0.61
+Over-Polished Language,MiniLM message,154,0.1,0.86,0.9,14,0.14
+Over-Polished Language,MiniLM message,154,0.3,0.86,0.89,32,0.32
+Over-Polished Language,MiniLM message,154,0.6,0.84,0.89,61,0.61
+Over-Polished Language,MiniLM message,155,0.1,0.8,0.92,10,0.1
+Over-Polished Language,MiniLM message,155,0.3,0.78,0.93,34,0.34
+Over-Polished Language,MiniLM message,155,0.6,0.75,0.93,65,0.65
+Over-Polished Language,MiniLM message,156,0.1,0.92,0.85,10,0.1
+Over-Polished Language,MiniLM message,156,0.3,0.91,0.86,31,0.31
+Over-Polished Language,MiniLM message,156,0.6,0.93,0.87,60,0.6
+Over-Polished Language,MiniLM message,157,0.1,0.9,0.88,7,0.07
+Over-Polished Language,MiniLM message,157,0.3,0.9,0.9,32,0.32
+Over-Polished Language,MiniLM message,157,0.6,0.9,0.87,63,0.63
+Over-Polished Language,MiniLM message,158,0.1,0.85,0.86,10,0.1
+Over-Polished Language,MiniLM message,158,0.3,0.86,0.86,31,0.31
+Over-Polished Language,MiniLM message,158,0.6,0.86,0.86,57,0.57
+Over-Polished Language,MiniLM message,159,0.1,0.85,0.9,11,0.11
+Over-Polished Language,MiniLM message,159,0.3,0.85,0.9,31,0.31
+Over-Polished Language,MiniLM message,159,0.6,0.84,0.89,61,0.61
+Over-Polished Language,MiniLM message,160,0.1,0.93,0.84,5,0.05
+Over-Polished Language,MiniLM message,160,0.3,0.93,0.85,30,0.3
+Over-Polished Language,MiniLM message,160,0.6,0.93,0.83,61,0.61
+Over-Polished Language,MiniLM message,161,0.1,0.89,0.96,10,0.1
+Over-Polished Language,MiniLM message,161,0.3,0.9,0.96,34,0.34
+Over-Polished Language,MiniLM message,161,0.6,0.9,0.94,58,0.58
+Over-Polished Language,MiniLM message,162,0.1,0.92,0.79,15,0.15
+Over-Polished Language,MiniLM message,162,0.3,0.92,0.76,30,0.3
+Over-Polished Language,MiniLM message,162,0.6,0.92,0.76,63,0.63
+Over-Polished Language,MiniLM message,163,0.1,0.82,0.89,10,0.1
+Over-Polished Language,MiniLM message,163,0.3,0.82,0.9,29,0.29
+Over-Polished Language,MiniLM message,163,0.6,0.82,0.9,66,0.66
+Over-Polished Language,MiniLM message,164,0.1,0.86,0.83,14,0.14
+Over-Polished Language,MiniLM message,164,0.3,0.87,0.86,35,0.35
+Over-Polished Language,MiniLM message,164,0.6,0.87,0.85,66,0.66
+Over-Polished Language,MiniLM message,165,0.1,0.88,0.86,8,0.08
+Over-Polished Language,MiniLM message,165,0.3,0.85,0.85,30,0.3
+Over-Polished Language,MiniLM message,165,0.6,0.85,0.88,60,0.6
+Over-Polished Language,MiniLM message,166,0.1,0.85,0.85,11,0.11
+Over-Polished Language,MiniLM message,166,0.3,0.84,0.82,26,0.26
+Over-Polished Language,MiniLM message,166,0.6,0.84,0.84,53,0.53
+Over-Polished Language,MiniLM message,167,0.1,0.88,0.84,12,0.12
+Over-Polished Language,MiniLM message,167,0.3,0.88,0.84,28,0.28
+Over-Polished Language,MiniLM message,167,0.6,0.89,0.87,54,0.54
+Over-Polished Language,MiniLM message,168,0.1,0.81,0.88,11,0.11
+Over-Polished Language,MiniLM message,168,0.3,0.82,0.89,34,0.34
+Over-Polished Language,MiniLM message,168,0.6,0.78,0.9,66,0.66
+Over-Polished Language,MiniLM message,169,0.1,0.89,0.92,10,0.1
+Over-Polished Language,MiniLM message,169,0.3,0.9,0.91,30,0.3
+Over-Polished Language,MiniLM message,169,0.6,0.91,0.91,58,0.58
+Over-Polished Language,MiniLM message,170,0.1,0.89,0.93,9,0.09
+Over-Polished Language,MiniLM message,170,0.3,0.89,0.94,26,0.26
+Over-Polished Language,MiniLM message,170,0.6,0.89,0.96,56,0.56
+Over-Polished Language,MiniLM message,171,0.1,0.9,0.91,13,0.13
+Over-Polished Language,MiniLM message,171,0.3,0.9,0.92,28,0.28
+Over-Polished Language,MiniLM message,171,0.6,0.9,0.89,62,0.62
+Over-Polished Language,MiniLM message,172,0.1,0.88,0.88,5,0.05
+Over-Polished Language,MiniLM message,172,0.3,0.88,0.88,32,0.32
+Over-Polished Language,MiniLM message,172,0.6,0.87,0.85,62,0.62
+Over-Polished Language,MiniLM message,173,0.1,0.89,0.86,5,0.05
+Over-Polished Language,MiniLM message,173,0.3,0.87,0.85,21,0.21
+Over-Polished Language,MiniLM message,173,0.6,0.87,0.86,51,0.51
+Over-Polished Language,MiniLM message,174,0.1,0.92,0.86,8,0.08
+Over-Polished Language,MiniLM message,174,0.3,0.92,0.86,26,0.26
+Over-Polished Language,MiniLM message,174,0.6,0.92,0.86,62,0.62
+Over-Polished Language,MiniLM message,175,0.1,0.83,0.91,10,0.1
+Over-Polished Language,MiniLM message,175,0.3,0.83,0.91,31,0.31
+Over-Polished Language,MiniLM message,175,0.6,0.84,0.91,60,0.6
+Over-Polished Language,MiniLM message,176,0.1,0.83,0.88,6,0.06
+Over-Polished Language,MiniLM message,176,0.3,0.82,0.89,29,0.29
+Over-Polished Language,MiniLM message,176,0.6,0.82,0.89,57,0.57
+Over-Polished Language,MiniLM message,177,0.1,0.82,0.9,14,0.14
+Over-Polished Language,MiniLM message,177,0.3,0.81,0.88,38,0.38
+Over-Polished Language,MiniLM message,177,0.6,0.81,0.88,61,0.61
+Over-Polished Language,MiniLM message,178,0.1,0.79,0.88,10,0.1
+Over-Polished Language,MiniLM message,178,0.3,0.8,0.89,34,0.34
+Over-Polished Language,MiniLM message,178,0.6,0.81,0.87,57,0.57
+Over-Polished Language,MiniLM message,179,0.1,0.87,0.9,8,0.08
+Over-Polished Language,MiniLM message,179,0.3,0.86,0.88,25,0.25
+Over-Polished Language,MiniLM message,179,0.6,0.87,0.89,58,0.58
+Over-Polished Language,MiniLM message,180,0.1,0.93,0.91,9,0.09
+Over-Polished Language,MiniLM message,180,0.3,0.92,0.9,28,0.28
+Over-Polished Language,MiniLM message,180,0.6,0.92,0.89,62,0.62
+Over-Polished Language,MiniLM message,181,0.1,0.87,0.85,9,0.09
+Over-Polished Language,MiniLM message,181,0.3,0.88,0.87,30,0.3
+Over-Polished Language,MiniLM message,181,0.6,0.86,0.86,59,0.59
+Over-Polished Language,MiniLM message,182,0.1,0.89,0.82,9,0.09
+Over-Polished Language,MiniLM message,182,0.3,0.89,0.85,27,0.27
+Over-Polished Language,MiniLM message,182,0.6,0.89,0.85,50,0.5
+Over-Polished Language,MiniLM message,183,0.1,0.9,0.92,13,0.13
+Over-Polished Language,MiniLM message,183,0.3,0.9,0.92,28,0.28
+Over-Polished Language,MiniLM message,183,0.6,0.87,0.91,63,0.63
+Over-Polished Language,MiniLM message,184,0.1,0.9,0.84,9,0.09
+Over-Polished Language,MiniLM message,184,0.3,0.89,0.83,25,0.25
+Over-Polished Language,MiniLM message,184,0.6,0.9,0.82,62,0.62
+Over-Polished Language,MiniLM message,185,0.1,0.88,0.92,7,0.07
+Over-Polished Language,MiniLM message,185,0.3,0.87,0.89,35,0.35
+Over-Polished Language,MiniLM message,185,0.6,0.86,0.87,66,0.66
+Over-Polished Language,MiniLM message,186,0.1,0.86,0.81,9,0.09
+Over-Polished Language,MiniLM message,186,0.3,0.86,0.82,32,0.32
+Over-Polished Language,MiniLM message,186,0.6,0.85,0.87,61,0.61
+Over-Polished Language,MiniLM message,187,0.1,0.82,0.9,9,0.09
+Over-Polished Language,MiniLM message,187,0.3,0.82,0.91,25,0.25
+Over-Polished Language,MiniLM message,187,0.6,0.82,0.92,57,0.57
+Over-Polished Language,MiniLM message,188,0.1,0.89,0.9,9,0.09
+Over-Polished Language,MiniLM message,188,0.3,0.89,0.9,25,0.25
+Over-Polished Language,MiniLM message,188,0.6,0.89,0.89,62,0.62
+Over-Polished Language,MiniLM message,189,0.1,0.87,0.87,7,0.07
+Over-Polished Language,MiniLM message,189,0.3,0.87,0.84,31,0.31
+Over-Polished Language,MiniLM message,189,0.6,0.89,0.88,62,0.62
+Over-Polished Language,MiniLM message,190,0.1,0.86,0.88,10,0.1
+Over-Polished Language,MiniLM message,190,0.3,0.85,0.89,32,0.32
+Over-Polished Language,MiniLM message,190,0.6,0.85,0.9,58,0.58
+Over-Polished Language,MiniLM message,191,0.1,0.9,0.92,9,0.09
+Over-Polished Language,MiniLM message,191,0.3,0.89,0.91,30,0.3
+Over-Polished Language,MiniLM message,191,0.6,0.88,0.88,62,0.62
+Over-Polished Language,MiniLM message,192,0.1,0.83,0.88,10,0.1
+Over-Polished Language,MiniLM message,192,0.3,0.83,0.86,32,0.32
+Over-Polished Language,MiniLM message,192,0.6,0.83,0.86,59,0.59
+Over-Polished Language,MiniLM message,193,0.1,0.84,0.89,13,0.13
+Over-Polished Language,MiniLM message,193,0.3,0.83,0.9,30,0.3
+Over-Polished Language,MiniLM message,193,0.6,0.86,0.9,67,0.67
+Over-Polished Language,MiniLM message,194,0.1,0.82,0.9,13,0.13
+Over-Polished Language,MiniLM message,194,0.3,0.83,0.9,39,0.39
+Over-Polished Language,MiniLM message,194,0.6,0.83,0.89,64,0.64
+Over-Polished Language,MiniLM message,195,0.1,0.93,0.89,9,0.09
+Over-Polished Language,MiniLM message,195,0.3,0.92,0.9,26,0.26
+Over-Polished Language,MiniLM message,195,0.6,0.91,0.88,58,0.58
+Over-Polished Language,MiniLM message,196,0.1,0.91,0.77,15,0.15
+Over-Polished Language,MiniLM message,196,0.3,0.9,0.8,38,0.38
+Over-Polished Language,MiniLM message,196,0.6,0.91,0.78,67,0.67
+Over-Polished Language,MiniLM message,197,0.1,0.88,0.88,11,0.11
+Over-Polished Language,MiniLM message,197,0.3,0.86,0.89,30,0.3
+Over-Polished Language,MiniLM message,197,0.6,0.86,0.88,64,0.64
+Over-Polished Language,MiniLM message,198,0.1,0.88,0.89,12,0.12
+Over-Polished Language,MiniLM message,198,0.3,0.86,0.91,32,0.32
+Over-Polished Language,MiniLM message,198,0.6,0.83,0.91,66,0.66
+Over-Polished Language,MiniLM message,199,0.1,0.91,0.88,8,0.08
+Over-Polished Language,MiniLM message,199,0.3,0.91,0.89,28,0.28
+Over-Polished Language,MiniLM message,199,0.6,0.9,0.89,56,0.56

@@ -1,0 +1,2 @@
+campaign_id,severity,current_clean_to_defective_distance,saved_clean_to_defective_distance,chunk_2_embedding_distance,recomputed_campaign_distance
+C0596,0.3,0.02426453886776498,0.0,0.2317922,0.02426453886776498

@@ -1,0 +1,5 @@
+scenario,severity,N,test_a,test_b,both_no_reject,b_only_reject,a_only_reject,both_reject,mcnemar_statistic,p_value
+Entity Inconsistency,0.1,200,C2ST-Linear,MMD,1,199,0,0,0.0,2.4892061111444567e-60
+Entity Inconsistency,0.1,200,C2ST-RBF,MMD,1,199,0,0,0.0,2.4892061111444567e-60
+Over-Polished Language,0.1,200,C2ST-Linear,MMD,0,189,0,11,0.0,2.5489470578119236e-57
+Broken Timing,0.1,200,C2ST-Linear,MMD,0,133,0,67,0.0,1.8367099231598242e-40

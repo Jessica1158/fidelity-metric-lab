@@ -1,0 +1,38 @@
+scenario,severity,N,test,power,type_I_error,wilson_high,source
+Broken Timing,0.1,50,Sinkhorn,0.05,0.035,0.0704706115222907,confirmatory_n50_n200
+Broken Timing,0.1,100,C2ST-Linear,0.025,0.035,0.07047061152229073,historical_n100_anchor
+Broken Timing,0.1,100,C2ST-RBF,0.04,0.04,0.07693206820093293,historical_n100_anchor
+Entity Inconsistency,0.1,100,C2ST-Linear,0.0,0.035,0.07047061152229073,historical_n100_anchor
+Entity Inconsistency,0.1,100,C2ST-RBF,0.0,0.025,0.05717834040664198,historical_n100_anchor
+Entity Inconsistency,0.1,100,Sinkhorn,0.045,0.065,0.10801907929906895,historical_n100_anchor
+Entity Inconsistency,0.1,200,C2ST-Linear,0.0,0.05,0.0895781481387759,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,C2ST-RBF,0.0,0.06,0.1019316929576627,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,Sinkhorn,0.08,0.075,0.1200436102362945,confirmatory_n50_n200
+Entity Inconsistency,0.3,100,C2ST-Linear,0.025,0.035,0.07047061152229073,historical_n100_anchor
+Entity Inconsistency,0.3,100,C2ST-RBF,0.015,0.025,0.05717834040664198,historical_n100_anchor
+Entity Inconsistency,0.3,100,Sinkhorn,0.025,0.065,0.10801907929906895,historical_n100_anchor
+Entity Inconsistency,0.6,50,C2ST-Linear,0.025,0.035,0.0704706115222907,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,C2ST-RBF,0.015,0.025,0.0571783404066419,confirmatory_n50_n200
+Entity Inconsistency,0.6,100,Sinkhorn,0.09,0.065,0.10801907929906895,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,50,Energy,0.05,0.06,0.1019316929576627,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,50,MMD,0.05,0.06,0.1019316929576627,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,50,Sinkhorn,0.025,0.055,0.0957869987723084,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,100,C2ST-Linear,0.005,0.035,0.07047061152229073,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,C2ST-RBF,0.0,0.025,0.05717834040664198,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,200,C2ST-Linear,0.045,0.05,0.0895781481387759,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,C2ST-RBF,0.03,0.06,0.1019316929576627,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,C2ST-Linear,0.035,0.035,0.0704706115222907,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,C2ST-RBF,0.015,0.025,0.0571783404066419,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,Sinkhorn,0.085,0.055,0.0957869987723084,confirmatory_n50_n200
+Over-Polished Language,0.1,50,Sinkhorn,0.01,0.025,0.0571783404066419,confirmatory_n50_n200
+Over-Polished Language,0.1,100,C2ST-Linear,0.0,0.05,0.08957814813877599,historical_n100_anchor
+Over-Polished Language,0.1,100,C2ST-RBF,0.0,0.045,0.0832967040018196,historical_n100_anchor
+Over-Polished Language,0.1,200,C2ST-Linear,0.055,0.035,0.0704706115222907,confirmatory_n50_n200
+Over-Polished Language,0.1,200,C2ST-RBF,0.02,0.03,0.0638942924545192,confirmatory_n50_n200
+Over-Polished Language,0.3,50,C2ST-Linear,0.025,0.02,0.0502870869058264,confirmatory_n50_n200
+Over-Polished Language,0.3,50,C2ST-RBF,0.0,0.005,0.0277737043978929,confirmatory_n50_n200
+Over-Polished Language,0.3,100,Sinkhorn,0.025,0.05,0.08957814813877599,historical_n100_anchor
+Over-Polished Language,0.3,200,Sinkhorn,0.005,0.065,0.1080190792990689,confirmatory_n50_n200
+Over-Polished Language,0.6,100,Sinkhorn,0.04,0.05,0.08957814813877599,historical_n100_anchor
+Template Repetition,0.1,50,C2ST-Linear,0.035,0.02,0.0502870869058264,confirmatory_n50_n200
+Template Repetition,0.1,50,C2ST-RBF,0.04,0.025,0.0571783404066419,confirmatory_n50_n200

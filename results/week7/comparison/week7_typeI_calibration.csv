@@ -1,0 +1,21 @@
+defect,metric,type_I_error
+Broken Timing,C2ST,0.035
+Broken Timing,Energy,0.065
+Broken Timing,MMD,0.055
+Broken Timing,Sinkhorn,0.045
+Entity Inconsistency,C2ST,0.035
+Entity Inconsistency,Energy,0.055
+Entity Inconsistency,MMD,0.055
+Entity Inconsistency,Sinkhorn,0.065
+Missing Cross-Channel,C2ST,0.035
+Missing Cross-Channel,Energy,0.055
+Missing Cross-Channel,MMD,0.055
+Missing Cross-Channel,Sinkhorn,0.065
+Over-Polished Language,C2ST,0.05
+Over-Polished Language,Energy,0.045
+Over-Polished Language,MMD,0.05
+Over-Polished Language,Sinkhorn,0.05
+Template Repetition,C2ST,0.03
+Template Repetition,Energy,0.045
+Template Repetition,MMD,0.045
+Template Repetition,Sinkhorn,0.045

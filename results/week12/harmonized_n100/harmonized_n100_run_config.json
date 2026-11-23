@@ -1,0 +1,37 @@
+{
+  "analysis_type": "posthoc_harmonized_n100_sensitivity",
+  "status": "post-preregistration harmonization analysis",
+  "purpose": "Assess comparability of historical n=100 anchors with the final n=50/n=200 confirmatory procedure.",
+  "repetitions": 200,
+  "n_permutations": 100,
+  "alpha": 0.05,
+  "base_seed": 42,
+  "sample_size": 100,
+  "power_cells": 75,
+  "null_cells": 20,
+  "power_runs": 15000,
+  "null_runs": 4000,
+  "total_runs": 19000,
+  "null_sampling_rule": {
+    "pool_size": 700,
+    "rule": "sample 2*N distinct clean reference units without replacement; first N=P, second N=Q"
+  },
+  "scales": {
+    "Template TF-IDF": {
+      "sigma": 1.4142135623730951,
+      "blur": 0.141421
+    },
+    "Broken Timing Structural": {
+      "sigma": 4.829537929442184,
+      "blur": 0.482954
+    },
+    "Campaign MiniLM": {
+      "sigma": 0.4312044032354748,
+      "blur": 0.04372
+    },
+    "Message MiniLM": {
+      "sigma": 1.3281240463256836,
+      "blur": 0.132812
+    }
+  }
+}

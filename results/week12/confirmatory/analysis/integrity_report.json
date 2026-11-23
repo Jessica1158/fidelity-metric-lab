@@ -1,0 +1,11 @@
+{
+  "power_rows": 22000,
+  "null_rows": 8000,
+  "total_rows": 30000,
+  "power_cells": 110,
+  "null_cells": 40,
+  "repetitions_per_cell": 200,
+  "duplicate_run_ids": 0,
+  "missing_manifest_runs": 0,
+  "integrity_passed": true
+}

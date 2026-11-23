@@ -1,0 +1,31 @@
+scenario,severity,test,rejections,n_reps,power,power_wilson_low,power_wilson_high,type_I_error,type1_wilson_low,type1_wilson_high,calibration_status,representation,N,source
+Entity Inconsistency,0.1,C2ST-Linear,1,200,0.005,0.0008831687156009,0.0277737043978929,0.06,0.0346521942543318,0.1019316929576627,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.1,C2ST-RBF,0,200,0.0,1.734723475976807e-18,0.0188453263772665,0.05,0.0273826456007639,0.0895781481387759,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.1,Energy,171,200,0.855,0.7995133246921847,0.8971064935799559,0.045,0.0238525430014929,0.0832967040018196,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.1,MMD,170,200,0.85,0.7939442071583334,0.89286406437758,0.04,0.0204056320661523,0.0769320682009329,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.1,Sinkhorn,2,200,0.01,0.0027466581335444,0.0357217617161768,0.035,0.0170555420085671,0.0704706115222907,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.3,C2ST-Linear,58,200,0.29,0.2315402560706788,0.3563747810077731,0.06,0.0346521942543318,0.1019316929576627,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.3,C2ST-RBF,51,200,0.255,0.1996049517203135,0.3196292582045472,0.05,0.0273826456007639,0.0895781481387759,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.3,Energy,200,200,1.0,0.9811546736227336,1.0,0.045,0.0238525430014929,0.0832967040018196,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.3,MMD,200,200,1.0,0.9811546736227336,1.0,0.04,0.0204056320661523,0.0769320682009329,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.3,Sinkhorn,4,200,0.02,0.0078044264163494,0.0502870869058264,0.035,0.0170555420085671,0.0704706115222907,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.6,C2ST-Linear,181,200,0.905,0.8563983883518006,0.9383368972826136,0.06,0.0346521942543318,0.1019316929576627,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.6,C2ST-RBF,180,200,0.9,0.8505941875672826,0.934329551330904,0.05,0.0273826456007639,0.0895781481387759,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.6,Energy,200,200,1.0,0.9811546736227336,1.0,0.045,0.0238525430014929,0.0832967040018196,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.6,MMD,200,200,1.0,0.9811546736227336,1.0,0.04,0.0204056320661523,0.0769320682009329,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Entity Inconsistency,0.6,Sinkhorn,5,200,0.025,0.0107247196517612,0.0571783404066419,0.035,0.0170555420085671,0.0704706115222907,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.1,C2ST-Linear,0,200,0.0,1.734723475976807e-18,0.0188453263772665,0.06,0.0346521942543318,0.1019316929576627,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.1,C2ST-RBF,1,200,0.005,0.0008831687156009,0.0277737043978929,0.05,0.0273826456007639,0.0895781481387759,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.1,Energy,17,200,0.085,0.0537457501774756,0.1318958707156556,0.045,0.0238525430014929,0.0832967040018196,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.1,MMD,17,200,0.085,0.0537457501774756,0.1318958707156556,0.04,0.0204056320661523,0.0769320682009329,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.1,Sinkhorn,2,200,0.01,0.0027466581335444,0.0357217617161768,0.035,0.0170555420085671,0.0704706115222907,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.3,C2ST-Linear,12,200,0.06,0.0346521942543318,0.1019316929576627,0.06,0.0346521942543318,0.1019316929576627,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.3,C2ST-RBF,27,200,0.135,0.094465704547879,0.1892913837075255,0.05,0.0273826456007639,0.0895781481387759,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.3,Energy,94,200,0.47,0.4020475487326542,0.5390831708499817,0.045,0.0238525430014929,0.0832967040018196,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.3,MMD,96,200,0.48,0.411791663783233,0.5489621492718576,0.04,0.0204056320661523,0.0769320682009329,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.3,Sinkhorn,2,200,0.01,0.0027466581335444,0.0357217617161768,0.035,0.0170555420085671,0.0704706115222907,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.6,C2ST-Linear,107,200,0.535,0.4658664687236316,0.6028143584299599,0.06,0.0346521942543318,0.1019316929576627,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.6,C2ST-RBF,91,200,0.455,0.387482193098835,0.524213886275119,0.05,0.0273826456007639,0.0895781481387759,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.6,Energy,197,200,0.985,0.9568342712073096,0.9948857622067416,0.045,0.0238525430014929,0.0832967040018196,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.6,MMD,197,200,0.985,0.9568342712073096,0.9948857622067416,0.04,0.0204056320661523,0.0769320682009329,within preregistered range,BGE Campaign,100,secondary_bge_robustness
+Missing Cross-Channel Reference,0.6,Sinkhorn,34,200,0.17,0.1242790791258696,0.2281588362831262,0.035,0.0170555420085671,0.0704706115222907,within preregistered range,BGE Campaign,100,secondary_bge_robustness

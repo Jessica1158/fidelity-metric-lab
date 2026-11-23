@@ -1,0 +1,22 @@
+{
+    "library": "geomloss",
+    "geomloss_version": "0.3.1",
+    "representation": "campaign_semantic_embeddings",
+    "embedding_dimension": 384,
+    "normalized_embeddings": true,
+    "loss": "sinkhorn",
+    "p": 2,
+    "debias": true,
+    "backend": "tensorized",
+    "device": "cpu",
+    "clean_scale_rule": "median pairwise Euclidean distance",
+    "clean_geometric_scale": 0.4371995243023655,
+    "blur_fraction": 0.1,
+    "blur": 0.043719952430236554,
+    "preliminary_null_repetitions": 50,
+    "preliminary_null_permutations": 99,
+    "alpha": 0.05,
+    "formal_null_repetitions": 200,
+    "formal_null_permutations": 100,
+    "formal_null_sample_size_per_group": 100
+}

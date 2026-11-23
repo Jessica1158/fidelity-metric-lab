@@ -1,0 +1,8 @@
+diagnostic,type,primary_question,important_limitation
+C2ST,Hypothesis test,Classifier separability,Sensitive to classifier capacity
+MMD,Hypothesis test,Kernel distribution discrepancy,Depends on representation and frozen kernel scale
+Energy,Hypothesis test,Distance-based distribution discrepancy,Can detect broad distributional changes
+Sinkhorn,Hypothesis test,Regularized transport discrepancy relative to paired permutation null,Observed transport magnitude alone is not sufficient
+Representation displacement,Descriptive,Per-unit movement in representation space,Raw magnitudes are not comparable across representations
+Improved Precision,Descriptive support,Defective mass inside estimated clean support,Depends on finite-sample k-NN geometry
+Improved Recall,Descriptive coverage,Clean support covered by defective distribution,Depends on finite-sample k-NN geometry

@@ -1,0 +1,2 @@
+repetitions,rejections,type_I_error,mean_p_value,median_p_value,mean_statistic,std_statistic,mean_perm_null
+200,10,0.05,0.5221782178217822,0.5297029702970297,0.0454980793595314,0.0011593025243942824,0.04554641302321106

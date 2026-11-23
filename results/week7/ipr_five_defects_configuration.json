@@ -1,0 +1,20 @@
+{
+    "method": "Improved Precision and Recall, Kynkaanniemi et al. 2019",
+    "primary_k": 3,
+    "repetitions": 200,
+    "sample_size_per_distribution": 100,
+    "distance": "euclidean",
+    "sampling": "disjoint clean and defective IDs within each repetition",
+    "same_defective_ids_across_severities": true,
+    "matched_baseline": "independent disjoint clean-vs-clean samples",
+    "precision": "defective observations inside clean support",
+    "recall": "clean observations inside defective support",
+    "interpretation": "descriptive support profile, not permutation-test power",
+    "defects": [
+        "Template Repetition",
+        "Broken Timing",
+        "Entity Inconsistency",
+        "Missing Cross-Channel",
+        "Over-Polished Language"
+    ]
+}

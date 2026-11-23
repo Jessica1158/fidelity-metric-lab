@@ -1,0 +1,4 @@
+metric,rejections,type_I_error,mean_p_value
+C2ST,10,0.05,0.5408008688518189
+Energy,9,0.045,0.5244059405940594
+MMD,10,0.05,0.5203465346534654

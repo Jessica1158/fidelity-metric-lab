@@ -1,0 +1,60 @@
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  power   No. Observations:                  185
+Model:                            GLM   Df Residuals:                      140
+Model Family:                Binomial   Df Model:                           44
+Link Function:                  Logit   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -7204.3
+Date:                Wed, 28 Oct 2026   Deviance:                       1646.2
+Time:                        19:25:17   Pearson chi2:                 2.31e+03
+No. Iterations:                     8   Pseudo R-squ. (CS):              1.000
+Covariance Type:            nonrobust                                         
+======================================================================================================================================
+                                                                         coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                             -3.0570      0.135    -22.639      0.000      -3.322      -2.792
+C(scenario)[T.Entity Inconsistency]                                   -5.7008      0.174    -32.840      0.000      -6.041      -5.361
+C(scenario)[T.Missing Cross-Channel Reference]                        -4.2523      0.148    -28.760      0.000      -4.542      -3.962
+C(scenario)[T.Over-Polished Language]                                 -2.4135      0.127    -19.036      0.000      -2.662      -2.165
+C(scenario)[T.Template Repetition]                                     2.6727      0.140     19.033      0.000       2.398       2.948
+C(severity)[T.0.3]                                                     4.5631      0.145     31.481      0.000       4.279       4.847
+C(severity)[T.0.6]                                                     7.4319      0.188     39.550      0.000       7.064       7.800
+C(N)[T.50]                                                            -2.3242      0.111    -20.913      0.000      -2.542      -2.106
+C(N)[T.200]                                                            2.4006      0.102     23.540      0.000       2.201       2.600
+C(test)[T.C2ST-RBF]                                                   -0.0521      0.194     -0.269      0.788      -0.432       0.328
+C(test)[T.Energy]                                                      5.6023      0.201     27.883      0.000       5.209       5.996
+C(test)[T.MMD]                                                         5.6220      0.202     27.885      0.000       5.227       6.017
+C(test)[T.Sinkhorn]                                                    2.6566      0.162     16.382      0.000       2.339       2.974
+C(scenario)[T.Entity Inconsistency]:C(test)[T.C2ST-RBF]               -0.2907      0.251     -1.157      0.247      -0.783       0.202
+C(scenario)[T.Missing Cross-Channel Reference]:C(test)[T.C2ST-RBF]     0.0794      0.210      0.379      0.705      -0.331       0.490
+C(scenario)[T.Over-Polished Language]:C(test)[T.C2ST-RBF]             -0.7860      0.186     -4.217      0.000      -1.151      -0.421
+C(scenario)[T.Template Repetition]:C(test)[T.C2ST-RBF]                 0.4256      0.204      2.082      0.037       0.025       0.826
+C(scenario)[T.Entity Inconsistency]:C(test)[T.Energy]                  3.9355      0.241     16.337      0.000       3.463       4.408
+C(scenario)[T.Missing Cross-Channel Reference]:C(test)[T.Energy]      -1.3306      0.255     -5.218      0.000      -1.830      -0.831
+C(scenario)[T.Over-Polished Language]:C(test)[T.Energy]                1.5441      0.210      7.366      0.000       1.133       1.955
+C(scenario)[T.Template Repetition]:C(test)[T.Energy]                  -2.7878      0.220    -12.659      0.000      -3.219      -2.356
+C(scenario)[T.Entity Inconsistency]:C(test)[T.MMD]                     4.0091      0.241     16.612      0.000       3.536       4.482
+C(scenario)[T.Missing Cross-Channel Reference]:C(test)[T.MMD]         -1.2915      0.255     -5.067      0.000      -1.791      -0.792
+C(scenario)[T.Over-Polished Language]:C(test)[T.MMD]                   1.5757      0.210      7.496      0.000       1.164       1.988
+C(scenario)[T.Template Repetition]:C(test)[T.MMD]                     -2.7308      0.221    -12.366      0.000      -3.164      -2.298
+C(scenario)[T.Entity Inconsistency]:C(test)[T.Sinkhorn]                1.8005      0.215      8.382      0.000       1.379       2.222
+C(scenario)[T.Missing Cross-Channel Reference]:C(test)[T.Sinkhorn]     3.0908      0.173     17.828      0.000       2.751       3.431
+C(scenario)[T.Over-Polished Language]:C(test)[T.Sinkhorn]             -1.6768      0.182     -9.230      0.000      -2.033      -1.321
+C(scenario)[T.Template Repetition]:C(test)[T.Sinkhorn]                 0.3529      0.191      1.851      0.064      -0.021       0.727
+C(severity)[T.0.3]:C(test)[T.C2ST-RBF]                                 0.0049      0.210      0.023      0.981      -0.406       0.416
+C(severity)[T.0.6]:C(test)[T.C2ST-RBF]                                 0.0818      0.271      0.301      0.763      -0.450       0.614
+C(severity)[T.0.3]:C(test)[T.Energy]                                  -0.6560      0.206     -3.183      0.001      -1.060      -0.252
+C(severity)[T.0.6]:C(test)[T.Energy]                                  -0.6334      0.296     -2.139      0.032      -1.214      -0.053
+C(severity)[T.0.3]:C(test)[T.MMD]                                     -0.6369      0.207     -3.083      0.002      -1.042      -0.232
+C(severity)[T.0.6]:C(test)[T.MMD]                                     -0.6145      0.297     -2.070      0.038      -1.196      -0.033
+C(severity)[T.0.3]:C(test)[T.Sinkhorn]                                -3.0700      0.170    -18.014      0.000      -3.404      -2.736
+C(severity)[T.0.6]:C(test)[T.Sinkhorn]                                -4.9364      0.212    -23.336      0.000      -5.351      -4.522
+C(N)[T.50]:C(test)[T.C2ST-RBF]                                        -0.1197      0.160     -0.749      0.454      -0.433       0.193
+C(N)[T.200]:C(test)[T.C2ST-RBF]                                        0.1031      0.147      0.703      0.482      -0.184       0.391
+C(N)[T.50]:C(test)[T.Energy]                                          -0.3760      0.158     -2.375      0.018      -0.686      -0.066
+C(N)[T.200]:C(test)[T.Energy]                                          0.9529      0.219      4.343      0.000       0.523       1.383
+C(N)[T.50]:C(test)[T.MMD]                                             -0.4385      0.159     -2.755      0.006      -0.751      -0.127
+C(N)[T.200]:C(test)[T.MMD]                                             0.8742      0.219      3.985      0.000       0.444       1.304
+C(N)[T.50]:C(test)[T.Sinkhorn]                                         0.1585      0.148      1.067      0.286      -0.133       0.449
+C(N)[T.200]:C(test)[T.Sinkhorn]                                       -0.8182      0.134     -6.117      0.000      -1.080      -0.556
+======================================================================================================================================

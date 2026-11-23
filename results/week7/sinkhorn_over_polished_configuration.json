@@ -1,0 +1,28 @@
+{
+    "defect": "Over-Polished Language",
+    "experimental_unit": "individual SMS",
+    "representation": "MiniLM message embeddings",
+    "embedding_dimension": 384,
+    "clean_scale_source": "700 clean reference SMS embeddings",
+    "clean_geometric_scale": 1.3281227117017558,
+    "blur_fraction": 0.1,
+    "sinkhorn_blur": 0.13281227117017558,
+    "sinkhorn_p": 2,
+    "sinkhorn_debiased": true,
+    "sinkhorn_backend": "tensorized",
+    "device": "cpu",
+    "repetitions": 200,
+    "pairs_per_repetition": 100,
+    "permutations": 100,
+    "alpha": 0.05,
+    "severities": [
+        0.1,
+        0.3,
+        0.6
+    ],
+    "paired_design": true,
+    "permutation_scheme": "within-pair random swaps",
+    "paired_null": "independent clean messages paired within ham/spam class",
+    "sampling_seed_base": 42,
+    "test_seed_base": 10000
+}

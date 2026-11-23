@@ -1,0 +1,186 @@
+scenario,severity,N,test,source_status,rejections,repetitions,power,wilson_low,wilson_high
+Broken Timing,0.1,50,Energy,confirmatory,77,200,0.385,0.32033309726923215,0.45400132779753916
+Broken Timing,0.1,50,MMD,confirmatory,75,200,0.375,0.3108543685840982,0.4438569630102185
+Broken Timing,0.1,50,Sinkhorn,confirmatory,10,200,0.05,0.027382645600763922,0.089578148138776
+Broken Timing,0.1,100,C2ST-Linear,posthoc_harmonized_n100,14,200,0.07,0.0421521718283428,0.11405480885610647
+Broken Timing,0.1,100,C2ST-RBF,posthoc_harmonized_n100,5,200,0.025,0.01072471965176126,0.05717834040664199
+Broken Timing,0.1,100,Energy,posthoc_harmonized_n100,195,200,0.975,0.942821659593358,0.9892752803482386
+Broken Timing,0.1,100,MMD,posthoc_harmonized_n100,196,200,0.98,0.9497129130941735,0.9921955735836505
+Broken Timing,0.1,100,Sinkhorn,posthoc_harmonized_n100,73,200,0.365,0.301405264649268,0.433682973472594
+Broken Timing,0.1,200,C2ST-Linear,confirmatory,67,200,0.335,0.2732408697841632,0.40297808792033485
+Broken Timing,0.1,200,C2ST-RBF,confirmatory,67,200,0.335,0.2732408697841632,0.40297808792033485
+Broken Timing,0.1,200,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.1,200,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.1,200,Sinkhorn,confirmatory,83,200,0.415,0.34894285449757567,0.4842608509865596
+Broken Timing,0.3,50,C2ST-Linear,confirmatory,53,200,0.265,0.20868154147109108,0.3301757619262242
+Broken Timing,0.3,50,C2ST-RBF,confirmatory,47,200,0.235,0.1815743341523259,0.2984136888276254
+Broken Timing,0.3,50,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.3,50,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.3,50,Sinkhorn,confirmatory,56,200,0.28,0.22236889773949026,0.3459230458665071
+Broken Timing,0.3,100,C2ST-Linear,posthoc_harmonized_n100,163,200,0.815,0.7554293723884824,0.8626980719938395
+Broken Timing,0.3,100,C2ST-RBF,posthoc_harmonized_n100,158,200,0.79,0.7283538314009754,0.8407158793002101
+Broken Timing,0.3,100,Energy,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.3,100,MMD,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.3,100,Sinkhorn,posthoc_harmonized_n100,184,200,0.92,0.874010511732856,0.9501594141102401
+Broken Timing,0.3,200,C2ST-Linear,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.3,200,C2ST-RBF,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.3,200,Sinkhorn,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.6,50,C2ST-Linear,confirmatory,181,200,0.905,0.8563983883518006,0.9383368972826135
+Broken Timing,0.6,50,C2ST-RBF,confirmatory,179,200,0.895,0.8448196800887696,0.9302925120731899
+Broken Timing,0.6,50,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.6,50,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.6,50,Sinkhorn,confirmatory,107,200,0.535,0.4658664687236316,0.6028143584299599
+Broken Timing,0.6,100,C2ST-Linear,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.6,100,C2ST-RBF,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.6,100,Energy,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.6,100,MMD,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Broken Timing,0.6,100,Sinkhorn,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Entity Inconsistency,0.1,50,Energy,confirmatory,37,200,0.185,0.13730192800616045,0.24457062761151752
+Entity Inconsistency,0.1,50,MMD,confirmatory,35,200,0.175,0.12860515066273331,0.23364431148248999
+Entity Inconsistency,0.1,100,C2ST-Linear,posthoc_harmonized_n100,0,200,0.0,0.0,0.01884532637726658
+Entity Inconsistency,0.1,100,C2ST-RBF,posthoc_harmonized_n100,0,200,0.0,0.0,0.01884532637726658
+Entity Inconsistency,0.1,100,Energy,posthoc_harmonized_n100,121,200,0.605,0.5358834915928536,0.6701589898679203
+Entity Inconsistency,0.1,100,MMD,posthoc_harmonized_n100,128,200,0.64,0.5714152816600307,0.7033080269543347
+Entity Inconsistency,0.1,100,Sinkhorn,posthoc_harmonized_n100,8,200,0.04,0.020405632066152306,0.07693206820093296
+Entity Inconsistency,0.1,200,C2ST-Linear,confirmatory,0,200,0.0,0.0,0.01884532637726658
+Entity Inconsistency,0.1,200,C2ST-RBF,confirmatory,0,200,0.0,0.0,0.01884532637726658
+Entity Inconsistency,0.1,200,Energy,confirmatory,199,200,0.995,0.9722262956021069,0.9991168312843989
+Entity Inconsistency,0.1,200,MMD,confirmatory,199,200,0.995,0.9722262956021069,0.9991168312843989
+Entity Inconsistency,0.1,200,Sinkhorn,confirmatory,16,200,0.08,0.04984058588975997,0.12598948826714396
+Entity Inconsistency,0.3,50,Energy,confirmatory,175,200,0.875,0.8219857499741765,0.9138802552428735
+Entity Inconsistency,0.3,50,MMD,confirmatory,176,200,0.88,0.8276574790170326,0.9180200729362449
+Entity Inconsistency,0.3,100,C2ST-Linear,posthoc_harmonized_n100,5,200,0.025,0.01072471965176126,0.05717834040664199
+Entity Inconsistency,0.3,100,C2ST-RBF,posthoc_harmonized_n100,6,200,0.03,0.013820314340111339,0.06389429245451925
+Entity Inconsistency,0.3,100,Energy,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Entity Inconsistency,0.3,100,MMD,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Entity Inconsistency,0.3,100,Sinkhorn,posthoc_harmonized_n100,12,200,0.06,0.03465219425433186,0.10193169295766272
+Entity Inconsistency,0.3,200,C2ST-Linear,confirmatory,25,200,0.125,0.08611974475712647,0.1780142500258235
+Entity Inconsistency,0.3,200,C2ST-RBF,confirmatory,29,200,0.145,0.10289350642004401,0.20048667530781522
+Entity Inconsistency,0.3,200,Sinkhorn,confirmatory,33,200,0.165,0.11996855328217307,0.2226578153905955
+Entity Inconsistency,0.6,50,C2ST-Linear,confirmatory,5,200,0.025,0.01072471965176126,0.05717834040664199
+Entity Inconsistency,0.6,50,C2ST-RBF,confirmatory,3,200,0.015,0.005114237793258307,0.043165728792690275
+Entity Inconsistency,0.6,50,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Entity Inconsistency,0.6,50,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Entity Inconsistency,0.6,100,C2ST-Linear,posthoc_harmonized_n100,33,200,0.165,0.11996855328217307,0.2226578153905955
+Entity Inconsistency,0.6,100,C2ST-RBF,posthoc_harmonized_n100,21,200,0.105,0.06970748792681017,0.1551803199112304
+Entity Inconsistency,0.6,100,Energy,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Entity Inconsistency,0.6,100,MMD,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Entity Inconsistency,0.6,100,Sinkhorn,posthoc_harmonized_n100,33,200,0.165,0.11996855328217307,0.2226578153905955
+Entity Inconsistency,0.6,200,C2ST-Linear,confirmatory,160,200,0.8,0.7391448134346212,0.8495479907390189
+Entity Inconsistency,0.6,200,C2ST-RBF,confirmatory,135,200,0.675,0.6073198511602995,0.7360842846076572
+Entity Inconsistency,0.6,200,Sinkhorn,confirmatory,108,200,0.54,0.4708228918895333,0.6076694820002854
+Missing Cross-Channel Reference,0.1,50,Energy,confirmatory,10,200,0.05,0.027382645600763922,0.089578148138776
+Missing Cross-Channel Reference,0.1,50,MMD,confirmatory,10,200,0.05,0.027382645600763922,0.089578148138776
+Missing Cross-Channel Reference,0.1,50,Sinkhorn,confirmatory,5,200,0.025,0.01072471965176126,0.05717834040664199
+Missing Cross-Channel Reference,0.1,100,C2ST-Linear,posthoc_harmonized_n100,1,200,0.005,0.0008831687156009797,0.027773704397892937
+Missing Cross-Channel Reference,0.1,100,C2ST-RBF,posthoc_harmonized_n100,0,200,0.0,0.0,0.01884532637726658
+Missing Cross-Channel Reference,0.1,100,Energy,posthoc_harmonized_n100,28,200,0.14,0.09866982633455636,0.19489880865707565
+Missing Cross-Channel Reference,0.1,100,MMD,posthoc_harmonized_n100,28,200,0.14,0.09866982633455636,0.19489880865707565
+Missing Cross-Channel Reference,0.1,100,Sinkhorn,posthoc_harmonized_n100,28,200,0.14,0.09866982633455636,0.19489880865707565
+Missing Cross-Channel Reference,0.1,200,C2ST-Linear,confirmatory,9,200,0.045,0.02385254300149299,0.0832967040018196
+Missing Cross-Channel Reference,0.1,200,C2ST-RBF,confirmatory,6,200,0.03,0.013820314340111339,0.06389429245451925
+Missing Cross-Channel Reference,0.1,200,Energy,confirmatory,108,200,0.54,0.4708228918895333,0.6076694820002854
+Missing Cross-Channel Reference,0.1,200,MMD,confirmatory,107,200,0.535,0.4658664687236316,0.6028143584299599
+Missing Cross-Channel Reference,0.1,200,Sinkhorn,confirmatory,121,200,0.605,0.5358834915928536,0.6701589898679203
+Missing Cross-Channel Reference,0.3,50,C2ST-Linear,confirmatory,7,200,0.035,0.01705554200856719,0.07047061152229073
+Missing Cross-Channel Reference,0.3,50,C2ST-RBF,confirmatory,3,200,0.015,0.005114237793258307,0.043165728792690275
+Missing Cross-Channel Reference,0.3,50,Energy,confirmatory,38,200,0.19,0.14167171527790676,0.25001238707599854
+Missing Cross-Channel Reference,0.3,50,MMD,confirmatory,40,200,0.2,0.15045200926098118,0.2608551865653788
+Missing Cross-Channel Reference,0.3,50,Sinkhorn,confirmatory,17,200,0.085,0.053745750177475606,0.13189587071565567
+Missing Cross-Channel Reference,0.3,100,C2ST-Linear,posthoc_harmonized_n100,25,200,0.125,0.08611974475712647,0.1780142500258235
+Missing Cross-Channel Reference,0.3,100,C2ST-RBF,posthoc_harmonized_n100,25,200,0.125,0.08611974475712647,0.1780142500258235
+Missing Cross-Channel Reference,0.3,100,Energy,posthoc_harmonized_n100,110,200,0.55,0.4807561513847569,0.6173593159775166
+Missing Cross-Channel Reference,0.3,100,MMD,posthoc_harmonized_n100,112,200,0.56,0.4907167533465867,0.6270218074881414
+Missing Cross-Channel Reference,0.3,100,Sinkhorn,posthoc_harmonized_n100,60,200,0.3,0.24074744682371402,0.36679068372719265
+Missing Cross-Channel Reference,0.3,200,C2ST-Linear,confirmatory,63,200,0.315,0.2546232099022851,0.3823495608573036
+Missing Cross-Channel Reference,0.3,200,C2ST-RBF,confirmatory,78,200,0.39,0.3250834313746962,0.4590625404283025
+Missing Cross-Channel Reference,0.3,200,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Missing Cross-Channel Reference,0.3,200,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Missing Cross-Channel Reference,0.3,200,Sinkhorn,confirmatory,178,200,0.89,0.839073090026985,0.926227555398747
+Missing Cross-Channel Reference,0.6,50,C2ST-Linear,confirmatory,42,200,0.21,0.15928412069978998,0.2716461685990246
+Missing Cross-Channel Reference,0.6,50,C2ST-RBF,confirmatory,34,200,0.17,0.12427907912586969,0.22815883628312625
+Missing Cross-Channel Reference,0.6,50,Energy,confirmatory,142,200,0.71,0.6436252189922268,0.7684597439293211
+Missing Cross-Channel Reference,0.6,50,MMD,confirmatory,143,200,0.715,0.6488465397039482,0.7730499699538271
+Missing Cross-Channel Reference,0.6,50,Sinkhorn,confirmatory,49,200,0.245,0.19056868089037177,0.3090424355620342
+Missing Cross-Channel Reference,0.6,100,C2ST-Linear,posthoc_harmonized_n100,101,200,0.505,0.43627000033527485,0.5735415464009526
+Missing Cross-Channel Reference,0.6,100,C2ST-RBF,posthoc_harmonized_n100,94,200,0.47,0.40204754873265425,0.5390831708499817
+Missing Cross-Channel Reference,0.6,100,Energy,posthoc_harmonized_n100,199,200,0.995,0.9722262956021069,0.9991168312843989
+Missing Cross-Channel Reference,0.6,100,MMD,posthoc_harmonized_n100,199,200,0.995,0.9722262956021069,0.9991168312843989
+Missing Cross-Channel Reference,0.6,100,Sinkhorn,posthoc_harmonized_n100,144,200,0.72,0.6540769541334929,0.7776311022605097
+Missing Cross-Channel Reference,0.6,200,C2ST-Linear,confirmatory,161,200,0.805,0.7445595562538726,0.8539447946559949
+Missing Cross-Channel Reference,0.6,200,C2ST-RBF,confirmatory,184,200,0.92,0.874010511732856,0.9501594141102401
+Missing Cross-Channel Reference,0.6,200,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Missing Cross-Channel Reference,0.6,200,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Missing Cross-Channel Reference,0.6,200,Sinkhorn,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.1,50,Energy,confirmatory,39,200,0.195,0.14605520534400512,0.2554404437461275
+Over-Polished Language,0.1,50,MMD,confirmatory,38,200,0.19,0.14167171527790676,0.25001238707599854
+Over-Polished Language,0.1,50,Sinkhorn,confirmatory,2,200,0.01,0.0027466581335444384,0.03572176171617682
+Over-Polished Language,0.1,100,C2ST-Linear,posthoc_harmonized_n100,0,200,0.0,0.0,0.01884532637726658
+Over-Polished Language,0.1,100,C2ST-RBF,posthoc_harmonized_n100,1,200,0.005,0.0008831687156009797,0.027773704397892937
+Over-Polished Language,0.1,100,Energy,posthoc_harmonized_n100,174,200,0.87,0.8163364812775159,0.9097179772033067
+Over-Polished Language,0.1,100,MMD,posthoc_harmonized_n100,177,200,0.885,0.8333528310151243,0.9221362676743804
+Over-Polished Language,0.1,100,Sinkhorn,posthoc_harmonized_n100,15,200,0.075,0.045974917184381986,0.12004361023629459
+Over-Polished Language,0.1,200,C2ST-Linear,confirmatory,11,200,0.055,0.030985341703458846,0.09578699877230842
+Over-Polished Language,0.1,200,C2ST-RBF,confirmatory,4,200,0.02,0.0078044264163494685,0.05028708690582645
+Over-Polished Language,0.1,200,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.1,200,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.1,200,Sinkhorn,confirmatory,92,200,0.46,0.39233051799971463,0.5291771081104667
+Over-Polished Language,0.3,50,C2ST-Linear,confirmatory,5,200,0.025,0.01072471965176126,0.05717834040664199
+Over-Polished Language,0.3,50,C2ST-RBF,confirmatory,0,200,0.0,0.0,0.01884532637726658
+Over-Polished Language,0.3,50,Energy,confirmatory,195,200,0.975,0.942821659593358,0.9892752803482386
+Over-Polished Language,0.3,50,MMD,confirmatory,195,200,0.975,0.942821659593358,0.9892752803482386
+Over-Polished Language,0.3,100,C2ST-Linear,posthoc_harmonized_n100,56,200,0.28,0.22236889773949026,0.3459230458665071
+Over-Polished Language,0.3,100,C2ST-RBF,posthoc_harmonized_n100,27,200,0.135,0.09446570454787909,0.18929138370752555
+Over-Polished Language,0.3,100,Energy,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.3,100,MMD,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.3,100,Sinkhorn,posthoc_harmonized_n100,6,200,0.03,0.013820314340111339,0.06389429245451925
+Over-Polished Language,0.3,200,C2ST-Linear,confirmatory,169,200,0.845,0.7883930940765792,0.8886036307231068
+Over-Polished Language,0.3,200,C2ST-RBF,confirmatory,136,200,0.68,0.6124810156588646,0.7407346668453195
+Over-Polished Language,0.3,200,Sinkhorn,confirmatory,1,200,0.005,0.0008831687156009797,0.027773704397892937
+Over-Polished Language,0.6,50,C2ST-Linear,confirmatory,66,200,0.33,0.26857425870603957,0.39783315226223115
+Over-Polished Language,0.6,50,C2ST-RBF,confirmatory,47,200,0.235,0.1815743341523259,0.2984136888276254
+Over-Polished Language,0.6,50,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.6,50,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.6,100,C2ST-Linear,posthoc_harmonized_n100,186,200,0.93,0.8859451911438936,0.9578478281716571
+Over-Polished Language,0.6,100,C2ST-RBF,posthoc_harmonized_n100,150,200,0.75,0.6856590168795417,0.8049183199318249
+Over-Polished Language,0.6,100,Energy,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.6,100,MMD,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.6,100,Sinkhorn,posthoc_harmonized_n100,4,200,0.02,0.0078044264163494685,0.05028708690582645
+Over-Polished Language,0.6,200,C2ST-Linear,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Over-Polished Language,0.6,200,C2ST-RBF,confirmatory,199,200,0.995,0.9722262956021069,0.9991168312843989
+Over-Polished Language,0.6,200,Sinkhorn,confirmatory,31,200,0.155,0.11139636927689311,0.2116069059234208
+Template Repetition,0.1,50,C2ST-Linear,confirmatory,7,200,0.035,0.01705554200856719,0.07047061152229073
+Template Repetition,0.1,50,C2ST-RBF,confirmatory,8,200,0.04,0.020405632066152306,0.07693206820093296
+Template Repetition,0.1,50,Energy,confirmatory,74,200,0.37,0.30612608409859116,0.4387737007594981
+Template Repetition,0.1,50,MMD,confirmatory,76,200,0.38,0.3155900584867362,0.4489328198438078
+Template Repetition,0.1,50,Sinkhorn,confirmatory,73,200,0.365,0.301405264649268,0.433682973472594
+Template Repetition,0.1,100,C2ST-Linear,posthoc_harmonized_n100,79,200,0.395,0.32984101013207967,0.46411650840714636
+Template Repetition,0.1,100,C2ST-RBF,posthoc_harmonized_n100,106,200,0.53,0.4609168291500183,0.5979524512673458
+Template Repetition,0.1,100,Energy,posthoc_harmonized_n100,188,200,0.94,0.8980683070423372,0.9653478057456681
+Template Repetition,0.1,100,MMD,posthoc_harmonized_n100,189,200,0.945,0.9042130012276914,0.9690146582965411
+Template Repetition,0.1,100,Sinkhorn,posthoc_harmonized_n100,190,200,0.95,0.9104218518612239,0.972617354399236
+Template Repetition,0.1,200,C2ST-Linear,confirmatory,193,200,0.965,0.9295293884777092,0.9829444579914328
+Template Repetition,0.1,200,C2ST-RBF,confirmatory,195,200,0.975,0.942821659593358,0.9892752803482386
+Template Repetition,0.1,200,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.1,200,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.1,200,Sinkhorn,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.3,50,C2ST-Linear,confirmatory,172,200,0.86,0.8051011913429243,0.9013301736654437
+Template Repetition,0.3,50,C2ST-RBF,confirmatory,174,200,0.87,0.8163364812775159,0.9097179772033067
+Template Repetition,0.3,50,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.3,50,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.3,50,Sinkhorn,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.3,100,C2ST-Linear,posthoc_harmonized_n100,199,200,0.995,0.9722262956021069,0.9991168312843989
+Template Repetition,0.3,100,C2ST-RBF,posthoc_harmonized_n100,199,200,0.995,0.9722262956021069,0.9991168312843989
+Template Repetition,0.3,100,Energy,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.3,100,MMD,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.3,100,Sinkhorn,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,50,C2ST-Linear,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,50,C2ST-RBF,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,50,Energy,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,50,MMD,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,50,Sinkhorn,confirmatory,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,100,C2ST-Linear,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,100,C2ST-RBF,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,100,Energy,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,100,MMD,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0
+Template Repetition,0.6,100,Sinkhorn,posthoc_harmonized_n100,200,200,1.0,0.9811546736227335,1.0

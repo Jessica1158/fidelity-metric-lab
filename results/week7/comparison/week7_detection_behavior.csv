@@ -1,0 +1,16 @@
+defect,severity,C2ST,Energy,MMD,Sinkhorn
+Broken Timing,0.1,near-null,high,high,low
+Broken Timing,0.3,moderate,high,high,high
+Broken Timing,0.6,high,high,high,high
+Entity Inconsistency,0.1,near-null,moderate,moderate,near-null
+Entity Inconsistency,0.3,near-null,high,high,near-null
+Entity Inconsistency,0.6,low,high,high,near-null
+Missing Cross-Channel,0.1,near-null,low,low,low
+Missing Cross-Channel,0.3,low,moderate,moderate,low
+Missing Cross-Channel,0.6,moderate,high,high,moderate
+Over-Polished Language,0.1,near-null,moderate,moderate,low
+Over-Polished Language,0.3,low,high,high,near-null
+Over-Polished Language,0.6,high,high,high,near-null
+Template Repetition,0.1,low,high,high,high
+Template Repetition,0.3,high,high,high,high
+Template Repetition,0.6,high,high,high,high

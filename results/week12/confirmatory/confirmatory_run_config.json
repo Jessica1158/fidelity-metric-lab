@@ -1,0 +1,33 @@
+{
+  "repetitions": 200,
+  "n_permutations": 100,
+  "alpha": 0.05,
+  "base_seed": 42,
+  "power_cells": 110,
+  "null_cells": 40,
+  "power_runs": 22000,
+  "null_runs": 8000,
+  "total_runs": 30000,
+  "null_sampling_rule": {
+    "pool_size": 700,
+    "rule": "sample 2*N distinct clean reference units without replacement; first N=P, second N=Q"
+  },
+  "scales": {
+    "Template TF-IDF": {
+      "sigma": 1.4142135623730951,
+      "blur": 0.141421
+    },
+    "Broken Timing Structural": {
+      "sigma": 4.829537929442184,
+      "blur": 0.482954
+    },
+    "Campaign MiniLM": {
+      "sigma": 0.4312044032354748,
+      "blur": 0.04372
+    },
+    "Message MiniLM": {
+      "sigma": 1.3281240463256836,
+      "blur": 0.132812
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "defect": "Broken Timing",
+    "experimental_unit": "campaign",
+    "representation": "13-feature generic structural summary",
+    "fixed_target_gap_minutes": -5.0,
+    "severity_definition": "prevalence of affected campaigns",
+    "nested_prevalence": true,
+    "severities": [
+        0.1,
+        0.3,
+        0.6
+    ],
+    "repetitions": 200,
+    "pairs_per_repetition": 100,
+    "permutations": 100,
+    "alpha": 0.05,
+    "mmd_sigma": 4.82953793971741,
+    "sinkhorn_blur": 0.482953793971741,
+    "clean_geometric_scale": 4.82953793971741,
+    "scaler_fit": "700 clean reference campaigns only",
+    "plan_seed": 42,
+    "sampling_seed_base": 42,
+    "test_seed_base": 10000
+}

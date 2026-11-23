@@ -1,0 +1,9 @@
+{
+  "power_rows": 6000,
+  "null_rows": 1000,
+  "total_rows": 7000,
+  "power_cells": 30,
+  "null_cells": 5,
+  "repetitions_per_cell": 200,
+  "integrity_passed": true
+}

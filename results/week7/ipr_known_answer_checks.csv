@@ -1,0 +1,9 @@
+check,passed
+Matched precision is high,True
+Matched recall is high,True
+Mode dropping keeps precision high,True
+Mode dropping lowers recall,True
+Invented mass lowers precision,True
+Invented mass keeps recall high,True
+Repetition keeps precision high,True
+Repetition lowers recall,True

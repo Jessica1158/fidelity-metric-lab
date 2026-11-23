@@ -1,0 +1,4 @@
+severity,affected_messages,zero_embedding_change,mean_change_all,mean_change_affected,median_change_affected,max_change,mean_cosine_similarity_affected
+0.1,30,0,0.01898582,0.18985817,0.16428736,0.38094494,0.9776124
+0.3,90,2,0.060840983,0.20280327,0.16663945,1.0861673,0.9671217
+0.6,180,7,0.12398659,0.20664431,0.16663945,1.1142738,0.96597576

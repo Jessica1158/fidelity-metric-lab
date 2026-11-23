@@ -1,0 +1,186 @@
+scenario,severity,N,test,rejections,n_reps,power,source
+Broken Timing,0.1,50,Energy,77,200,0.385,confirmatory_n50_n200
+Broken Timing,0.1,50,MMD,75,200,0.375,confirmatory_n50_n200
+Broken Timing,0.1,50,Sinkhorn,10,200,0.05,confirmatory_n50_n200
+Broken Timing,0.1,200,C2ST-Linear,67,200,0.335,confirmatory_n50_n200
+Broken Timing,0.1,200,C2ST-RBF,67,200,0.335,confirmatory_n50_n200
+Broken Timing,0.1,200,Energy,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.1,200,MMD,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.1,200,Sinkhorn,83,200,0.415,confirmatory_n50_n200
+Broken Timing,0.3,50,C2ST-Linear,53,200,0.265,confirmatory_n50_n200
+Broken Timing,0.3,50,C2ST-RBF,47,200,0.235,confirmatory_n50_n200
+Broken Timing,0.3,50,Energy,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.3,50,MMD,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.3,50,Sinkhorn,56,200,0.28,confirmatory_n50_n200
+Broken Timing,0.3,200,C2ST-Linear,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.3,200,C2ST-RBF,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.3,200,Sinkhorn,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.6,50,C2ST-Linear,181,200,0.905,confirmatory_n50_n200
+Broken Timing,0.6,50,C2ST-RBF,179,200,0.895,confirmatory_n50_n200
+Broken Timing,0.6,50,Energy,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.6,50,MMD,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.6,50,Sinkhorn,107,200,0.535,confirmatory_n50_n200
+Entity Inconsistency,0.1,50,Energy,37,200,0.185,confirmatory_n50_n200
+Entity Inconsistency,0.1,50,MMD,35,200,0.175,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,C2ST-Linear,0,200,0.0,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,C2ST-RBF,0,200,0.0,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,Energy,199,200,0.995,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,MMD,199,200,0.995,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,Sinkhorn,16,200,0.08,confirmatory_n50_n200
+Entity Inconsistency,0.3,50,Energy,175,200,0.875,confirmatory_n50_n200
+Entity Inconsistency,0.3,50,MMD,176,200,0.88,confirmatory_n50_n200
+Entity Inconsistency,0.3,200,C2ST-Linear,25,200,0.125,confirmatory_n50_n200
+Entity Inconsistency,0.3,200,C2ST-RBF,29,200,0.145,confirmatory_n50_n200
+Entity Inconsistency,0.3,200,Sinkhorn,33,200,0.165,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,C2ST-Linear,5,200,0.025,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,C2ST-RBF,3,200,0.015,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,Energy,200,200,1.0,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,MMD,200,200,1.0,confirmatory_n50_n200
+Entity Inconsistency,0.6,200,C2ST-Linear,160,200,0.8,confirmatory_n50_n200
+Entity Inconsistency,0.6,200,C2ST-RBF,135,200,0.675,confirmatory_n50_n200
+Entity Inconsistency,0.6,200,Sinkhorn,108,200,0.54,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,50,Energy,10,200,0.05,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,50,MMD,10,200,0.05,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,50,Sinkhorn,5,200,0.025,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,C2ST-Linear,9,200,0.045,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,C2ST-RBF,6,200,0.03,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,Energy,108,200,0.54,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,MMD,107,200,0.535,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,Sinkhorn,121,200,0.605,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,C2ST-Linear,7,200,0.035,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,C2ST-RBF,3,200,0.015,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,Energy,38,200,0.19,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,MMD,40,200,0.2,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,Sinkhorn,17,200,0.085,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,C2ST-Linear,63,200,0.315,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,C2ST-RBF,78,200,0.39,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,Energy,200,200,1.0,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,MMD,200,200,1.0,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,Sinkhorn,178,200,0.89,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,C2ST-Linear,42,200,0.21,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,C2ST-RBF,34,200,0.17,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,Energy,142,200,0.71,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,MMD,143,200,0.715,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,Sinkhorn,49,200,0.245,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,C2ST-Linear,161,200,0.805,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,C2ST-RBF,184,200,0.92,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,Energy,200,200,1.0,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,MMD,200,200,1.0,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,Sinkhorn,200,200,1.0,confirmatory_n50_n200
+Over-Polished Language,0.1,50,Energy,39,200,0.195,confirmatory_n50_n200
+Over-Polished Language,0.1,50,MMD,38,200,0.19,confirmatory_n50_n200
+Over-Polished Language,0.1,50,Sinkhorn,2,200,0.01,confirmatory_n50_n200
+Over-Polished Language,0.1,200,C2ST-Linear,11,200,0.055,confirmatory_n50_n200
+Over-Polished Language,0.1,200,C2ST-RBF,4,200,0.02,confirmatory_n50_n200
+Over-Polished Language,0.1,200,Energy,200,200,1.0,confirmatory_n50_n200
+Over-Polished Language,0.1,200,MMD,200,200,1.0,confirmatory_n50_n200
+Over-Polished Language,0.1,200,Sinkhorn,92,200,0.46,confirmatory_n50_n200
+Over-Polished Language,0.3,50,C2ST-Linear,5,200,0.025,confirmatory_n50_n200
+Over-Polished Language,0.3,50,C2ST-RBF,0,200,0.0,confirmatory_n50_n200
+Over-Polished Language,0.3,50,Energy,195,200,0.975,confirmatory_n50_n200
+Over-Polished Language,0.3,50,MMD,195,200,0.975,confirmatory_n50_n200
+Over-Polished Language,0.3,200,C2ST-Linear,169,200,0.845,confirmatory_n50_n200
+Over-Polished Language,0.3,200,C2ST-RBF,136,200,0.68,confirmatory_n50_n200
+Over-Polished Language,0.3,200,Sinkhorn,1,200,0.005,confirmatory_n50_n200
+Over-Polished Language,0.6,50,C2ST-Linear,66,200,0.33,confirmatory_n50_n200
+Over-Polished Language,0.6,50,C2ST-RBF,47,200,0.235,confirmatory_n50_n200
+Over-Polished Language,0.6,50,Energy,200,200,1.0,confirmatory_n50_n200
+Over-Polished Language,0.6,50,MMD,200,200,1.0,confirmatory_n50_n200
+Over-Polished Language,0.6,200,C2ST-Linear,200,200,1.0,confirmatory_n50_n200
+Over-Polished Language,0.6,200,C2ST-RBF,199,200,0.995,confirmatory_n50_n200
+Over-Polished Language,0.6,200,Sinkhorn,31,200,0.155,confirmatory_n50_n200
+Template Repetition,0.1,50,C2ST-Linear,7,200,0.035,confirmatory_n50_n200
+Template Repetition,0.1,50,C2ST-RBF,8,200,0.04,confirmatory_n50_n200
+Template Repetition,0.1,50,Energy,74,200,0.37,confirmatory_n50_n200
+Template Repetition,0.1,50,MMD,76,200,0.38,confirmatory_n50_n200
+Template Repetition,0.1,50,Sinkhorn,73,200,0.365,confirmatory_n50_n200
+Template Repetition,0.1,200,C2ST-Linear,193,200,0.965,confirmatory_n50_n200
+Template Repetition,0.1,200,C2ST-RBF,195,200,0.975,confirmatory_n50_n200
+Template Repetition,0.1,200,Energy,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.1,200,MMD,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.1,200,Sinkhorn,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.3,50,C2ST-Linear,172,200,0.86,confirmatory_n50_n200
+Template Repetition,0.3,50,C2ST-RBF,174,200,0.87,confirmatory_n50_n200
+Template Repetition,0.3,50,Energy,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.3,50,MMD,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.3,50,Sinkhorn,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.6,50,C2ST-Linear,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.6,50,C2ST-RBF,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.6,50,Energy,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.6,50,MMD,200,200,1.0,confirmatory_n50_n200
+Template Repetition,0.6,50,Sinkhorn,200,200,1.0,confirmatory_n50_n200
+Broken Timing,0.1,100,C2ST-Linear,5,200,0.025,historical_n100_anchor
+Broken Timing,0.3,100,C2ST-Linear,167,200,0.835,historical_n100_anchor
+Broken Timing,0.6,100,C2ST-Linear,200,200,1.0,historical_n100_anchor
+Broken Timing,0.1,100,C2ST-RBF,8,200,0.04,historical_n100_anchor
+Broken Timing,0.3,100,C2ST-RBF,164,200,0.82,historical_n100_anchor
+Broken Timing,0.6,100,C2ST-RBF,200,200,1.0,historical_n100_anchor
+Broken Timing,0.1,100,Energy,195,200,0.975,historical_n100_anchor
+Broken Timing,0.3,100,Energy,200,200,1.0,historical_n100_anchor
+Broken Timing,0.6,100,Energy,200,200,1.0,historical_n100_anchor
+Broken Timing,0.1,100,MMD,195,200,0.975,historical_n100_anchor
+Broken Timing,0.3,100,MMD,200,200,1.0,historical_n100_anchor
+Broken Timing,0.6,100,MMD,200,200,1.0,historical_n100_anchor
+Broken Timing,0.1,100,Sinkhorn,66,200,0.33,historical_n100_anchor
+Broken Timing,0.3,100,Sinkhorn,188,200,0.94,historical_n100_anchor
+Broken Timing,0.6,100,Sinkhorn,200,200,1.0,historical_n100_anchor
+Entity Inconsistency,0.1,100,C2ST-Linear,0,200,0.0,historical_n100_anchor
+Entity Inconsistency,0.3,100,C2ST-Linear,5,200,0.025,historical_n100_anchor
+Entity Inconsistency,0.6,100,C2ST-Linear,33,200,0.165,historical_n100_anchor
+Entity Inconsistency,0.1,100,C2ST-RBF,0,200,0.0,historical_n100_anchor
+Entity Inconsistency,0.3,100,C2ST-RBF,3,200,0.015,historical_n100_anchor
+Entity Inconsistency,0.6,100,C2ST-RBF,36,200,0.18,historical_n100_anchor
+Entity Inconsistency,0.1,100,Energy,121,200,0.605,historical_n100_anchor
+Entity Inconsistency,0.3,100,Energy,200,200,1.0,historical_n100_anchor
+Entity Inconsistency,0.6,100,Energy,200,200,1.0,historical_n100_anchor
+Entity Inconsistency,0.1,100,MMD,128,200,0.64,historical_n100_anchor
+Entity Inconsistency,0.3,100,MMD,200,200,1.0,historical_n100_anchor
+Entity Inconsistency,0.6,100,MMD,200,200,1.0,historical_n100_anchor
+Entity Inconsistency,0.1,100,Sinkhorn,9,200,0.045,historical_n100_anchor
+Entity Inconsistency,0.3,100,Sinkhorn,5,200,0.025,historical_n100_anchor
+Entity Inconsistency,0.6,100,Sinkhorn,18,200,0.09,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,C2ST-Linear,1,200,0.005,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,C2ST-Linear,25,200,0.125,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,C2ST-Linear,101,200,0.505,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,C2ST-RBF,0,200,0.0,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,C2ST-RBF,16,200,0.08,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,C2ST-RBF,103,200,0.515,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,Energy,28,200,0.14,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,Energy,110,200,0.55,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,Energy,199,200,0.995,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,MMD,28,200,0.14,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,MMD,112,200,0.56,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,MMD,199,200,0.995,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,Sinkhorn,25,200,0.125,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,Sinkhorn,62,200,0.31,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,Sinkhorn,137,200,0.685,historical_n100_anchor
+Over-Polished Language,0.1,100,C2ST-Linear,0,200,0.0,historical_n100_anchor
+Over-Polished Language,0.3,100,C2ST-Linear,56,200,0.28,historical_n100_anchor
+Over-Polished Language,0.6,100,C2ST-Linear,186,200,0.93,historical_n100_anchor
+Over-Polished Language,0.1,100,C2ST-RBF,0,200,0.0,historical_n100_anchor
+Over-Polished Language,0.3,100,C2ST-RBF,37,200,0.185,historical_n100_anchor
+Over-Polished Language,0.6,100,C2ST-RBF,145,200,0.725,historical_n100_anchor
+Over-Polished Language,0.1,100,Energy,174,200,0.87,historical_n100_anchor
+Over-Polished Language,0.3,100,Energy,200,200,1.0,historical_n100_anchor
+Over-Polished Language,0.6,100,Energy,200,200,1.0,historical_n100_anchor
+Over-Polished Language,0.1,100,MMD,176,200,0.88,historical_n100_anchor
+Over-Polished Language,0.3,100,MMD,200,200,1.0,historical_n100_anchor
+Over-Polished Language,0.6,100,MMD,200,200,1.0,historical_n100_anchor
+Over-Polished Language,0.1,100,Sinkhorn,26,200,0.13,historical_n100_anchor
+Over-Polished Language,0.3,100,Sinkhorn,5,200,0.025,historical_n100_anchor
+Over-Polished Language,0.6,100,Sinkhorn,8,200,0.04,historical_n100_anchor
+Template Repetition,0.1,100,C2ST-Linear,66,200,0.33,historical_n100_anchor
+Template Repetition,0.3,100,C2ST-Linear,200,200,1.0,historical_n100_anchor
+Template Repetition,0.6,100,C2ST-Linear,200,200,1.0,historical_n100_anchor
+Template Repetition,0.1,100,C2ST-RBF,98,200,0.49,historical_n100_anchor
+Template Repetition,0.3,100,C2ST-RBF,200,200,1.0,historical_n100_anchor
+Template Repetition,0.6,100,C2ST-RBF,200,200,1.0,historical_n100_anchor
+Template Repetition,0.1,100,Energy,190,200,0.95,historical_n100_anchor
+Template Repetition,0.3,100,Energy,200,200,1.0,historical_n100_anchor
+Template Repetition,0.6,100,Energy,200,200,1.0,historical_n100_anchor
+Template Repetition,0.1,100,MMD,190,200,0.95,historical_n100_anchor
+Template Repetition,0.3,100,MMD,200,200,1.0,historical_n100_anchor
+Template Repetition,0.6,100,MMD,200,200,1.0,historical_n100_anchor
+Template Repetition,0.1,100,Sinkhorn,194,200,0.97,historical_n100_anchor
+Template Repetition,0.3,100,Sinkhorn,200,200,1.0,historical_n100_anchor
+Template Repetition,0.6,100,Sinkhorn,200,200,1.0,historical_n100_anchor

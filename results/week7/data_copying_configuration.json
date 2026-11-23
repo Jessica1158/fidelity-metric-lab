@@ -1,0 +1,34 @@
+{
+    "experimental_unit": "individual_sms",
+    "training_size": 700,
+    "evaluation_size": 300,
+    "P_size": 150,
+    "Q_size": 150,
+    "representation": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_dimension": 384,
+    "distance": "euclidean nearest-neighbor distance to training set",
+    "statistic": "mean_distance_P - mean_distance_Q",
+    "alternative": "Q is closer to training than P",
+    "permutation_scheme": "stratified by ham/spam label",
+    "alpha": 0.05,
+    "n_permutations": 100,
+    "null_repetitions": 200,
+    "copying_severities": [
+        0.0,
+        0.1,
+        0.3,
+        0.6
+    ],
+    "power_repetitions": 200,
+    "power_permutations": 999,
+    "split_seed_base": 42,
+    "copy_plan_seed_base": 20000,
+    "test_seed_base": 10000,
+    "known_answer_design": "exact training-copy prevalence",
+    "power_severities": [
+        0.0,
+        0.1,
+        0.3,
+        0.6
+    ]
+}

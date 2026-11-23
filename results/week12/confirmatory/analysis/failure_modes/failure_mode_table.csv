@@ -1,0 +1,186 @@
+scenario,severity,N,test,power,type_I_error,wilson_high,failure_mode,source
+Broken Timing,0.1,50,Energy,0.385,0.05,0.0895781481387759,low,confirmatory_n50_n200
+Broken Timing,0.1,50,MMD,0.375,0.055,0.0957869987723084,low,confirmatory_n50_n200
+Broken Timing,0.1,50,Sinkhorn,0.05,0.035,0.0704706115222907,near-null,confirmatory_n50_n200
+Broken Timing,0.1,100,C2ST-Linear,0.025,0.035,0.07047061152229073,near-null,historical_n100_anchor
+Broken Timing,0.1,100,C2ST-RBF,0.04,0.04,0.07693206820093293,near-null,historical_n100_anchor
+Broken Timing,0.1,100,Energy,0.975,0.065,0.10801907929906895,saturated,historical_n100_anchor
+Broken Timing,0.1,100,MMD,0.975,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Broken Timing,0.1,100,Sinkhorn,0.33,0.045,0.0832967040018196,low,historical_n100_anchor
+Broken Timing,0.1,200,C2ST-Linear,0.335,0.025,0.0571783404066419,low,confirmatory_n50_n200
+Broken Timing,0.1,200,C2ST-RBF,0.335,0.02,0.0502870869058264,low,confirmatory_n50_n200
+Broken Timing,0.1,200,Energy,1.0,0.045,0.0832967040018196,saturated,confirmatory_n50_n200
+Broken Timing,0.1,200,MMD,1.0,0.045,0.0832967040018196,saturated,confirmatory_n50_n200
+Broken Timing,0.1,200,Sinkhorn,0.415,0.04,0.0769320682009329,low,confirmatory_n50_n200
+Broken Timing,0.3,50,C2ST-Linear,0.265,0.03,0.0638942924545192,low,confirmatory_n50_n200
+Broken Timing,0.3,50,C2ST-RBF,0.235,0.015,0.0431657287926902,low,confirmatory_n50_n200
+Broken Timing,0.3,50,Energy,1.0,0.05,0.0895781481387759,saturated,confirmatory_n50_n200
+Broken Timing,0.3,50,MMD,1.0,0.055,0.0957869987723084,saturated,confirmatory_n50_n200
+Broken Timing,0.3,50,Sinkhorn,0.28,0.035,0.0704706115222907,low,confirmatory_n50_n200
+Broken Timing,0.3,100,C2ST-Linear,0.835,0.035,0.07047061152229073,high,historical_n100_anchor
+Broken Timing,0.3,100,C2ST-RBF,0.82,0.04,0.07693206820093293,high,historical_n100_anchor
+Broken Timing,0.3,100,Energy,1.0,0.065,0.10801907929906895,saturated,historical_n100_anchor
+Broken Timing,0.3,100,MMD,1.0,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Broken Timing,0.3,100,Sinkhorn,0.94,0.045,0.0832967040018196,high,historical_n100_anchor
+Broken Timing,0.3,200,C2ST-Linear,1.0,0.025,0.0571783404066419,saturated,confirmatory_n50_n200
+Broken Timing,0.3,200,C2ST-RBF,1.0,0.02,0.0502870869058264,saturated,confirmatory_n50_n200
+Broken Timing,0.3,200,Sinkhorn,1.0,0.04,0.0769320682009329,saturated,confirmatory_n50_n200
+Broken Timing,0.6,50,C2ST-Linear,0.905,0.03,0.0638942924545192,high,confirmatory_n50_n200
+Broken Timing,0.6,50,C2ST-RBF,0.895,0.015,0.0431657287926902,high,confirmatory_n50_n200
+Broken Timing,0.6,50,Energy,1.0,0.05,0.0895781481387759,saturated,confirmatory_n50_n200
+Broken Timing,0.6,50,MMD,1.0,0.055,0.0957869987723084,saturated,confirmatory_n50_n200
+Broken Timing,0.6,50,Sinkhorn,0.535,0.035,0.0704706115222907,moderate,confirmatory_n50_n200
+Broken Timing,0.6,100,C2ST-Linear,1.0,0.035,0.07047061152229073,saturated,historical_n100_anchor
+Broken Timing,0.6,100,C2ST-RBF,1.0,0.04,0.07693206820093293,saturated,historical_n100_anchor
+Broken Timing,0.6,100,Energy,1.0,0.065,0.10801907929906895,saturated,historical_n100_anchor
+Broken Timing,0.6,100,MMD,1.0,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Broken Timing,0.6,100,Sinkhorn,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Entity Inconsistency,0.1,50,Energy,0.185,0.06,0.1019316929576627,low,confirmatory_n50_n200
+Entity Inconsistency,0.1,50,MMD,0.175,0.06,0.1019316929576627,low,confirmatory_n50_n200
+Entity Inconsistency,0.1,100,C2ST-Linear,0.0,0.035,0.07047061152229073,near-null,historical_n100_anchor
+Entity Inconsistency,0.1,100,C2ST-RBF,0.0,0.025,0.05717834040664198,near-null,historical_n100_anchor
+Entity Inconsistency,0.1,100,Energy,0.605,0.055,0.0957869987723084,moderate,historical_n100_anchor
+Entity Inconsistency,0.1,100,MMD,0.64,0.055,0.0957869987723084,moderate,historical_n100_anchor
+Entity Inconsistency,0.1,100,Sinkhorn,0.045,0.065,0.10801907929906895,near-null,historical_n100_anchor
+Entity Inconsistency,0.1,200,C2ST-Linear,0.0,0.05,0.0895781481387759,near-null,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,C2ST-RBF,0.0,0.06,0.1019316929576627,near-null,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,Energy,0.995,0.065,0.1080190792990689,saturated,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,MMD,0.995,0.065,0.1080190792990689,saturated,confirmatory_n50_n200
+Entity Inconsistency,0.1,200,Sinkhorn,0.08,0.075,0.1200436102362945,near-null,confirmatory_n50_n200
+Entity Inconsistency,0.3,50,Energy,0.875,0.06,0.1019316929576627,high,confirmatory_n50_n200
+Entity Inconsistency,0.3,50,MMD,0.88,0.06,0.1019316929576627,high,confirmatory_n50_n200
+Entity Inconsistency,0.3,100,C2ST-Linear,0.025,0.035,0.07047061152229073,near-null,historical_n100_anchor
+Entity Inconsistency,0.3,100,C2ST-RBF,0.015,0.025,0.05717834040664198,near-null,historical_n100_anchor
+Entity Inconsistency,0.3,100,Energy,1.0,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Entity Inconsistency,0.3,100,MMD,1.0,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Entity Inconsistency,0.3,100,Sinkhorn,0.025,0.065,0.10801907929906895,near-null,historical_n100_anchor
+Entity Inconsistency,0.3,200,C2ST-Linear,0.125,0.05,0.0895781481387759,low,confirmatory_n50_n200
+Entity Inconsistency,0.3,200,C2ST-RBF,0.145,0.06,0.1019316929576627,low,confirmatory_n50_n200
+Entity Inconsistency,0.3,200,Sinkhorn,0.165,0.075,0.1200436102362945,low,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,C2ST-Linear,0.025,0.035,0.0704706115222907,near-null,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,C2ST-RBF,0.015,0.025,0.0571783404066419,near-null,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,Energy,1.0,0.06,0.1019316929576627,saturated,confirmatory_n50_n200
+Entity Inconsistency,0.6,50,MMD,1.0,0.06,0.1019316929576627,saturated,confirmatory_n50_n200
+Entity Inconsistency,0.6,100,C2ST-Linear,0.165,0.035,0.07047061152229073,low,historical_n100_anchor
+Entity Inconsistency,0.6,100,C2ST-RBF,0.18,0.025,0.05717834040664198,low,historical_n100_anchor
+Entity Inconsistency,0.6,100,Energy,1.0,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Entity Inconsistency,0.6,100,MMD,1.0,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Entity Inconsistency,0.6,100,Sinkhorn,0.09,0.065,0.10801907929906895,near-null,historical_n100_anchor
+Entity Inconsistency,0.6,200,C2ST-Linear,0.8,0.05,0.0895781481387759,high,confirmatory_n50_n200
+Entity Inconsistency,0.6,200,C2ST-RBF,0.675,0.06,0.1019316929576627,moderate,confirmatory_n50_n200
+Entity Inconsistency,0.6,200,Sinkhorn,0.54,0.075,0.1200436102362945,moderate,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,50,Energy,0.05,0.06,0.1019316929576627,near-null,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,50,MMD,0.05,0.06,0.1019316929576627,near-null,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,50,Sinkhorn,0.025,0.055,0.0957869987723084,near-null,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,100,C2ST-Linear,0.005,0.035,0.07047061152229073,near-null,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,C2ST-RBF,0.0,0.025,0.05717834040664198,near-null,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,Energy,0.14,0.055,0.0957869987723084,low,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,MMD,0.14,0.055,0.0957869987723084,low,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,100,Sinkhorn,0.125,0.065,0.10801907929906895,low,historical_n100_anchor
+Missing Cross-Channel Reference,0.1,200,C2ST-Linear,0.045,0.05,0.0895781481387759,near-null,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,C2ST-RBF,0.03,0.06,0.1019316929576627,near-null,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,Energy,0.54,0.065,0.1080190792990689,moderate,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,MMD,0.535,0.065,0.1080190792990689,moderate,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.1,200,Sinkhorn,0.605,0.075,0.1200436102362945,moderate,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,C2ST-Linear,0.035,0.035,0.0704706115222907,near-null,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,C2ST-RBF,0.015,0.025,0.0571783404066419,near-null,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,Energy,0.19,0.06,0.1019316929576627,low,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,MMD,0.2,0.06,0.1019316929576627,low,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,50,Sinkhorn,0.085,0.055,0.0957869987723084,near-null,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,100,C2ST-Linear,0.125,0.035,0.07047061152229073,low,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,C2ST-RBF,0.08,0.025,0.05717834040664198,low,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,Energy,0.55,0.055,0.0957869987723084,moderate,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,MMD,0.56,0.055,0.0957869987723084,moderate,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,100,Sinkhorn,0.31,0.065,0.10801907929906895,low,historical_n100_anchor
+Missing Cross-Channel Reference,0.3,200,C2ST-Linear,0.315,0.05,0.0895781481387759,low,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,C2ST-RBF,0.39,0.06,0.1019316929576627,low,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,Energy,1.0,0.065,0.1080190792990689,saturated,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,MMD,1.0,0.065,0.1080190792990689,saturated,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.3,200,Sinkhorn,0.89,0.075,0.1200436102362945,high,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,C2ST-Linear,0.21,0.035,0.0704706115222907,low,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,C2ST-RBF,0.17,0.025,0.0571783404066419,low,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,Energy,0.71,0.06,0.1019316929576627,moderate,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,MMD,0.715,0.06,0.1019316929576627,moderate,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,50,Sinkhorn,0.245,0.055,0.0957869987723084,low,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,100,C2ST-Linear,0.505,0.035,0.07047061152229073,moderate,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,C2ST-RBF,0.515,0.025,0.05717834040664198,moderate,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,Energy,0.995,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,MMD,0.995,0.055,0.0957869987723084,saturated,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,100,Sinkhorn,0.685,0.065,0.10801907929906895,moderate,historical_n100_anchor
+Missing Cross-Channel Reference,0.6,200,C2ST-Linear,0.805,0.05,0.0895781481387759,high,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,C2ST-RBF,0.92,0.06,0.1019316929576627,high,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,Energy,1.0,0.065,0.1080190792990689,saturated,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,MMD,1.0,0.065,0.1080190792990689,saturated,confirmatory_n50_n200
+Missing Cross-Channel Reference,0.6,200,Sinkhorn,1.0,0.075,0.1200436102362945,saturated,confirmatory_n50_n200
+Over-Polished Language,0.1,50,Energy,0.195,0.03,0.0638942924545192,low,confirmatory_n50_n200
+Over-Polished Language,0.1,50,MMD,0.19,0.03,0.0638942924545192,low,confirmatory_n50_n200
+Over-Polished Language,0.1,50,Sinkhorn,0.01,0.025,0.0571783404066419,near-null,confirmatory_n50_n200
+Over-Polished Language,0.1,100,C2ST-Linear,0.0,0.05,0.08957814813877599,near-null,historical_n100_anchor
+Over-Polished Language,0.1,100,C2ST-RBF,0.0,0.045,0.0832967040018196,near-null,historical_n100_anchor
+Over-Polished Language,0.1,100,Energy,0.87,0.045,0.0832967040018196,high,historical_n100_anchor
+Over-Polished Language,0.1,100,MMD,0.88,0.05,0.08957814813877599,high,historical_n100_anchor
+Over-Polished Language,0.1,100,Sinkhorn,0.13,0.05,0.08957814813877599,low,historical_n100_anchor
+Over-Polished Language,0.1,200,C2ST-Linear,0.055,0.035,0.0704706115222907,near-null,confirmatory_n50_n200
+Over-Polished Language,0.1,200,C2ST-RBF,0.02,0.03,0.0638942924545192,near-null,confirmatory_n50_n200
+Over-Polished Language,0.1,200,Energy,1.0,0.03,0.0638942924545192,saturated,confirmatory_n50_n200
+Over-Polished Language,0.1,200,MMD,1.0,0.035,0.0704706115222907,saturated,confirmatory_n50_n200
+Over-Polished Language,0.1,200,Sinkhorn,0.46,0.065,0.1080190792990689,low,confirmatory_n50_n200
+Over-Polished Language,0.3,50,C2ST-Linear,0.025,0.02,0.0502870869058264,near-null,confirmatory_n50_n200
+Over-Polished Language,0.3,50,C2ST-RBF,0.0,0.005,0.0277737043978929,near-null,confirmatory_n50_n200
+Over-Polished Language,0.3,50,Energy,0.975,0.03,0.0638942924545192,saturated,confirmatory_n50_n200
+Over-Polished Language,0.3,50,MMD,0.975,0.03,0.0638942924545192,saturated,confirmatory_n50_n200
+Over-Polished Language,0.3,100,C2ST-Linear,0.28,0.05,0.08957814813877599,low,historical_n100_anchor
+Over-Polished Language,0.3,100,C2ST-RBF,0.185,0.045,0.0832967040018196,low,historical_n100_anchor
+Over-Polished Language,0.3,100,Energy,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Over-Polished Language,0.3,100,MMD,1.0,0.05,0.08957814813877599,saturated,historical_n100_anchor
+Over-Polished Language,0.3,100,Sinkhorn,0.025,0.05,0.08957814813877599,near-null,historical_n100_anchor
+Over-Polished Language,0.3,200,C2ST-Linear,0.845,0.035,0.0704706115222907,high,confirmatory_n50_n200
+Over-Polished Language,0.3,200,C2ST-RBF,0.68,0.03,0.0638942924545192,moderate,confirmatory_n50_n200
+Over-Polished Language,0.3,200,Sinkhorn,0.005,0.065,0.1080190792990689,near-null,confirmatory_n50_n200
+Over-Polished Language,0.6,50,C2ST-Linear,0.33,0.02,0.0502870869058264,low,confirmatory_n50_n200
+Over-Polished Language,0.6,50,C2ST-RBF,0.235,0.005,0.0277737043978929,low,confirmatory_n50_n200
+Over-Polished Language,0.6,50,Energy,1.0,0.03,0.0638942924545192,saturated,confirmatory_n50_n200
+Over-Polished Language,0.6,50,MMD,1.0,0.03,0.0638942924545192,saturated,confirmatory_n50_n200
+Over-Polished Language,0.6,100,C2ST-Linear,0.93,0.05,0.08957814813877599,high,historical_n100_anchor
+Over-Polished Language,0.6,100,C2ST-RBF,0.725,0.045,0.0832967040018196,moderate,historical_n100_anchor
+Over-Polished Language,0.6,100,Energy,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Over-Polished Language,0.6,100,MMD,1.0,0.05,0.08957814813877599,saturated,historical_n100_anchor
+Over-Polished Language,0.6,100,Sinkhorn,0.04,0.05,0.08957814813877599,near-null,historical_n100_anchor
+Over-Polished Language,0.6,200,C2ST-Linear,1.0,0.035,0.0704706115222907,saturated,confirmatory_n50_n200
+Over-Polished Language,0.6,200,C2ST-RBF,0.995,0.03,0.0638942924545192,saturated,confirmatory_n50_n200
+Over-Polished Language,0.6,200,Sinkhorn,0.155,0.065,0.1080190792990689,low,confirmatory_n50_n200
+Template Repetition,0.1,50,C2ST-Linear,0.035,0.02,0.0502870869058264,near-null,confirmatory_n50_n200
+Template Repetition,0.1,50,C2ST-RBF,0.04,0.025,0.0571783404066419,near-null,confirmatory_n50_n200
+Template Repetition,0.1,50,Energy,0.37,0.04,0.0769320682009329,low,confirmatory_n50_n200
+Template Repetition,0.1,50,MMD,0.38,0.035,0.0704706115222907,low,confirmatory_n50_n200
+Template Repetition,0.1,50,Sinkhorn,0.365,0.04,0.0769320682009329,low,confirmatory_n50_n200
+Template Repetition,0.1,100,C2ST-Linear,0.33,0.03,0.06389429245451925,low,historical_n100_anchor
+Template Repetition,0.1,100,C2ST-RBF,0.49,0.025,0.05717834040664198,low,historical_n100_anchor
+Template Repetition,0.1,100,Energy,0.95,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Template Repetition,0.1,100,MMD,0.95,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Template Repetition,0.1,100,Sinkhorn,0.97,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Template Repetition,0.1,200,C2ST-Linear,0.965,0.01,0.0357217617161768,saturated,confirmatory_n50_n200
+Template Repetition,0.1,200,C2ST-RBF,0.975,0.01,0.0357217617161768,saturated,confirmatory_n50_n200
+Template Repetition,0.1,200,Energy,1.0,0.03,0.0638942924545192,saturated,confirmatory_n50_n200
+Template Repetition,0.1,200,MMD,1.0,0.03,0.0638942924545192,saturated,confirmatory_n50_n200
+Template Repetition,0.1,200,Sinkhorn,1.0,0.065,0.1080190792990689,saturated,confirmatory_n50_n200
+Template Repetition,0.3,50,C2ST-Linear,0.86,0.02,0.0502870869058264,high,confirmatory_n50_n200
+Template Repetition,0.3,50,C2ST-RBF,0.87,0.025,0.0571783404066419,high,confirmatory_n50_n200
+Template Repetition,0.3,50,Energy,1.0,0.04,0.0769320682009329,saturated,confirmatory_n50_n200
+Template Repetition,0.3,50,MMD,1.0,0.035,0.0704706115222907,saturated,confirmatory_n50_n200
+Template Repetition,0.3,50,Sinkhorn,1.0,0.04,0.0769320682009329,saturated,confirmatory_n50_n200
+Template Repetition,0.3,100,C2ST-Linear,1.0,0.03,0.06389429245451925,saturated,historical_n100_anchor
+Template Repetition,0.3,100,C2ST-RBF,1.0,0.025,0.05717834040664198,saturated,historical_n100_anchor
+Template Repetition,0.3,100,Energy,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Template Repetition,0.3,100,MMD,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Template Repetition,0.3,100,Sinkhorn,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Template Repetition,0.6,50,C2ST-Linear,1.0,0.02,0.0502870869058264,saturated,confirmatory_n50_n200
+Template Repetition,0.6,50,C2ST-RBF,1.0,0.025,0.0571783404066419,saturated,confirmatory_n50_n200
+Template Repetition,0.6,50,Energy,1.0,0.04,0.0769320682009329,saturated,confirmatory_n50_n200
+Template Repetition,0.6,50,MMD,1.0,0.035,0.0704706115222907,saturated,confirmatory_n50_n200
+Template Repetition,0.6,50,Sinkhorn,1.0,0.04,0.0769320682009329,saturated,confirmatory_n50_n200
+Template Repetition,0.6,100,C2ST-Linear,1.0,0.03,0.06389429245451925,saturated,historical_n100_anchor
+Template Repetition,0.6,100,C2ST-RBF,1.0,0.025,0.05717834040664198,saturated,historical_n100_anchor
+Template Repetition,0.6,100,Energy,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Template Repetition,0.6,100,MMD,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor
+Template Repetition,0.6,100,Sinkhorn,1.0,0.045,0.0832967040018196,saturated,historical_n100_anchor

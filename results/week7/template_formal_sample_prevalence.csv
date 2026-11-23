@@ -1,0 +1,4 @@
+severity,mean_affected,std_affected,min_affected,max_affected,mean_sample_rate
+0.1,10.08,2.53093424266683,3,16,0.1008
+0.3,30.08,3.6039620854786802,22,39,0.3008
+0.6,59.79,3.718201867250909,51,70,0.5979

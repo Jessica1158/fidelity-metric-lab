@@ -1,0 +1,19 @@
+{
+    "method": "Improved Precision and Recall, Kynkaanniemi et al. 2019",
+    "primary_k": 3,
+    "k_sensitivity": [
+        2,
+        3,
+        5
+    ],
+    "samples_per_distribution": 300,
+    "known_answer_repetitions": 30,
+    "synthetic_dimension": 2,
+    "real_modes": 5,
+    "gaussian_scale": 0.45,
+    "equal_sample_sizes": true,
+    "distance": "euclidean",
+    "precision_definition": "generated samples inside estimated real manifold",
+    "recall_definition": "real samples inside estimated generated manifold",
+    "parameter_selection": "paper-based, not tuned on defects"
+}

@@ -1,0 +1,23 @@
+{
+    "defect": "Missing Cross-Channel Reference",
+    "representation": "campaign semantic MiniLM embeddings",
+    "embedding_dimension": 384,
+    "repetitions": 200,
+    "pairs_per_repetition": 100,
+    "permutations": 100,
+    "alpha": 0.05,
+    "severities": [
+        0.1,
+        0.3,
+        0.6
+    ],
+    "paired_design": true,
+    "permutation_scheme": "within-pair random swaps",
+    "sinkhorn_p": 2,
+    "sinkhorn_blur": 0.043719952430236554,
+    "sinkhorn_debiased": true,
+    "sinkhorn_backend": "tensorized",
+    "device": "cpu",
+    "sampling_seed_base": 42,
+    "test_seed_base": 10000
+}

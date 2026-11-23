@@ -1,0 +1,186 @@
+scenario,severity,N,test,source_status,rejections,repetitions,power
+Broken Timing,0.1,50,Energy,confirmatory,77,200,0.385
+Broken Timing,0.1,50,MMD,confirmatory,75,200,0.375
+Broken Timing,0.1,50,Sinkhorn,confirmatory,10,200,0.05
+Broken Timing,0.1,100,C2ST-Linear,posthoc_harmonized_n100,14,200,0.07
+Broken Timing,0.1,100,C2ST-RBF,posthoc_harmonized_n100,5,200,0.025
+Broken Timing,0.1,100,Energy,posthoc_harmonized_n100,195,200,0.975
+Broken Timing,0.1,100,MMD,posthoc_harmonized_n100,196,200,0.98
+Broken Timing,0.1,100,Sinkhorn,posthoc_harmonized_n100,73,200,0.365
+Broken Timing,0.1,200,C2ST-Linear,confirmatory,67,200,0.335
+Broken Timing,0.1,200,C2ST-RBF,confirmatory,67,200,0.335
+Broken Timing,0.1,200,Energy,confirmatory,200,200,1.0
+Broken Timing,0.1,200,MMD,confirmatory,200,200,1.0
+Broken Timing,0.1,200,Sinkhorn,confirmatory,83,200,0.415
+Broken Timing,0.3,50,C2ST-Linear,confirmatory,53,200,0.265
+Broken Timing,0.3,50,C2ST-RBF,confirmatory,47,200,0.235
+Broken Timing,0.3,50,Energy,confirmatory,200,200,1.0
+Broken Timing,0.3,50,MMD,confirmatory,200,200,1.0
+Broken Timing,0.3,50,Sinkhorn,confirmatory,56,200,0.28
+Broken Timing,0.3,100,C2ST-Linear,posthoc_harmonized_n100,163,200,0.815
+Broken Timing,0.3,100,C2ST-RBF,posthoc_harmonized_n100,158,200,0.79
+Broken Timing,0.3,100,Energy,posthoc_harmonized_n100,200,200,1.0
+Broken Timing,0.3,100,MMD,posthoc_harmonized_n100,200,200,1.0
+Broken Timing,0.3,100,Sinkhorn,posthoc_harmonized_n100,184,200,0.92
+Broken Timing,0.3,200,C2ST-Linear,confirmatory,200,200,1.0
+Broken Timing,0.3,200,C2ST-RBF,confirmatory,200,200,1.0
+Broken Timing,0.3,200,Sinkhorn,confirmatory,200,200,1.0
+Broken Timing,0.6,50,C2ST-Linear,confirmatory,181,200,0.905
+Broken Timing,0.6,50,C2ST-RBF,confirmatory,179,200,0.895
+Broken Timing,0.6,50,Energy,confirmatory,200,200,1.0
+Broken Timing,0.6,50,MMD,confirmatory,200,200,1.0
+Broken Timing,0.6,50,Sinkhorn,confirmatory,107,200,0.535
+Broken Timing,0.6,100,C2ST-Linear,posthoc_harmonized_n100,200,200,1.0
+Broken Timing,0.6,100,C2ST-RBF,posthoc_harmonized_n100,200,200,1.0
+Broken Timing,0.6,100,Energy,posthoc_harmonized_n100,200,200,1.0
+Broken Timing,0.6,100,MMD,posthoc_harmonized_n100,200,200,1.0
+Broken Timing,0.6,100,Sinkhorn,posthoc_harmonized_n100,200,200,1.0
+Entity Inconsistency,0.1,50,Energy,confirmatory,37,200,0.185
+Entity Inconsistency,0.1,50,MMD,confirmatory,35,200,0.175
+Entity Inconsistency,0.1,100,C2ST-Linear,posthoc_harmonized_n100,0,200,0.0
+Entity Inconsistency,0.1,100,C2ST-RBF,posthoc_harmonized_n100,0,200,0.0
+Entity Inconsistency,0.1,100,Energy,posthoc_harmonized_n100,121,200,0.605
+Entity Inconsistency,0.1,100,MMD,posthoc_harmonized_n100,128,200,0.64
+Entity Inconsistency,0.1,100,Sinkhorn,posthoc_harmonized_n100,8,200,0.04
+Entity Inconsistency,0.1,200,C2ST-Linear,confirmatory,0,200,0.0
+Entity Inconsistency,0.1,200,C2ST-RBF,confirmatory,0,200,0.0
+Entity Inconsistency,0.1,200,Energy,confirmatory,199,200,0.995
+Entity Inconsistency,0.1,200,MMD,confirmatory,199,200,0.995
+Entity Inconsistency,0.1,200,Sinkhorn,confirmatory,16,200,0.08
+Entity Inconsistency,0.3,50,Energy,confirmatory,175,200,0.875
+Entity Inconsistency,0.3,50,MMD,confirmatory,176,200,0.88
+Entity Inconsistency,0.3,100,C2ST-Linear,posthoc_harmonized_n100,5,200,0.025
+Entity Inconsistency,0.3,100,C2ST-RBF,posthoc_harmonized_n100,6,200,0.03
+Entity Inconsistency,0.3,100,Energy,posthoc_harmonized_n100,200,200,1.0
+Entity Inconsistency,0.3,100,MMD,posthoc_harmonized_n100,200,200,1.0
+Entity Inconsistency,0.3,100,Sinkhorn,posthoc_harmonized_n100,12,200,0.06
+Entity Inconsistency,0.3,200,C2ST-Linear,confirmatory,25,200,0.125
+Entity Inconsistency,0.3,200,C2ST-RBF,confirmatory,29,200,0.145
+Entity Inconsistency,0.3,200,Sinkhorn,confirmatory,33,200,0.165
+Entity Inconsistency,0.6,50,C2ST-Linear,confirmatory,5,200,0.025
+Entity Inconsistency,0.6,50,C2ST-RBF,confirmatory,3,200,0.015
+Entity Inconsistency,0.6,50,Energy,confirmatory,200,200,1.0
+Entity Inconsistency,0.6,50,MMD,confirmatory,200,200,1.0
+Entity Inconsistency,0.6,100,C2ST-Linear,posthoc_harmonized_n100,33,200,0.165
+Entity Inconsistency,0.6,100,C2ST-RBF,posthoc_harmonized_n100,21,200,0.105
+Entity Inconsistency,0.6,100,Energy,posthoc_harmonized_n100,200,200,1.0
+Entity Inconsistency,0.6,100,MMD,posthoc_harmonized_n100,200,200,1.0
+Entity Inconsistency,0.6,100,Sinkhorn,posthoc_harmonized_n100,33,200,0.165
+Entity Inconsistency,0.6,200,C2ST-Linear,confirmatory,160,200,0.8
+Entity Inconsistency,0.6,200,C2ST-RBF,confirmatory,135,200,0.675
+Entity Inconsistency,0.6,200,Sinkhorn,confirmatory,108,200,0.54
+Missing Cross-Channel Reference,0.1,50,Energy,confirmatory,10,200,0.05
+Missing Cross-Channel Reference,0.1,50,MMD,confirmatory,10,200,0.05
+Missing Cross-Channel Reference,0.1,50,Sinkhorn,confirmatory,5,200,0.025
+Missing Cross-Channel Reference,0.1,100,C2ST-Linear,posthoc_harmonized_n100,1,200,0.005
+Missing Cross-Channel Reference,0.1,100,C2ST-RBF,posthoc_harmonized_n100,0,200,0.0
+Missing Cross-Channel Reference,0.1,100,Energy,posthoc_harmonized_n100,28,200,0.14
+Missing Cross-Channel Reference,0.1,100,MMD,posthoc_harmonized_n100,28,200,0.14
+Missing Cross-Channel Reference,0.1,100,Sinkhorn,posthoc_harmonized_n100,28,200,0.14
+Missing Cross-Channel Reference,0.1,200,C2ST-Linear,confirmatory,9,200,0.045
+Missing Cross-Channel Reference,0.1,200,C2ST-RBF,confirmatory,6,200,0.03
+Missing Cross-Channel Reference,0.1,200,Energy,confirmatory,108,200,0.54
+Missing Cross-Channel Reference,0.1,200,MMD,confirmatory,107,200,0.535
+Missing Cross-Channel Reference,0.1,200,Sinkhorn,confirmatory,121,200,0.605
+Missing Cross-Channel Reference,0.3,50,C2ST-Linear,confirmatory,7,200,0.035
+Missing Cross-Channel Reference,0.3,50,C2ST-RBF,confirmatory,3,200,0.015
+Missing Cross-Channel Reference,0.3,50,Energy,confirmatory,38,200,0.19
+Missing Cross-Channel Reference,0.3,50,MMD,confirmatory,40,200,0.2
+Missing Cross-Channel Reference,0.3,50,Sinkhorn,confirmatory,17,200,0.085
+Missing Cross-Channel Reference,0.3,100,C2ST-Linear,posthoc_harmonized_n100,25,200,0.125
+Missing Cross-Channel Reference,0.3,100,C2ST-RBF,posthoc_harmonized_n100,25,200,0.125
+Missing Cross-Channel Reference,0.3,100,Energy,posthoc_harmonized_n100,110,200,0.55
+Missing Cross-Channel Reference,0.3,100,MMD,posthoc_harmonized_n100,112,200,0.56
+Missing Cross-Channel Reference,0.3,100,Sinkhorn,posthoc_harmonized_n100,60,200,0.3
+Missing Cross-Channel Reference,0.3,200,C2ST-Linear,confirmatory,63,200,0.315
+Missing Cross-Channel Reference,0.3,200,C2ST-RBF,confirmatory,78,200,0.39
+Missing Cross-Channel Reference,0.3,200,Energy,confirmatory,200,200,1.0
+Missing Cross-Channel Reference,0.3,200,MMD,confirmatory,200,200,1.0
+Missing Cross-Channel Reference,0.3,200,Sinkhorn,confirmatory,178,200,0.89
+Missing Cross-Channel Reference,0.6,50,C2ST-Linear,confirmatory,42,200,0.21
+Missing Cross-Channel Reference,0.6,50,C2ST-RBF,confirmatory,34,200,0.17
+Missing Cross-Channel Reference,0.6,50,Energy,confirmatory,142,200,0.71
+Missing Cross-Channel Reference,0.6,50,MMD,confirmatory,143,200,0.715
+Missing Cross-Channel Reference,0.6,50,Sinkhorn,confirmatory,49,200,0.245
+Missing Cross-Channel Reference,0.6,100,C2ST-Linear,posthoc_harmonized_n100,101,200,0.505
+Missing Cross-Channel Reference,0.6,100,C2ST-RBF,posthoc_harmonized_n100,94,200,0.47
+Missing Cross-Channel Reference,0.6,100,Energy,posthoc_harmonized_n100,199,200,0.995
+Missing Cross-Channel Reference,0.6,100,MMD,posthoc_harmonized_n100,199,200,0.995
+Missing Cross-Channel Reference,0.6,100,Sinkhorn,posthoc_harmonized_n100,144,200,0.72
+Missing Cross-Channel Reference,0.6,200,C2ST-Linear,confirmatory,161,200,0.805
+Missing Cross-Channel Reference,0.6,200,C2ST-RBF,confirmatory,184,200,0.92
+Missing Cross-Channel Reference,0.6,200,Energy,confirmatory,200,200,1.0
+Missing Cross-Channel Reference,0.6,200,MMD,confirmatory,200,200,1.0
+Missing Cross-Channel Reference,0.6,200,Sinkhorn,confirmatory,200,200,1.0
+Over-Polished Language,0.1,50,Energy,confirmatory,39,200,0.195
+Over-Polished Language,0.1,50,MMD,confirmatory,38,200,0.19
+Over-Polished Language,0.1,50,Sinkhorn,confirmatory,2,200,0.01
+Over-Polished Language,0.1,100,C2ST-Linear,posthoc_harmonized_n100,0,200,0.0
+Over-Polished Language,0.1,100,C2ST-RBF,posthoc_harmonized_n100,1,200,0.005
+Over-Polished Language,0.1,100,Energy,posthoc_harmonized_n100,174,200,0.87
+Over-Polished Language,0.1,100,MMD,posthoc_harmonized_n100,177,200,0.885
+Over-Polished Language,0.1,100,Sinkhorn,posthoc_harmonized_n100,15,200,0.075
+Over-Polished Language,0.1,200,C2ST-Linear,confirmatory,11,200,0.055
+Over-Polished Language,0.1,200,C2ST-RBF,confirmatory,4,200,0.02
+Over-Polished Language,0.1,200,Energy,confirmatory,200,200,1.0
+Over-Polished Language,0.1,200,MMD,confirmatory,200,200,1.0
+Over-Polished Language,0.1,200,Sinkhorn,confirmatory,92,200,0.46
+Over-Polished Language,0.3,50,C2ST-Linear,confirmatory,5,200,0.025
+Over-Polished Language,0.3,50,C2ST-RBF,confirmatory,0,200,0.0
+Over-Polished Language,0.3,50,Energy,confirmatory,195,200,0.975
+Over-Polished Language,0.3,50,MMD,confirmatory,195,200,0.975
+Over-Polished Language,0.3,100,C2ST-Linear,posthoc_harmonized_n100,56,200,0.28
+Over-Polished Language,0.3,100,C2ST-RBF,posthoc_harmonized_n100,27,200,0.135
+Over-Polished Language,0.3,100,Energy,posthoc_harmonized_n100,200,200,1.0
+Over-Polished Language,0.3,100,MMD,posthoc_harmonized_n100,200,200,1.0
+Over-Polished Language,0.3,100,Sinkhorn,posthoc_harmonized_n100,6,200,0.03
+Over-Polished Language,0.3,200,C2ST-Linear,confirmatory,169,200,0.845
+Over-Polished Language,0.3,200,C2ST-RBF,confirmatory,136,200,0.68
+Over-Polished Language,0.3,200,Sinkhorn,confirmatory,1,200,0.005
+Over-Polished Language,0.6,50,C2ST-Linear,confirmatory,66,200,0.33
+Over-Polished Language,0.6,50,C2ST-RBF,confirmatory,47,200,0.235
+Over-Polished Language,0.6,50,Energy,confirmatory,200,200,1.0
+Over-Polished Language,0.6,50,MMD,confirmatory,200,200,1.0
+Over-Polished Language,0.6,100,C2ST-Linear,posthoc_harmonized_n100,186,200,0.93
+Over-Polished Language,0.6,100,C2ST-RBF,posthoc_harmonized_n100,150,200,0.75
+Over-Polished Language,0.6,100,Energy,posthoc_harmonized_n100,200,200,1.0
+Over-Polished Language,0.6,100,MMD,posthoc_harmonized_n100,200,200,1.0
+Over-Polished Language,0.6,100,Sinkhorn,posthoc_harmonized_n100,4,200,0.02
+Over-Polished Language,0.6,200,C2ST-Linear,confirmatory,200,200,1.0
+Over-Polished Language,0.6,200,C2ST-RBF,confirmatory,199,200,0.995
+Over-Polished Language,0.6,200,Sinkhorn,confirmatory,31,200,0.155
+Template Repetition,0.1,50,C2ST-Linear,confirmatory,7,200,0.035
+Template Repetition,0.1,50,C2ST-RBF,confirmatory,8,200,0.04
+Template Repetition,0.1,50,Energy,confirmatory,74,200,0.37
+Template Repetition,0.1,50,MMD,confirmatory,76,200,0.38
+Template Repetition,0.1,50,Sinkhorn,confirmatory,73,200,0.365
+Template Repetition,0.1,100,C2ST-Linear,posthoc_harmonized_n100,79,200,0.395
+Template Repetition,0.1,100,C2ST-RBF,posthoc_harmonized_n100,106,200,0.53
+Template Repetition,0.1,100,Energy,posthoc_harmonized_n100,188,200,0.94
+Template Repetition,0.1,100,MMD,posthoc_harmonized_n100,189,200,0.945
+Template Repetition,0.1,100,Sinkhorn,posthoc_harmonized_n100,190,200,0.95
+Template Repetition,0.1,200,C2ST-Linear,confirmatory,193,200,0.965
+Template Repetition,0.1,200,C2ST-RBF,confirmatory,195,200,0.975
+Template Repetition,0.1,200,Energy,confirmatory,200,200,1.0
+Template Repetition,0.1,200,MMD,confirmatory,200,200,1.0
+Template Repetition,0.1,200,Sinkhorn,confirmatory,200,200,1.0
+Template Repetition,0.3,50,C2ST-Linear,confirmatory,172,200,0.86
+Template Repetition,0.3,50,C2ST-RBF,confirmatory,174,200,0.87
+Template Repetition,0.3,50,Energy,confirmatory,200,200,1.0
+Template Repetition,0.3,50,MMD,confirmatory,200,200,1.0
+Template Repetition,0.3,50,Sinkhorn,confirmatory,200,200,1.0
+Template Repetition,0.3,100,C2ST-Linear,posthoc_harmonized_n100,199,200,0.995
+Template Repetition,0.3,100,C2ST-RBF,posthoc_harmonized_n100,199,200,0.995
+Template Repetition,0.3,100,Energy,posthoc_harmonized_n100,200,200,1.0
+Template Repetition,0.3,100,MMD,posthoc_harmonized_n100,200,200,1.0
+Template Repetition,0.3,100,Sinkhorn,posthoc_harmonized_n100,200,200,1.0
+Template Repetition,0.6,50,C2ST-Linear,confirmatory,200,200,1.0
+Template Repetition,0.6,50,C2ST-RBF,confirmatory,200,200,1.0
+Template Repetition,0.6,50,Energy,confirmatory,200,200,1.0
+Template Repetition,0.6,50,MMD,confirmatory,200,200,1.0
+Template Repetition,0.6,50,Sinkhorn,confirmatory,200,200,1.0
+Template Repetition,0.6,100,C2ST-Linear,posthoc_harmonized_n100,200,200,1.0
+Template Repetition,0.6,100,C2ST-RBF,posthoc_harmonized_n100,200,200,1.0
+Template Repetition,0.6,100,Energy,posthoc_harmonized_n100,200,200,1.0
+Template Repetition,0.6,100,MMD,posthoc_harmonized_n100,200,200,1.0
+Template Repetition,0.6,100,Sinkhorn,posthoc_harmonized_n100,200,200,1.0
