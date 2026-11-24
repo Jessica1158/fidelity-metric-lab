@@ -1,0 +1,5 @@
+scenario,N,test_a,test_b,p_value
+Entity Inconsistency,200,C2ST-Linear,MMD,2.4892061111444567e-60
+Entity Inconsistency,200,C2ST-RBF,MMD,2.4892061111444567e-60
+Over-Polished Language,200,C2ST-Linear,MMD,2.548947057811924e-57
+Broken Timing,200,C2ST-Linear,MMD,1.8367099231598238e-40
